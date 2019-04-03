@@ -4,8 +4,8 @@ title: UCSB Library Software Carpentry Workshops
 
 ## Upcoming Workshops:
 
-  - ### [April 11 2019 Bash, Git & "R" Workshop](https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop//)
-  - ### [May 9-10, 2019 Bash, Git & Python Workshop](https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/)
+  - ### [April 11-12, 2019 -- Bash, Git & "R" Workshop](https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop//)
+  - ### [May 9-10, 2019 -- Bash, Git & Python Workshop](https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/)
 
 ----
 
