@@ -5,6 +5,15 @@ title: UCSB Library Software Carpentry Workshops
 ## Upcoming Workshops:
 
   - ### [Tuesdays starting April 19, 2019 -- R for Reproducible Research](https://ucsbcarpentry.github.io/2019-spring-R-tuesdays/)
+  Meeting from 9:30 - 11:00 on Tuesdays, we will learn R and R-Studio using the Software Carpentry Lessons.  Each Tuesday we'll cover one or two of the lessons listed.
+
+| Date | Lesson(s) |
+|------|--------|
+| April 16 | [Introduction to R and RStudio] & [Project Management With RStudio] |
+
+[Introduction to R and RStudio]: https://ucsbcarpentry.github.io/2019-spring-R-tuesdays/01-rstudio-intro/index.html
+[Project Management With RStudio]: https://ucsbcarpentry.github.io/2019-spring-R-tuesdays/02-project-intro/index.html
+
   - ### [May 9-10, 2019 -- Bash, Git & Python Workshop](https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/)
 
 ----
