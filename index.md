@@ -1,5 +1,6 @@
 ---
 title: UCSB Library Software Carpentry Workshops
+layout: default
 ---
 
 ## Upcoming Workshops:

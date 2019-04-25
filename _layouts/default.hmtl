@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/ucsb.css">
+  </head>
+  <body>
+
+<!-- Header -->
+<div class="header">
+  <!-- Eyebrow -->
+  <div class="eyebrow">
+    <div class="container">
+      <a class="ucsb-lockup" href="https://ucsb.edu/">University of California, Santa Barbara</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-wrapper" aria-controls="nav-wrapper" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div> <!-- close container -->
+  </div> <!-- close eyebrow -->
+</div><!-- close header -->
+
+
+    <div class="container">
+<section class="mt-5">
+  {{ content }}
+</section>
+</div><!-- close container -->
+<footer>
+
+</footer>
+</body>
+</html>
