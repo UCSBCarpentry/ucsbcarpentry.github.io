@@ -7,7 +7,7 @@ layout: default
 
   - ### [May 9-10, 2019 -- Bash, Git & Python Workshop](https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/)
 
-  - ### [Tuesdays starting June 24, 2019 -- R for Reproducible Research](https://ucsbcarpentry.github.io/2019-spring-R-tuesdays/)
+  - ### [Tuesdays starting June 24, 2019 -- R for Reproducible Research](https://ucsbcarpentry.github.io/2019-summer-R-tuesdays/)
   Meeting from 9:30 - 11:00 on Tuesdays, we will learn R and R-Studio using the Software Carpentry Lessons.  
   Each Tuesday we'll cover one or two of the lessons listed. (Enrollment limit: 20)
 
