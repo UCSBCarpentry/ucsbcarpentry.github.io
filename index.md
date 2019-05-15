@@ -6,7 +6,7 @@ layout: default
 ## Upcoming Workshops:
 
 
-  - ### [Tuesdays starting June 24, 2019 -- Python](http://swcarpentry.github.io/python-novice-gapminder/)
+  - ### [Tuesdays starting June 25, 2019 -- Python](http://swcarpentry.github.io/python-novice-gapminder/)
   Meeting from 9:30 - 11:00 on Tuesdays, we will learn Plotting and Programming in Python using the Software Carpentry Lessons.  
 
   Each Tuesday we'll cover one or two of the lessons listed. (Enrollment limit: 20)
