@@ -1,6 +1,5 @@
 ---
 title: UCSB Library Software Carpentry Workshops
-layout: default
 ---
 
 ## Upcoming Workshops:
@@ -11,7 +10,7 @@ layout: default
 
   Each Tuesday we'll cover one or two of the lessons listed. (Enrollment limit: 20)
 
-
+## [Instuctors' pages](instructors)
 
 
 
