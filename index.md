@@ -10,7 +10,7 @@ title: UCSB Library Software Carpentry Workshops
 
   Each Tuesday we'll cover one or two of the lessons listed. (Enrollment limit: 20)
 
-## [Instuctors' pages](instructors)
+## [Instuctors' pages](https://ucsbcarpentry.github.io/instructors/)
 
 
 
