@@ -5,10 +5,9 @@ title: UCSB Library Software Carpentry Workshops
 ## Upcoming Workshops:
 
 
-  - ### [Tuesdays starting June 25, 2019 -- Python](http://swcarpentry.github.io/python-novice-gapminder/)
+  - ### [Tuesdays starting June 25, 2019 -- Python](https://ucsbcarpentry.github.io/2019-summer/)
   Meeting from 9:30 - 11:00 on Tuesdays, we will learn Plotting and Programming in Python using the Software Carpentry Lessons.  
 
-  Each Tuesday we'll cover one or two of the lessons listed. (Enrollment limit: 20)
 
 ## [Instuctors' pages](https://ucsbcarpentry.github.io/instructors/)
 
