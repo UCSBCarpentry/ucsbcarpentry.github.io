@@ -5,12 +5,8 @@ title: UCSB Library Software Carpentry Workshops
 ## Upcoming Workshops:
 
 
-  - ### [Tuesdays starting June 25, 2019 -- Python](https://ucsbcarpentry.github.io/2019-summer/)
+  - ### ![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y) [Tuesdays starting June 25, 2019 -- Python](https://ucsbcarpentry.github.io/2019-summer/)
   Meeting from 9:30 - 11:00 on Tuesdays, we will learn Plotting and Programming in Python using the Software Carpentry Lessons.  
-
-
-## [Instuctors' pages](https://ucsbcarpentry.github.io/instructors/)
-
 
 
 ----
@@ -22,3 +18,7 @@ title: UCSB Library Software Carpentry Workshops
   - ##### [Feb 21-22 2019 Workshop](https://ucsbcarpentry.github.io/2019-02-21-UCSBLibrary/)
   - ##### [March 21-22 2019 Workshop](https://ucsbcarpentry.github.io/2019-03-21-UCSBLibrary/)
   - ##### [April 15, 2016 Workshop](http://remi-daigle.github.io/2016-04-15-UCSB/overview/)
+
+----
+
+#### [Instuctors' pages](https://ucsbcarpentry.github.io/instructors/)
