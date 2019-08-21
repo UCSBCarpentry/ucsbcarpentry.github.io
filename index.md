@@ -4,9 +4,8 @@ title: UCSB Library Software Carpentry Workshops
 
 ## Summer Workshops:
 
-
 ### ![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y) [Tuesdays or Thursdays starting June 25, 2019 -- Python](https://ucsbcarpentry.github.io/2019-summer/)
-  Meeting from 9:30 - 11:00 on Tuesdays or Thursdays (2 sections), we will learn Plotting and Programming in Python using the Software Carpentry Lessons.  
+Meeting from 9:30 - 11:00 on Tuesdays or Thursdays (2 sections), we will learn Plotting and Programming in Python using the Software Carpentry Lessons.  We are sharing videos of these workshops so that Learners can keep up if they go on vacation.
 
 
 ----
