@@ -12,7 +12,7 @@ title: UCSB Library Software Carpentry Workshops
 ## Python -
 
   - ### October 10, 11, 17, 18
-  - #### [Plotting and Programming in Python](https://github.com/UCSBCarpentry/2019-10-10-Python-UCSB)
+  - #### [Plotting and Programming in Python](https://ucsbcarpentry.github.io/2019-10-10-Python-UCSB/)
   - #### This lesson is an introduction to programming in Python for people with little or no previous programming experience. It uses plotting as its motivating example.
 
 ----
