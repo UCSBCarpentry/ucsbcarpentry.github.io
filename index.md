@@ -19,7 +19,7 @@ title: UCSB Library Software Carpentry Workshops
 
 ## Git & Bash
 
-  - Oct 24 & 31
+  - ### Oct 24 & 31
 
 
 ----
@@ -27,8 +27,8 @@ title: UCSB Library Software Carpentry Workshops
 
 ## Geospatial / R
 
-  - November 14, 15, 21, 22
-  - [R for Geospatial Data](https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/)
+  - ### November 14, 15, 21, 22
+  - ### [R for Geospatial Data](https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/)
 
 
 
