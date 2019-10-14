@@ -20,7 +20,8 @@ title: UCSB Library Software Carpentry Workshops
 ## Git & Bash
 
   - ### Oct 24 & 31
-
+  - ### [Gitbash](https://ucsbcarpentry.github.io/2019-10-24-gitbash/)
+ 
 
 ----
 
