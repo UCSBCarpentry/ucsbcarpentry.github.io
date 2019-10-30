@@ -9,26 +9,15 @@ title: UCSB Library Software Carpentry Workshops
 
 ----
 
-## Python -
-
-  - ### October 10, 11, 17, 18
-  - #### [Plotting and Programming in Python](https://ucsbcarpentry.github.io/2019-10-10-Python-UCSB/)
-  - #### This lesson is an introduction to programming in Python for people with little or no previous programming experience. It uses plotting as its motivating example.
-
-----
-
-## Git & Bash
-
-  - ### Oct 24 & 31
-  - ### [Gitbash](https://ucsbcarpentry.github.io/2019-10-24-gitbash/)
+## Git & Bash Oct 24 & 31
+  - ### [Git and bash](https://ucsbcarpentry.github.io/2019-10-24-gitbash/)
+  - #### command line with the Bash shell and Version Control with Git and Github
  
 
 ----
 
 
-## Geospatial / R
-
-  - ### November 14, 15, 21, 22
+## Geospatial / R - November 14, 15, 21, 22
   - ### [R for Geospatial Data](https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/)
 
 
@@ -36,6 +25,7 @@ title: UCSB Library Software Carpentry Workshops
 ----
 
 ### Past Workshops:
+  - #### [Plotting and Programming in Python](https://ucsbcarpentry.github.io/2019-10-10-Python-UCSB/)
   - ##### [June 25 through Sept 12, 2019 Summer Python class](https://ucsbcarpentry.github.io/2019-summer/)
   - ##### [May 9-10, 2019 -- Bash, Git & Python Workshop](https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/)
   - ##### [April 11-12, 2019 -- Bash, Git & "R" Workshop](https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop//)
