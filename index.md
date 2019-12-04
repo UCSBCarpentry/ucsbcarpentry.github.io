@@ -8,14 +8,13 @@ title: UCSB Library Software Carpentry Workshops
 
 ---
 
-## Geospatial / R - November 14, 15, 21, 22
-
-- ### [R for Geospatial Data](https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/)
+Winter 2020 workshops coming soon.
 
 ---
 
 ### Past Workshops:
 
+- ##### [Nov 14-22, 2019 R for Geospatial Data](https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/)
 - ##### [Oct 24 & 31 2019 Git and bash](https://ucsbcarpentry.github.io/2019-10-24-gitbash/)
 - ##### [Fall 2019 Plotting and Programming in Python](https://ucsbcarpentry.github.io/2019-10-10-Python-UCSB/)
 - ##### [June 25 through Sept 12, 2019 Summer Python class](https://ucsbcarpentry.github.io/2019-summer/)
