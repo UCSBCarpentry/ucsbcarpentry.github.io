@@ -4,7 +4,7 @@ title: UCSB Library Software Carpentry Workshops
 
 ![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y)
 
-## Winter Carpentry Workshops for 202020:
+## Winter Carpentry Workshops for 2020:
 
 ---
 - #### [January 17, Introduction to the Unix Shell](https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash)
