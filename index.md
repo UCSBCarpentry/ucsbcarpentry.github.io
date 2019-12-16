@@ -8,7 +8,10 @@ title: UCSB Library Software Carpentry Workshops
 
 ---
 
-Winter 2020 workshops coming soon.
+Winter 2020 workshops:
+- #### [January 17, Introduction to the Unix Shell](https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash)
+- #### [January 17, Version Control with Git](https://ucsbcarpentry.github.io/2020-01-17-UCSB-git/)
+- #### [January 31, Relational Databases]TBA
 
 ---
 
