@@ -4,15 +4,18 @@ title: UCSB Library Software Carpentry Workshops
 
 ![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y)
 
-## Winter Carpentry Workshops for 2020:
+## Spring Carpentry Workshops for 2020:
+
+- ### R (date TBD)
+- ### Library Carpentry (date TBD)
 
 ---
-- #### [January 31, Databases and SQL](https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL)
 
 ---
 
 ### Past Workshops:
 
+- ##### [January 31, Databases and SQL](https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL)
 - ##### [January 17, Introduction to the Unix Shell](https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash)
 - ##### [January 17, Version Control with Git](https://ucsbcarpentry.github.io/2020-01-17-UCSB-git/)
 - ##### [Nov 14-22, 2019 R for Geospatial Data](https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/)
