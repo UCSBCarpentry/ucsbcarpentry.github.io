@@ -1,10 +1,10 @@
 ---
-title: UCSB Library Software Carpentry Workshops
+title: UCSB Library Carpentry Workshops
 ---
 
 ![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y)
 
-## Spring Carpentry Workshops for 2020:
+## Spring Workshops for 2020:
 
 - ### [May 22nd & May 29th, R Basics](https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/)
 - ### Library Carpentry (date TBD)
