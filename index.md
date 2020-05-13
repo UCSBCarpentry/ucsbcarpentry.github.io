@@ -7,7 +7,7 @@ title: UCSB Library Carpentry Workshops
 ## Spring Workshops for 2020:
 
 - ### [May 22nd & May 29th, R Basics](https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/) *Registration closed
-- ### [June 3rd, 10th, & 17th, Library] Carpentry(https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp) *Registration open
+- ### [June 3rd, 10th, & 17th, Library Carpentry] (https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp) *Registration open
 
 ---
 
