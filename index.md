@@ -4,16 +4,14 @@ title: UCSB Library Carpentry Workshops
 
 ![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y)
 
-## Spring Workshops for 2020:
+## Summer Workshops for 2020:
 
-- ### [June 3rd, 10th, & 17th, Library Carpentry](https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp) *Registration closed
-
----
+Summer schedule is under development
 
 ---
 
 ### Past Workshops:
-
+- ##### [June 3rd, 10th, & 17th, Library Carpentry](https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp)
 - ##### [May 22nd & May 29th, 2020 -- R Basics](https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/)
 - ##### [January 31, 2020 -- Databases and SQL](https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL)
 - ##### [January 17, 2020 -- Introduction to the Unix Shell](https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash)
