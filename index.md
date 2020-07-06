@@ -42,4 +42,4 @@ pending but these dates are set, so mark your calendars!
 
 ---
 
-#### [Instuctors' pages](https://ucsbcarpentry.github.io/instructors/)
+#### [Instructors' pages](https://ucsbcarpentry.github.io/instructors/)
