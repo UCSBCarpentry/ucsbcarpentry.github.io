@@ -6,20 +6,20 @@ title: UCSB Library Carpentry Workshops
 
 ## Summer Workshops for 2020:
 
-Summer Data Carpentry Series:
+### Summer Data Carpentry Series:
 
 We will be holding a series of workshops through Session B of Summer 
 Quarter. Between Aug. 11 - 13th, we will be hosting git/bash, and 
 afterwards, split into Python and R workshops. Registration link is 
-pending. 
+pending but these dates are set, so mark your calendars!   
 
  
-- August 11th & 12th: Version Control with Git
-- August 12th & 13th: Introduction to Bash-shell
-- August 17th - September 1st: R programming 
-- August 19th - Sepember 3rd: Introduction to Python
+- #### August 11th & 12th: Version Control with Git
+- #### August 12th & 13th: Introduction to Bash-shell
+- #### August 17th - September 1st: R programming 
+- #### August 19th - Sepember 3rd: Introduction to Python
 
-Library Carpentry with OpenRefine: TBD 
+#### Library Carpentry with OpenRefine: TBD 
 
 ---
 
