@@ -2,7 +2,7 @@
 title: UCSB Library Carpentry Workshops
 ---
 
-! [Carpentry Banner] (https://github.com/UCSBCarpentry/ucsbcarpentry.github.io/blob/master/fig/ucsb-github-banner-1.png)
+![Carpentry Banner] (fig/ucsb-github-banner-1.png)
 
 ![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y)
 
