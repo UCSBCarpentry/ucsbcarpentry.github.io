@@ -3,7 +3,7 @@ title: UCSB Library Carpentry Workshops
 ---
 
 
-![carpentry logo](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/summer_software_carp_logo.png?itok=YiVJFS2y)
+![carpentry logo](fig/ucsb-github-banner-1.png)
 
 ## Summer Workshops for 2020:
 
