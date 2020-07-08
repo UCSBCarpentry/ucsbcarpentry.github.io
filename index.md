@@ -15,9 +15,10 @@ afterwards, split into Python and R workshops. Registration link is
 pending but these dates are set, so mark your calendars!   
 
  
-- #### August 11th - 13th: Introduction to Bash-Shell and Version Control with Git
+- #### August 11th - 12th: Introduction to Bash-Shell
+- #### August 12th - 13th: Version Control with Git
 - #### August 17th - September 1st: R programming 
-- #### August 19th - Sepember 3rd: Introduction to Python
+- #### August 19th - September 3rd: Introduction to Python
 
 #### Library Carpentry with OpenRefine: TBD 
 
