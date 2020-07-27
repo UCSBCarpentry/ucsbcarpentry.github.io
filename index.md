@@ -5,17 +5,15 @@ title: UCSB Library Carpentry Workshops
 
 ![carpentry logo](fig/ucsb-github-banner-1.png)
 
-## Summer Workshops for 2020:
-
-### Summer Data Carpentry Series:
+## Summer Data Carpentry Series:
 
 We will be holding a series of workshops through Session B of Summer 
-Quarter. Between Aug. 11 - 13th, we will be hosting git/bash, and 
-afterwards, split into Python and R workshops.   
+Quarter. Between Aug. 11 - 14th, we will be hosting Bash and Git.  
+Afterwards, we will split into Python and R workshops. 
 
 - #### [Register for both of these workshops at the same site!](https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/)
--- ##### August 11th - 12th: Introduction to Bash-Shell
--- ##### August 13th - 14th: Version Control with Git
+-- August 11th - 12th: Introduction to Bash-Shell
+-- August 13th - 14th: Version Control with Git
 
 - #### [August 17th - September 1st: R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
 - #### [August 19th - September 3rd: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
