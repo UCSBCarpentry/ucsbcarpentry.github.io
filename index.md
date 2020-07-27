@@ -11,8 +11,7 @@ title: UCSB Library Carpentry Workshops
 
 We will be holding a series of workshops through Session B of Summer 
 Quarter. Between Aug. 11 - 13th, we will be hosting git/bash, and 
-afterwards, split into Python and R workshops. Registration link is 
-pending but these dates are set, so mark your calendars!   
+afterwards, split into Python and R workshops.   
 
  
 - #### August 11th - 12th: Introduction to Bash-Shell
@@ -20,6 +19,9 @@ pending but these dates are set, so mark your calendars!
 - #### [August 17th - September 1st: R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
 - #### [August 19th - September 3rd: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
 
+### Fall Quarter 2021
+
+- #### OpenRefine Library Carpentry: TBD
 
 ---
 
