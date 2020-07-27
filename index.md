@@ -17,10 +17,9 @@ pending but these dates are set, so mark your calendars!
  
 - #### August 11th - 12th: Introduction to Bash-Shell
 - #### August 12th - 13th: Version Control with Git
-- #### August 17th - September 1st: R programming 
-- #### August 19th - September 3rd: Introduction to Python
+- #### [August 17th - September 1st: R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
+- #### [August 19th - September 3rd: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
 
-#### Library Carpentry with OpenRefine: TBD 
 
 ---
 
