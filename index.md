@@ -21,6 +21,7 @@ Afterwards, we will split into Python and R workshops.
 - #### [August 19, 20, 26, 27, September 2: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
 
 
+
 ## Fall Quarter 2021
 
 - #### OpenRefine Library Carpentry: TBD
