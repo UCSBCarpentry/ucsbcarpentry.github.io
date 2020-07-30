@@ -18,7 +18,7 @@ Afterwards, we will split into Python and R workshops.
     August 12th - 13th: Version Control with Git
 
 - #### [August 17, 18, 24, 25, September 1: R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
-- #### [August 19, 20, 26, 27, September 2: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
+- #### [August 19, 20, 26, 27, September 2: Introduction to Python *Waitlist spots available*](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
 
 
 
