@@ -22,9 +22,10 @@ Afterwards, we will split into Python and R workshops.
 
 
 
-## Fall Quarter 2021
-
-- #### OpenRefine Library Carpentry: TBD
+## Fall Quarter 2020
+- #### R programming: TBD October
+- #### OpenRefine Library Carpentry: TBD November
+- #### Rmarkdown: TBD December
 
 ---
 
