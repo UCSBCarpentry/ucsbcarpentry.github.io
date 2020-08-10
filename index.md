@@ -13,12 +13,12 @@ Afterwards, we will split into Python and R workshops.
 
 - #### [Register for Bash and Git on the same site!](https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/)
 
-    August 10th - 11th: Introduction to Bash-Shell
+    August 10th - 11th: Introduction to Bash-Shell **registration closed*
     
-    August 12th - 13th: Version Control with Git
+    August 12th - 13th: Version Control with Git **waitlist available*
 
-- #### [August 17, 18, 24, 25, September 1: R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
-- #### [August 19, 20, 26, 27, September 2: Introduction to Python *Waitlist spots available*](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
+- #### [August 17, 18, 24, 25, September 1: R programming **waitlist spots available*](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
+- #### [August 19, 20, 26, 27, September 2: Introduction to Python **full*](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
 
 
 
