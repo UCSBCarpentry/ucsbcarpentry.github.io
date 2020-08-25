@@ -4,7 +4,7 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/ucsb-github-banner-1.png)
 
 
-## Fall Quarter 2020
+### Fall Quarter 2020
 - ### R programming: TBD October
 - ### OpenRefine Library Carpentry: Monday-Tuesday, November 9-10, 2020
 - ### Rmarkdown: TBD December
@@ -13,9 +13,9 @@ title: UCSB Library Carpentry Workshops
 
 ### Past Workshops:
 
-- ##### [Bash and Git, August 10-13](https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/)
+- ##### [August 19, 20, 26, 27, September 2: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python
 - ##### [August 17, 18, 24, 25, September 1: R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
-- ##### [August 19, 20, 26, 27, September 2: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
+- ##### [Bash and Git, August 10-13](https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/)
 - ##### [June 3rd, 10th, & 17th, Library Carpentry](https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp)
 - ##### [May 22nd & May 29th, 2020 -- R Basics](https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/)
 - ##### [January 31, 2020 -- Databases and SQL](https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL)
