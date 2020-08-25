@@ -13,7 +13,7 @@ title: UCSB Library Carpentry Workshops
 
 ### Past Workshops:
 
-- ##### [August 19, 20, 26, 27, September 2: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python
+- ##### [August 19, 20, 26, 27, September 2: Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
 - ##### [August 17, 18, 24, 25, September 1: R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
 - ##### [Bash and Git, August 10-13](https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/)
 - ##### [June 3rd, 10th, & 17th, Library Carpentry](https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp)
