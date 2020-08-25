@@ -1,7 +1,7 @@
 ---
 title: UCSB Library Carpentry Workshops
 ---
-![carpentry logo](fig/ucsb-github-banner-1.png)
+![carpentry logo](fig/ucsb-github-banner-2.png)
 
 
 ### Fall Quarter 2020
