@@ -5,7 +5,7 @@ title: UCSB Library Carpentry Workshops
 
 
 ### Fall Quarter 2020
-- ### October 9, 16, & 23, 2020: R programming for Scientific Reproducibility
+- ### [October 9, 16, & 23, 2020: R programming for Scientific Reproducibility](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/)
 - ### Nov 9-10, 2020: OpenRefine Library Carpentry
 - ### Rmarkdown: TBD December
 
