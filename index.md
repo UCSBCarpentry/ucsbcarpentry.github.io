@@ -7,7 +7,7 @@ title: UCSB Library Carpentry Workshops
 ### Fall Quarter 2020
 
 - ### [Nov 9-10, 2020: OpenRefine Library Carpentry](https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/)
-- ### Dec 16-17, 2020: Introduction to Rmarkdown
+- ### [Dec 16-17, 2020: Introduction to Rmarkdown](https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/)
 
 ---
 
