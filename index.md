@@ -4,20 +4,15 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/ucsb-github-banner-2.png)
 
 
-### Fall Quarter 2020
-
-
-- ### [Dec 16-17, 2020: Authoring Scientific Publications with R-Markdown](https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/)
-
 ### Winter Quarter 2021
 - ### January 21: Intro to Bash Shell
 - ### January 22: Intro to Version Control with Git
-- ### Tentative: February 18-19: Data Carpentry: Programming in Python
+- ### February 18-19: Data Carpentry: Programming in Python
 ---
 
 ### Past Workshops:
 
-
+- ##### [Dec 16-17, 2020: Authoring Scientific Publications with R-Markdown](https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/)
 - ##### [November 9-10, 2020: OpenRefine Libary Carpentry](https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/)
 - ##### [October 9, 16, & 23, 2020: R programming for Scientific Reproducibility](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/)
 - ##### [August 19, 20, 26, 27, September 2, 2020 -- Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
