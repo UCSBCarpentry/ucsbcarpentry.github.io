@@ -7,7 +7,7 @@ title: UCSB Library Carpentry Workshops
 ### Winter Quarter 2021
 - ### [January 21: Intro to Bash Shell](https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/)
 - ### [January 22: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/)
-- ### February 18-19: Data Carpentry: Programming in Python
+- ### [February 18-19: Data Carpentry: Ecology with Python](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
 ---
 
 ### Past Workshops:
