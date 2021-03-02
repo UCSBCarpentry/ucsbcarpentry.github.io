@@ -4,14 +4,15 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/ucsb-github-banner-2.png)
 
 
-### Winter Quarter 2021
-- ### [January 21: Intro to Bash Shell](https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/)
-- ### [January 22: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/)
-- ### [February 18-19: Data Carpentry: Ecology with Python](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
+### Spring Quarter 2021
+- ### COming Soon! 
 ---
 
 ### Past Workshops:
 
+- ##### [February 18-19: Data Carpentry: Ecology with Python](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
+- ##### [January 22: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/)
+- ##### [January 21: Intro to Bash Shell](https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/)
 - ##### [Dec 16-17, 2020: Authoring Scientific Publications with R-Markdown](https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/)
 - ##### [November 9-10, 2020: OpenRefine Libary Carpentry](https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/)
 - ##### [October 9, 16, & 23, 2020: R programming for Scientific Reproducibility](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/)
@@ -37,3 +38,4 @@ title: UCSB Library Carpentry Workshops
 ---
 
 #### [Instructors' pages](https://ucsbcarpentry.github.io/instructors/)
+
