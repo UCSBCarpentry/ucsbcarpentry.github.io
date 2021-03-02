@@ -5,7 +5,7 @@ title: UCSB Library Carpentry Workshops
 
 
 ### Spring Quarter 2021
-- ### COming Soon! 
+- ### Coming Soon! 
 ---
 
 ### Past Workshops:
