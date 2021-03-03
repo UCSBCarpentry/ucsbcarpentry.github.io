@@ -5,7 +5,10 @@ title: UCSB Library Carpentry Workshops
 
 
 ### Spring Quarter 2021
-- ### Coming Soon! 
+- ### April 16-23, 2021: Library Carpentry for Humanists and Social Scientists
+- ### May 6-7, 2021: Intro to R
+- ### May 13-14, 2021: R for Geospatial
+- ### TBD Authoring Scientific Publications with R-Markdown (Back by popular demand!)  
 ---
 
 ### Past Workshops:
