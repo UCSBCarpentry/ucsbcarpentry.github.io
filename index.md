@@ -5,7 +5,7 @@ title: UCSB Library Carpentry Workshops
 
 
 ### Spring Quarter 2021
-- ### April 16-23, 2021: UC Merced Library Carpentry for Humanists and Social Scientists
+- ### April 16, 23, & 30, 2021: UC Merced Library Carpentry for Humanists and Social Scientists
 - ### May 6-7, 2021: Intro to R
 - ### May 13-14, 2021: R for Geospatial
 - ### TBD Authoring Scientific Publications with R-Markdown (Back by popular demand!)  
