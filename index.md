@@ -8,7 +8,7 @@ title: UCSB Library Carpentry Workshops
 - ### [April 16, 23, & 30, 2021: UC Merced Library Carpentry for Humanists and Social Scientists](https://annajiat.github.io/2021-04-16-merced-online/)
 - ### [May 6-7, 2021: Intro to R](https://ucsbcarpentry.github.io/2021-05-06-IntroR/)
 - ### [May 12-14, 2021: R for Geospatial](https://ucsbcarpentry.github.io/2021-05-13-GeospatialR/)
-- ### TBD Authoring Scientific Publications with R-Markdown (Back by popular demand!)  
+- ### TBD Authoring Scientific Publications with R-Markdown (Pushed to Summer 2020)  
 ---
 
 ### Past Workshops:
