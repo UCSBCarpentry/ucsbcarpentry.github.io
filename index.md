@@ -7,15 +7,21 @@ title: UCSB Library Carpentry Workshops
 ### Spring Quarter 2021
 - ### [April 16, 23, & 30, 2021: UC Merced Library Carpentry for Humanists and Social Scientists](https://annajiat.github.io/2021-04-16-merced-online/)
 - ### [May 6-7, 2021: Intro to R](https://ucsbcarpentry.github.io/2021-05-06-IntroR/)
-- ### [May 12-14, 2021: R for Geospatial](https://ucsbcarpentry.github.io/2021-05-13-GeospatialR/)
+(prerequisite for May 12-14 R for GeoSpatial)
+- ### [May 12-14, 2021: R for GeoSpatial](https://ucsbcarpentry.github.io/2021-05-13-GeospatialR/)
 - ### TBD Authoring Scientific Publications with R-Markdown (Pushed to Summer 2020)  
 ---
 
+---
+
+#### [Carpentry Instructors](https://ucsbcarpentry.github.io/instructors/)
+
+
 ### Past Workshops:
 
-- ##### [February 18-19: Data Carpentry: Ecology with Python](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
-- ##### [January 22: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/)
-- ##### [January 21: Intro to Bash Shell](https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/)
+- [February 18-19: Data Carpentry: Ecology with Python](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
+- [January 22: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/)
+- [January 21: Intro to Bash Shell](https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/)
 - ##### [Dec 16-17, 2020: Authoring Scientific Publications with R-Markdown](https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/)
 - ##### [November 9-10, 2020: OpenRefine Libary Carpentry](https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/)
 - ##### [October 9, 16, & 23, 2020: R programming for Scientific Reproducibility](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/)
@@ -38,7 +44,4 @@ title: UCSB Library Carpentry Workshops
 - ##### [Jan 25-26 2019 -- bash, Git and R](https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/)
 - ##### [April 15, 2016 -- R programming language](http://remi-daigle.github.io/2016-04-15-UCSB/overview/)
 
----
-
-#### [Instructors' pages](https://ucsbcarpentry.github.io/instructors/)
 
