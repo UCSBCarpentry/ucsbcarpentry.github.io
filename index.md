@@ -5,6 +5,9 @@ title: UCSB Library Carpentry Workshops
 
 
 ## Summer Sessions 2021
+- #### Summer Series Carpentry:
+	- ### August 9, 10: Intro to Bash-Shell
+        - ### August 11, 12: Intro to Version Control with Git
 - #### TBD Authoring Scientific Publications with R-Markdown (Pushed to Summer 2020)  
 ---
 
