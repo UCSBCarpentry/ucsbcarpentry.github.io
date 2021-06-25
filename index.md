@@ -4,12 +4,7 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/ucsb-github-banner-2.png)
 
 
-## Spring Quarter 2021
-- ### [April 16, 23, & 30, 2021: UC Merced Library Carpentry for Humanists and Social Scientists](https://annajiat.github.io/2021-04-16-merced-online/)
-- ### [May 6-7, 2021: Intro to R](https://ucsbcarpentry.github.io/2021-05-06-IntroR/).  
-  - (prerequisite for May 12-14 R for GeoSpatial)
-- ### [May 12-14, 2021: R for GeoSpatial](https://ucsbcarpentry.github.io/2021-05-13-GeospatialR/)
-  - an introduction to spatial concepts and using raster and vector data in R
+## Summer Sessions 2021
 - #### TBD Authoring Scientific Publications with R-Markdown (Pushed to Summer 2020)  
 ---
 
@@ -19,6 +14,9 @@ title: UCSB Library Carpentry Workshops
 
 ### Past Workshops:
 
+- [May 12-14, 2021: R for GeoSpatial](https://ucsbcarpentry.github.io/2021-05-13-GeospatialR/)
+- [May 6-7, 2021: Intro to R](https://ucsbcarpentry.github.io/2021-05-06-IntroR/)
+- [April 16, 23, & 30, 2021: UC Merced Library Carpentry for Humanists and Social Scientists](https://annajiat.github.io/2021-04-16-merced-online/)
 - [February 18-19: Data Carpentry: Ecology with Python](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
 - [January 22: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/)
 - [January 21: Intro to Bash Shell](https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/)
