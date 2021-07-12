@@ -6,10 +6,10 @@ title: UCSB Library Carpentry Workshops
 
 ## Summer Sessions 2021
 - #### Summer Series Carpentry:
-	- ##### August 9, 10: Intro to Bash-Shell
-	- ##### August 11, 12: Intro to Version Control with Git
-	- ##### August 16 - 19: Intro to R
-	- ##### August 23 - 26: Intro to Python
+	- ##### [August 9, 10: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2021-08-09-ucsb-bash-online/)
+	- ##### [August 11, 12: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-08-11-ucsb-git-online/)
+	- ##### [August 16 - 19: Intro to R](https://ucsbcarpentry.github.io/2021-08-16-ucsb-introR-online/)
+	- ##### [August 23 - 26: Intro to Python](https://ucsbcarpentry.github.io/2021-08-23-ucsb-python-online/)
 - #### TBD Authoring Scientific Publications with R-Markdown  
 ---
 
