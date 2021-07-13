@@ -10,7 +10,6 @@ title: UCSB Library Carpentry Workshops
 	- ##### [August 11, 12: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-08-11-ucsb-git-online/)
 	- ##### [August 16 - 19: Intro to R](https://ucsbcarpentry.github.io/2021-08-16-ucsb-introR-online/)
 	- ##### [August 23 - 26: Intro to Python](https://ucsbcarpentry.github.io/2021-08-23-ucsb-python-online/)
-- #### TBD Authoring Scientific Publications with R-Markdown  
 ---
 
 
