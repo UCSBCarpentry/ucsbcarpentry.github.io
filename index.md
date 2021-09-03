@@ -17,6 +17,8 @@ title: UCSB Library Carpentry Workshops
 
 
 ### [Carpentry Instructors](https://ucsbcarpentry.github.io/instructors/)
+Learn more about the Carpentry community at UCSB, and how you can become an
+instructor or lesson contributor!
 
 
 ### Past Workshops:
