@@ -4,20 +4,24 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/ucsb-github-banner-2.png)
 
 
-## Summer Sessions 2021
-- #### Summer Series Carpentry:
-	- ##### [August 9, 10: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2021-08-09-ucsb-bash-online/)
-	- ##### [August 11, 12: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-08-11-ucsb-git-online/)
-	- ##### [August 16 - 19: Intro to R](https://ucsbcarpentry.github.io/2021-08-16-ucsb-introR-online/)
-	- ##### [August 23 - 26: Intro to Python](https://ucsbcarpentry.github.io/2021-08-23-ucsb-python-online/)
----
+## Fall 2021
+- #### Our Carpentry workshops during fall quarter will be ONLINE:
+--- September 13 - 22: UC Carpentry
+--- October 12 - 13: Software Carpentry: Intro to Bash-Shell
+--- October 14 - 15: Software Carpentry:  Intro to Version Control with Git
+--- October 19 - 22:  Software Carpentry: Python
+--- November 4 - 5: Data Carpentry: SQL
+-- 【See the Collaboratory calendar page for more great events!】（https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218）
 
 
 ### [Carpentry Instructors](https://ucsbcarpentry.github.io/instructors/)
 
 
 ### Past Workshops:
-
+- [August 9, 10: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2021-08-09-ucsb-bash-online/)
+- [August 11, 12: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-08-11-ucsb-git-online/)
+- [August 16 - 19: Intro to R](https://ucsbcarpentry.github.io/2021-08-16-ucsb-introR-online/)
+- [August 23 - 26: Intro to Python](https://ucsbcarpentry.github.io/2021-08-23-ucsb-python-online/)
 - [May 12-14, 2021: R for GeoSpatial](https://ucsbcarpentry.github.io/2021-05-13-GeospatialR/)
 - [May 6-7, 2021: Intro to R](https://ucsbcarpentry.github.io/2021-05-06-IntroR/)
 - [April 16, 23, & 30, 2021: UC Merced Library Carpentry for Humanists and Social Scientists](https://annajiat.github.io/2021-04-16-merced-online/)
