@@ -13,7 +13,7 @@ title: UCSB Library Carpentry Workshops
 - October 19 - 22:  Software Carpentry: Python
 - November 4 - 5: Data Carpentry: SQL
 
-[See the Collaboratory calendar page for more great events!]（https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218）
+[See the Collaboratory calendar page for more great events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
 
 
 ### [Carpentry Instructors](https://ucsbcarpentry.github.io/instructors/)
