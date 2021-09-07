@@ -8,10 +8,10 @@ title: UCSB Library Carpentry Workshops
 #### Our Carpentry workshops during fall quarter will be ONLINE:
 
 - **[September 13 - 22: 2021 UC Fall Workshops](https://ucsdlib.github.io/2021-09-13-uc-collab/)**
-- **October 12 - 13: Software Carpentry: Intro to Bash-Shell**
-- **October 14 - 15: Software Carpentry:  Intro to Version Control with Git**
-- **October 19 - 22: Data Carpentry: Intro to Python**
-- **November 4 - 5: Not Data Carpentry: SQL**
+- **[October 12 - 13: Software Carpentry: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2021-10-12-ucsb-bash-online/)**
+- **[October 14 - 15: Software Carpentry:  Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-10-14-ucsb-git-online/)**
+- **[October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)**
+- **[November 4 - 5: Not Data Carpentry: SQL](https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/)**
 
 [See the Collaboratory calendar page for more great events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
 
