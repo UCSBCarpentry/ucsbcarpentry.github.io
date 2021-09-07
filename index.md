@@ -11,7 +11,7 @@ title: UCSB Library Carpentry Workshops
 - **October 12 - 13: Software Carpentry: Intro to Bash-Shell**
 - **October 14 - 15: Software Carpentry:  Intro to Version Control with Git**
 - **October 19 - 22: Data Carpentry: Intro to Python**
-- **November 4 - 5: Data Carpentry: SQL**
+- **November 4 - 5: Not Data Carpentry: SQL**
 
 [See the Collaboratory calendar page for more great events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
 
