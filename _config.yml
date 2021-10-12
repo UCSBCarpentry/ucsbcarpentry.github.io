@@ -1,3 +1,6 @@
+#theme with floating sidebar for scrolling
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Overall title for pages.
-title: "UCSB Library Software Carpentry Workshops"
+title: "UCSB Carpentry"
+description: "Software and Data Carpentry Workshops at the UCSB Library"
