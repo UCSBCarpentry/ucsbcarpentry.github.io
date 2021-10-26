@@ -2,26 +2,20 @@
 title: UCSB Library Carpentry Workshops
 ---
 ![carpentry logo](fig/ucsb-github-banner-2.png)
-
-
 ## Fall 2021
 #### Our Carpentry workshops during fall quarter will be ONLINE:
 
-- **[September 13 - 22: 2021 UC Fall Workshops](https://ucsdlib.github.io/2021-09-13-uc-collab/)**
-- **CANCELLED: October 12 - 13: Software Carpentry: Intro to Bash/Shell**
-- **CANCELLED: October 14 - 15: Software Carpentry:  Intro to Version Control with Git**
-- **[October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)**
 - **[November 4 - 5: Software Carpentry: Intro to SQL and Relational Databases](https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/)**
 
 [See the Collaboratory calendar page for more great events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
-
-
 ### [Carpentry Instructors](https://ucsbcarpentry.github.io/instructors/)
 Learn more about the Carpentry community at UCSB, and how you can become an
 instructor or lesson contributor!
 
-
+----
 ### Past Workshops:
+- [September 13 - 22: 2021 UC Fall Workshops](https://ucsdlib.github.io/2021-09-13-uc-collab/)
+- [October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)
 - [August 9, 10: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2021-08-09-ucsb-bash-online/)
 - [August 11, 12: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-08-11-ucsb-git-online/)
 - [August 16 - 19: Intro to R](https://ucsbcarpentry.github.io/2021-08-16-ucsb-introR-online/)
@@ -36,7 +30,7 @@ instructor or lesson contributor!
 - [November 9-10, 2020: OpenRefine Libary Carpentry](https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/)
 - [October 9, 16, & 23, 2020: R programming for Scientific Reproducibility](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/)
 - [August 19, 20, 26, 27, September 2, 2020 -- Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
-- [August 17, 18, 24, 25, September 1, 2020 -- Intro to R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R) 
+- [August 17, 18, 24, 25, September 1, 2020 -- Intro to R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R)
 - [August 10-13, 2020 -- Intro to Bash & Git](https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/)
 - [June 3, 10, & 17, 2020 -- Bash & Webscraping](https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp)
 - [May 22 & 29, 2020 -- Intro to R Programming](https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/)
@@ -53,5 +47,3 @@ instructor or lesson contributor!
 - [Feb 21-22 2019 -- bash, Git and R](https://ucsbcarpentry.github.io/2019-02-21-UCSBLibrary/)
 - [Jan 25-26 2019 -- bash, Git and R](https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/)
 - [April 15, 2016 -- R programming language](http://remi-daigle.github.io/2016-04-15-UCSB/overview/)
-
-
