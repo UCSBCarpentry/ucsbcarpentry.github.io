@@ -5,7 +5,7 @@ title: UCSB Library Carpentry Workshops
 ## Fall 2021
 #### Our Carpentry workshops during fall quarter will be ONLINE:
 
-- **[November 4 - 5: Software Carpentry: Intro to SQL and Relational Databases](https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/)**
+- December 14 - 15: SEEDS - Intro to Git/Bash Workshop **(SEEDS event ONLY)**
 
 [See the Collaboratory calendar page for more great events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
 ### [Carpentry Instructors](https://ucsbcarpentry.github.io/instructors/)
@@ -14,6 +14,7 @@ instructor or lesson contributor!
 
 ----
 ### Past Workshops:
+- [November 4 - 5: Software Carpentry: Intro to SQL and Relational Databases](https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/)
 - [September 13 - 22: 2021 UC Fall Workshops](https://ucsdlib.github.io/2021-09-13-uc-collab/)
 - [October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)
 - [August 9, 10: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2021-08-09-ucsb-bash-online/)
