@@ -2,8 +2,8 @@
 title: UCSB Library Carpentry Workshops
 ---
 ![carpentry logo](fig/ucsb-github-banner-2.png)
-## Fall 2021
-#### Our Carpentry workshops during fall quarter will be ONLINE:
+## Fall-ish/Intersession 2021 
+#### The following Carpentry workshops will be ONLINE:
 
 - December 14 - 15: SEEDS - Intro to Git/Bash Workshop **(SEEDS event ONLY)**
 
