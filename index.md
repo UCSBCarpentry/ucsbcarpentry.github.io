@@ -18,12 +18,10 @@ With the help of our stellar volunteers, we offer guided and hands-on workshops 
 
 If you want to stay in the loop for future workshops you can join the carpentry listserv with an @ucsb.edu email address and/or join our slack channel.  If you do not have an @ucsb.edu email address please email the Collaboratory directly so we can add you.
 
-For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global carpentries community- including researchers, post-docs, graduate students, faculty and staff. If you would like to get involved with putting on these workshops, please email us at **library-collaboratory@ucsb.edu**.
+For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global carpentries community- including researchers, post-docs, graduate students, faculty and staff. If you would like to get involved with putting on these workshops, please email us at **library-collaboratory@ucsb.edu** or visit the **[Carpentry Community Page](https://ucsbcarpentry.github.io/instructors/)**.
 
 Best,
 <br>
 UCSB Carpentry Team
 
-P.S. Visit the **[Carpentry Community Page](https://ucsbcarpentry.github.io/instructors/)** to learn about how you can get involved!
-
-[See the Collaboratory calendar page for more events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
+P.S. [See the Collaboratory calendar page for more events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)

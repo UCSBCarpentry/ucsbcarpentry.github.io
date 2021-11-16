@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -7,19 +8,33 @@
   </head>
   <body>
 
-<!-- Header -->
-<div class="header">
-  <!-- Eyebrow -->
-  <div class="eyebrow">
-    <div class="container">
-      <a class="ucsb-lockup" href="https://ucsb.edu/">University of California, Santa Barbara</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-wrapper" aria-controls="nav-wrapper" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    </div> <!-- close container -->
-  </div> <!-- close eyebrow -->
-</div><!-- close header -->
+    <!-- Header -->
+    <div class="header">
+      <!-- Eyebrow -->
+      <div class="eyebrow">
+    <div class="nav">
+          <!--logo-->
+          <input type="checkbox" id="nav-check">
+        <div class="nav-header">
+          <div class="nav-title">
+            Carpentry@UCSB
+          </div>
+        </div>
+           <!--toggle button for mobile-->
 
+           <div class="nav-links">
+               <ul>
+             <!--menu Item-->
+             <li><a href="#" target="https://ucsbcarpentry.github.io/">Home</a></li>
+             <li><a href="#" target="https://ucsbcarpentry.github.io/instructors/">Carpentry Community</a></li>
+             <li><a href="#" target="https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218">Events Calender</a></li>
+             <li><a href="#" target="https://ucsbcarpentry.github.io/">Past Workshops</a></li>
+             <li><a href="#" target="https://ucsbcarpentry.github.io/">Try Me</a></li>
+               </ul>
+           </div>
+         </div>
+     </div> <!-- close eyebrow -->
+   </div><!-- close header -->
 
     <div class="container">
 <section class="mt-5">
