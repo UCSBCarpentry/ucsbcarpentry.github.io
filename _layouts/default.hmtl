@@ -25,7 +25,7 @@
            <div class="nav-links">
                <ul>
              <!--menu Item-->
-             <li><a href="#" target="https://ucsbcarpentry.github.io/">Home</a></li>
+             <li><a href="#" target="https://ucsbcarpentry.github.io">Home</a></li>
              <li><a href="#" target="https://ucsbcarpentry.github.io/instructors/">Carpentry Community</a></li>
              <li><a href="#" target="https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218">Events Calender</a></li>
              <li><a href="#" target="https://ucsbcarpentry.github.io/past-workshops/">Past Workshops</a></li>
