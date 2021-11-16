@@ -1,51 +1,29 @@
 ---
 title: UCSB Library Carpentry Workshops
 ---
-![carpentry logo](fig/ucsb-github-banner-2.png)
-## Fall-ish/Intersession 2021 
-#### The following Carpentry workshops will be ONLINE:
+![carpentry logo](fig/banner-carpentry.png)
 
-- December 14 - 15: SEEDS - Intro to Git/Bash Workshop **(SEEDS event ONLY)**
 
-[See the Collaboratory calendar page for more great events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
-### [Carpentry Instructors](https://ucsbcarpentry.github.io/instructors/)
-Learn more about the Carpentry community at UCSB, and how you can become an
-instructor or lesson contributor!
+## Fall and Intersession 2021
+#### Our Carpentry workshops during Fall Quarter will be ONLINE:
 
-----
-### Past Workshops:
-- [November 4 - 5: Software Carpentry: Intro to SQL and Relational Databases](https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/)
-- [October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)
-- [September 13 - 22: 2021 UC Fall Workshops](https://ucsdlib.github.io/2021-09-13-uc-collab/)
-- [October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)
-- [August 9, 10: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2021-08-09-ucsb-bash-online/)
-- [August 11, 12: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-08-11-ucsb-git-online/)
-- [August 16 - 19: Intro to R](https://ucsbcarpentry.github.io/2021-08-16-ucsb-introR-online/)
-- [August 23 - 26: Intro to Python](https://ucsbcarpentry.github.io/2021-08-23-ucsb-python-online/)
-- [May 12-14, 2021: R for GeoSpatial](https://ucsbcarpentry.github.io/2021-05-13-GeospatialR/)
-- [May 6-7, 2021: Intro to R](https://ucsbcarpentry.github.io/2021-05-06-IntroR/)
-- [April 16, 23, & 30, 2021: UC Merced Library Carpentry for Humanists and Social Scientists](https://annajiat.github.io/2021-04-16-merced-online/)
-- [February 18-19: Data Carpentry: Ecology with Python](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
-- [January 22: Intro to Version Control with Git](https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/)
-- [January 21: Intro to Bash Shell](https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/)
-- [Dec 16-17, 2020: Authoring Scientific Publications with R-Markdown](https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/)
-- [November 9-10, 2020: OpenRefine Libary Carpentry](https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/)
-- [October 9, 16, & 23, 2020: R programming for Scientific Reproducibility](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/)
-- [August 19, 20, 26, 27, September 2, 2020 -- Introduction to Python](https://ucsbcarpentry.github.io/2020-08-19-Summer-Python)
-- [August 17, 18, 24, 25, September 1, 2020 -- Intro to R programming](https://ucsbcarpentry.github.io/2020-08-17-Summer-R)
-- [August 10-13, 2020 -- Intro to Bash & Git](https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/)
-- [June 3, 10, & 17, 2020 -- Bash & Webscraping](https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp)
-- [May 22 & 29, 2020 -- Intro to R Programming](https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/)
-- [January 31, 2020 -- Databases and SQL](https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL)
-- [January 17, 2020 -- Introduction to the Unix Shell](https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash)
-- [January 17, 2020 -- Version Control with Git](https://ucsbcarpentry.github.io/2020-01-17-UCSB-git/)
-- [Nov 14-22, 2019 -- R for Geospatial Data](https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/)
-- [Oct 24 & 31, 2019 -- Git and bash](https://ucsbcarpentry.github.io/2019-10-24-gitbash/)
-- [October 10, 2019 -- Plotting and Programming in Python](https://ucsbcarpentry.github.io/2019-10-10-Python-UCSB/)
-- [June 25 - Sept 12, 2019 -- Summer Python class](https://ucsbcarpentry.github.io/2019-summer/)
-- [May 9-10, 2019 -- Bash, Git & Python Workshop](https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/)
-- [April 11-12, 2019 -- Bash, Git & "R" Workshop](https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop//)
-- [March 21-22 2019 -- bash, Git and R](https://ucsbcarpentry.github.io/2019-03-21-UCSBLibrary/)
-- [Feb 21-22 2019 -- bash, Git and R](https://ucsbcarpentry.github.io/2019-02-21-UCSBLibrary/)
-- [Jan 25-26 2019 -- bash, Git and R](https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/)
-- [April 15, 2016 -- R programming language](http://remi-daigle.github.io/2016-04-15-UCSB/overview/)
+- **[September 13 - 22: 2021 UC Fall Workshops](https://ucsdlib.github.io/2021-09-13-uc-collab/)**
+- **[October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)**
+- **[November 4 - 5: Software Carpentry: Intro to SQL and Relational Databases](https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/)**
+- December 14 - 15: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)
+
+## About Us
+**[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at Davidson Library.
+With the help of our stellar volunteers, we offer guided and hands-on workshops to undergraduate, staff, graduate student, and faculty researchers. These teachings focus on beginner-level research computing, data literacy, and information management. The teaching material is always available on **[our website](https://ucsbcarpentry.github.io/past-workshops)** after workshops have ended.
+
+If you want to stay in the loop for future workshops you can join the carpentry listserv with an @ucsb.edu email address and/or join our slack channel.  If you do not have an @ucsb.edu email address please email the Collaboratory directly so we can add you.
+
+For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global carpentries community- including researchers, post-docs, graduate students, faculty and staff. If you would like to get involved with putting on these workshops, please email us at **library-collaboratory@ucsb.edu**.
+
+Best,
+<br>
+UCSB Carpentry Team
+
+P.S. Visit the **[Carpentry Community Page](https://ucsbcarpentry.github.io/instructors/)** to learn about how you can get involved!
+
+[See the Collaboratory calendar page for more events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
