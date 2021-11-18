@@ -139,7 +139,7 @@ permalink: /past-workshops/
         <td><a href="https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop//">Bash, Git &amp; R Workshop</a></td>
         </tr>
         <tr>
-        <td>March 21-22<2/td>
+        <td>March 21-22</td>
         <td><a href="https://ucsbcarpentry.github.io/2019-03-21-UCSBLibrary/">Bash, Git &amp; R</a></td>
         </tr>
         <tr>
@@ -157,7 +157,5 @@ permalink: /past-workshops/
         <tr>
         <td>April 15</td>
         <td><a href="http://remi-daigle.github.io/2016-04-15-UCSB/overview/"> R Programming Language</a></td>
-        </tr>
-    </tbody>
-</table>
+
 
