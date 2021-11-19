@@ -18,6 +18,17 @@ permalink: /past-workshops/
             <td><b>2021 Workshops</b></td>
         </tr>
         <tr>
+            <td>November 4, 5</td>
+            <td><a href="https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/">Software Carpentry: Intro to SQL and Relational Databases</a></td>
+        <tr>
+            <td>October 19 - 22</td>
+            <td><a href="https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/">Data Carpentry: Intro to Python</a></td>
+        </tr>
+        <tr>
+            <td>September 13 - 22</td>
+            <td><a href="https://ucsdlib.github.io/2021-09-13-uc-collab/">2021 UC Fall Workshop</a></td>
+        </tr>
+        <tr>
             <td>August 9, 10</td>
             <td><a href="https://ucsbcarpentry.github.io/2021-08-11-ucsb-git-online/">Intro to Version Control with Git</a></td>
         </tr>
