@@ -10,7 +10,7 @@ title: UCSB Library Carpentry Workshops
 - **[September 13 - 22: 2021 UC Fall Workshops](https://ucsdlib.github.io/2021-09-13-uc-collab/)**
 - **[October 19 - 22: Data Carpentry: Intro to Python](https://ucsbcarpentry.github.io/2021-10-19-ucsb-python-online/)**
 - **[November 4 - 5: Software Carpentry: Intro to SQL and Relational Databases](https://ucsbcarpentry.github.io/2021-11-04-ucsb-sql-online/)**
-- December 14 - 15: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)
+- **[December 14 - 15: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)](https://ucsbcarpentry.github.io/2021-12-14-ucsb-gitbash-online/)**
 
 ## About Us
 **[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at Davidson Library.
