@@ -16,7 +16,7 @@ title: UCSB Library Carpentry Workshops
 - **February 24, 25: Intro to R Visualization**
 - **TBD: Reproducible Publications with RStudio**
 
-#### Please chack back for links to the website lesson if it is not available, dates are subject to minor change.
+#### Please check back for links to the website lesson if it is not available, dates are subject to minor change.
 
 ## About Us
 **[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at Davidson Library.
