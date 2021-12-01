@@ -4,10 +4,19 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/banner-carpentry.png)
 
 
-## Intersession 2021
+## Intersession 2021/Winter 2022
 #### Our Carpentry workshops during Intersession will be ONLINE:
 
-- **[December 14 - 15: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)](https://ucsbcarpentry.github.io/2021-12-14-ucsb-gitbash-online/)**
+- **[December 14, 15: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)](https://ucsbcarpentry.github.io/2021-12-14-ucsb-gitbash-online/)**
+- **January 4, 7: Bren School MEDS - Python Programming**
+- **[January 12, 14: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)](https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/)**
+- **January 28: Webpublishing with Github Pages**
+- **February 7, 9: SEEDS - Intro to R (SEEDS event ONLY)**
+- **February 15, 17: SEEDS - Intro to R (SEEDS event ONLY)**
+- **February 24, 25: Intro to R Visualization**
+- **TBD: Reproducible Publications with RStudio**
+
+#### Please chack back for links to the website lesson if it is not available, dates are subject to minor change.
 
 ## About Us
 **[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at Davidson Library.
