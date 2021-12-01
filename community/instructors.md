@@ -5,11 +5,15 @@ title: UCSB Library Carpentry Instructors
 
 ![carpentry community banner](fig/banner-cc.png)
 
-# Becoming a certified Carpentry Instructor
+# Carpentry Volunteering
 
-The [UCSB Library](https://www.library.ucsb.edu/) and [Enterprise Technology
-Services](https://www.it.ucsb.edu/) maintain a membership to the
-[Carpentries](https://carpentries.org/).  Each year we send a cohort of
+Running a workshop is done through the group effort of people in teaching and/or assisting roles. The <b>lead instructor</b> directs the curriculum development and establishes learning goals of the workshop. They also teach segments of the workshop to a live audience. For certification to be a lead instructor, read onto "Becoming a Certified Carpentry Instructor". Lead instructors are not expected to teach a whole workshop themselves: through <b>co-instructing</b>, others may teach some workshop segments and support any discussion initiated by the lead instructor. Because workshops depend on live-coding and hands-on demos, <b>helpers</b> are needed to provide immediate help to workshop attendees. <b>Helpers</b> also assist in the workings of workshops; such as hosting remote/in-person meetings, taking lesson notes, and answering questions from attendees. For all stages of workshop development; lead instructors, instructors, and helpers are supported by staff at the Interdisciplinary Research Collaboratory.
+
+# Becoming a Certified Carpentry Instructor
+
+The <b>[UCSB Library](https://www.library.ucsb.edu/)</b> and <b>[Enterprise Technology
+Services](https://www.it.ucsb.edu/)</b> maintain a membership to the
+<b>[Carpentries](https://carpentries.org/)</b>. Each year we send a cohort of
 people through the Instructor certification process, which includes:
 
 * A 2-day, 16 hour training workshop plus some preparatory reading.
@@ -27,13 +31,11 @@ training, we expect some things from you in return:
   school year
 * Participate in team meetings in the lead up to, and immediately after, workshops in which you participate.
 
-Beyond being an instruction, you can also conribute to Carpentries by being a workshop
-host/organizer or a lesson developer/maintainer.
 Team meetings for are Wednesdays from 9:00 - 10:20, and as needed to prepare for workshops.
 
 
-Please [contact us](mailto:collaboratory@library.ucsb.edu) if you are interested
-in becoming a Carpentry Instructor!
+Please <b>[contact us](mailto:collaboratory@library.ucsb.edu)</b> if you are interested
+in becoming a Carpentry Instructor or Helper!
 
 * [UCSB Instructor Homepage](index.html)
 * [UCSB Carpentry Homepage](../) (includes links to upcoming workshops)
