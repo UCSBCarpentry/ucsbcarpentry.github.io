@@ -8,7 +8,7 @@ title: UCSB Library Carpentry Workshops
 #### Our Carpentry workshops during Intersession will be ONLINE:
 
 - **[December 14, 15: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)](https://ucsbcarpentry.github.io/2021-12-14-ucsb-gitbash-online/)**
-- **January 4, 7: Bren School MEDS - Python Programming**
+- **[January 4, 7: Bren School MEDS - Python Programming](https://ucsbcarpentry.github.io/2022-01-04-ucsb-python/)**
 - **[January 12, 14: SEEDS - Intro to Git/Bash Workshop (SEEDS event ONLY)](https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/)**
 - **January 28: Webpublishing with Github Pages**
 - **February 7, 9: SEEDS - Intro to R (SEEDS event ONLY)**
