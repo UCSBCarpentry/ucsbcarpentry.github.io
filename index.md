@@ -4,18 +4,18 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/banner-carpentry.png)
 
 
-## Intersession 2021/Winter 2022
-#### Our Carpentry workshops during Intersession will be ONLINE:
+## Winter 2022
+#### Our Carpentry workshops during Winter will be ONLINE:
 
-- [December 14, 15: SEEDS - Intro to Git/Bash Workshop (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2021-12-14-ucsb-gitbash-online/)
 - [January 4, 7: Bren School MEDS - Python Programming](https://ucsbcarpentry.github.io/2022-01-04-ucsb-python/)
 - [January 12, 14: SEEDS - Intro to Git/Bash Workshop (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/)
 - [January 28: Webpublishing with Github Pages](https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/)
 - [January 31: Webpublishing with Github Pages (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/)
+- [February 4: Bren School MEDS - Relational Databases and SQL]("https://ucsbcarpentry.github.io/2022-02-04-ucsb-sql-online/")
 - [February 7, 9, 11: SEEDS - Intro to R (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-02-07-ucsb-R-online/)
 - [February 15, 17, 18: SEEDS - Intro to R (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-02-15-ucsb-R-online/)
-- February 24, 25: Intro to R Visualization
-- *TBD*: Reproducible Publications with RStudio
+- [February 24, 25: Intro to R Visualization]("https://ucsbcarpentry.github.io/2022-02-24-ucsb-R-online/")
+- [March 3, 2022: Reproducible Publications with RStudio]("https://ucsbcarpentry.github.io/2022-03-03-ucsb-rstudio-reproducibility/")
 
 #### Please check back for links to the website lesson if it is not available, dates are subject to minor change.
 
