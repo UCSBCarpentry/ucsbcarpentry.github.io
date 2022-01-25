@@ -11,7 +11,7 @@ title: UCSB Library Carpentry Workshops
 - [January 12, 14: SEEDS - Intro to Git/Bash Workshop (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/)
 - [January 28: Webpublishing with Github Pages](https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/)
 - [January 31: Webpublishing with Github Pages (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/)
-- [February 4: Bren School MEDS - Relational Databases and SQL]("https://ucsbcarpentry.github.io/2022-02-04-ucsb-sql-online/")
+- [February 4: Bren School MEDS - Relational Databases and SQL](https://ucsbcarpentry.github.io/2022-02-04-ucsb-sql-online/)
 - [February 7, 9, 11: SEEDS - Intro to R (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-02-07-ucsb-R-online/)
 - [February 15, 17, 18: SEEDS - Intro to R (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-02-15-ucsb-R-online/)
 - [February 24, 25: Intro to R Visualization]("https://ucsbcarpentry.github.io/2022-02-24-ucsb-R-online/")
