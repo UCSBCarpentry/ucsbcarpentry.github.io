@@ -5,17 +5,21 @@ title: UCSB Library Carpentry Workshops
 
 
 ## Winter 2022
-#### Our Carpentry workshops during Winter will be ONLINE:
+#### Our Carpentry workshops during Winter are ONLINE:
 
-- [January 4, 7: Bren School MEDS - Python Programming](https://ucsbcarpentry.github.io/2022-01-04-ucsb-python/)
-- [January 12, 14: SEEDS - Intro to Git/Bash Workshop (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/)
-- [January 28: Webpublishing with Github Pages](https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/)
-- [January 31: Webpublishing with Github Pages (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/)
-- [February 4: Bren School MEDS - Relational Databases and SQL](https://ucsbcarpentry.github.io/2022-02-04-ucsb-sql-online/)
-- [February 7, 9, 11: SEEDS - Intro to R (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-02-07-ucsb-R-online/)
-- [February 15, 17, 18: SEEDS - Intro to R (SEEDS ONLY event)](https://ucsbcarpentry.github.io/2022-02-15-ucsb-R-online/)
 - [February 24, 25: Intro to R Visualization](https://ucsbcarpentry.github.io/2022-02-24-ucsb-R-online/)
 - [March 3, 2022: Reproducible Publications with RStudio](https://ucsbcarpentry.github.io/2022-03-03-ucsb-rstudio-reproducibility/)
+
+## Spring 2022 * Tentative *
+- GeoSpatial R Carpentry. 4/7, 4/8 Remote. 3:30 - 6:00 pm
+- GeoSpatial R Carpentry. 4/11, 4/13, In-person, 3:30 - 6:00 pm
+- Data Carpentry with OpenRefine (week of April 11th), venue TBA, time TBA 
+- Software Carpentry with Python (2x) (week of April 18th), venue TBA, time TBA
+- Data Carpentry: Webscraping (5/2, 5/4)
+- Carpentry Webscraping Workshop (5/10, 5/12)
+- Data Carpentry: Harvesting Twitter with Twarc (May 23 & 25) 4-6 pm
+- Twarc Carpentry (May 24 & 26) 4-6 pm
+
 
 #### Please check back for links to the website lesson if it is not available, dates are subject to minor change.
 
