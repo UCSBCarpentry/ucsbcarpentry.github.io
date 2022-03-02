@@ -30,11 +30,12 @@ permalink: /past-workshops/
         <td>January 28</td><td><a href="https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/">Webpublishing with Github Pages</a></td>
         </tr>
         <tr>
-            <td><a href="https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/">January 12, 14</a></td><td>SEEDS - 
-            Intro to Git/Bash Workshop     (SEEDS ONLY event)</td>
+            <td>January 12, 14</a></td><td><a href="https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/">SEEDS - 
+                Intro to Git/Bash Workshop (SEEDS event)</a></td>
         </tr>
         <tr>
-        <td>January 4, 7</td><td><a href=Bren School MEDS - Python Programming</a></td>
+        <td>January 4, 7</td><td><a href="https://ucsbcarpentry.github.io/2022-01-04-ucsb-python/">
+            Bren School MEDS - Python Programming</a></td>
         </tr>
         
 
