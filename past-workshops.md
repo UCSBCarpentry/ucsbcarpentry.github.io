@@ -12,18 +12,22 @@ permalink: /past-workshops/
             <th>Workshop Name</th>
     </thead>
     <tbody>
-        <tr><td>February 15, 17, 18</td><td><a href="https://ucsbcarpentry.github.io/2022-02-15-ucsb-R-online/>
-            SEEDS - Intro to R (SEEDS ONLY event)</a></td></tr>
-<tr><td>February 7, 9, 11</td><td><a href="https://ucsbcarpentry.github.io/2022-02-07-ucsb-R-online/">
-            SEEDS - Intro to R (SEEDS ONLY event)</a></td></tr>
-<tr><td>February 4</td><td><a href="https://ucsbcarpentry.github.io/2022-02-04-ucsb-sql-online/">Bren School MEDS - Relational Databases and SQL</a></td></tr>
-<tr><td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/">Webpublishing with Github Pages (SEEDS ONLY event)</a></td></tr>
-        
-        <tr>
+         <tr>
             <td><b>2022 Workshops</b></td>
         </tr>
+        
+        <tr><td>February 15, 17, 18</td><td><a href="https://ucsbcarpentry.github.io/2022-02-15-ucsb-R-online/">
+            SEEDS - Intro to R (SEEDS ONLY event)</a></td></tr>
+        <tr><td>February 7, 9, 11</td><td><a href="https://ucsbcarpentry.github.io/2022-02-07-ucsb-R-online/">
+            SEEDS - Intro to R (SEEDS ONLY event)</a></td></tr>
+        <tr><td>February 4</td><td><a href="https://ucsbcarpentry.github.io/2022-02-04-ucsb-sql-online/">
+            Bren School MEDS - Relational Databases and SQL</a></td></tr>
+        <tr><td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/">
+            Webpublishing with Github Pages (SEEDS ONLY event)</a></td></tr>
+        
+
         <tr>
-        <td>January 28</td><td><a href="https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/">[Webpublishing with Github Pages]</a></td>
+        <td>January 28</td><td><a href="https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/">Webpublishing with Github Pages</a></td>
         </tr>
         <tr>
             <td><a href="https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/">January 12, 14</a></td><td>SEEDS - 
