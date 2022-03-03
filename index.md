@@ -11,14 +11,18 @@ title: UCSB Library Carpentry Workshops
 - [March 3, 2022: Reproducible Publications with RStudio](https://ucsbcarpentry.github.io/2022-03-03-ucsb-rstudio-reproducibility/)
 
 ## Spring 2022 * Tentative *
-- GeoSpatial R Carpentry. 4/7, 4/8 Remote. 3:30 - 6:00 pm
-- GeoSpatial R Carpentry. 4/11, 4/13, In-person, 3:30 - 6:00 pm
-- Data Carpentry with OpenRefine (week of April 11th), venue TBA, time TBA 
-- Software Carpentry with Python (2x) (week of April 18th), venue TBA, time TBA
+- GeoSpatial R Carpentry. Thursday/Friday, April 7 & 8  
+ Online. 3:30 - 6:30 pm
+- GeoSpatial R Carpentry. Monday/Wednesday, April 11 & 13  
+ In-person. 9:30am - 12:30 pm
+- Data Carpentry with OpenRefine (week of April 11th)  
+ online, time TBA 
+- Data Carpentry with Python.  Tuesday/Thursday, April 19 & 21.  
+ online. 9:30am - 12:30 pm
 - Data Carpentry: Webscraping (5/2, 5/4)
-- Carpentry Webscraping Workshop (5/10, 5/12)
+- Data Carpentry: Webscraping (5/10, 5/12)
 - Data Carpentry: Harvesting Twitter with Twarc (May 23 & 25) 4-6 pm
-- Twarc Carpentry (May 24 & 26) 4-6 pm
+- Data Carpentry: Harvesting Twitter with Twarc  (May 24 & 26) 4-6 pm
 
 
 #### Please check back for links to the website lesson if it is not available, dates are subject to minor change.
