@@ -27,7 +27,7 @@
              <!--menu Item-->
              <li><a href="https://ucsbcarpentry.github.io">Home</a></li>
              <li><a href="/community/instructors">Carpentry Community</a></li>
-             <li><a href="https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218">Events Calender</a></li>
+             <li><a href="https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218" target="_blank">Events Calender</a></li>
              <li><a href="/past-workshops/">Past Workshops</a></li>
                </ul>
            </div>
