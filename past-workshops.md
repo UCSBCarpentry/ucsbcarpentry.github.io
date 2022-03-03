@@ -15,7 +15,11 @@ permalink: /past-workshops/
          <tr>
             <td><b>2022</b></td>
         </tr>
-        
+
+        <tr><td>March 3, 4</td><td><a href="https://ucsbcarpentry.github.io/2022-03-03-ucsb-rstudio-reproducibility/">
+            Reproducible Publications with RStudio</a></td></tr>
+        <tr><td>February 24, 25</td><td><a href="https://ucsbcarpentry.github.io/2022-02-24-ucsb-R-online/">
+            Intro to R for Data Visualization</a></td></tr>
         <tr><td>February 15, 17, 18</td><td><a href="https://ucsbcarpentry.github.io/2022-02-15-ucsb-R-online/">
             SEEDS - Intro to R (SEEDS ONLY event)</a></td></tr>
         <tr><td>February 7, 9, 11</td><td><a href="https://ucsbcarpentry.github.io/2022-02-07-ucsb-R-online/">
