@@ -13,7 +13,7 @@ permalink: /past-workshops/
     </thead>
     <tbody>
          <tr>
-            <td><b>2022 Workshops</b></td>
+            <td><b>2022</b></td>
         </tr>
         
         <tr><td>February 15, 17, 18</td><td><a href="https://ucsbcarpentry.github.io/2022-02-15-ucsb-R-online/">
@@ -25,17 +25,16 @@ permalink: /past-workshops/
         <tr><td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/">
             Webpublishing with Github Pages (SEEDS ONLY event)</a></td></tr>
         
-
         <tr>
         <td>January 28</td><td><a href="https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/">Webpublishing with Github Pages</a></td>
         </tr>
         <tr>
-            <td>January 12, 14</a></td><td><a href="https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/">SEEDS - 
+            <td>January 12, 14</td><td><a href="https://ucsbcarpentry.github.io/2022-01-12-ucsb-gitbash/">SEEDS - 
                 Intro to Git/Bash Workshop (SEEDS event)</a></td>
         </tr>
         <tr>
         <td>January 4, 7</td><td><a href="https://ucsbcarpentry.github.io/2022-01-04-ucsb-python/">
-            Bren School MEDS - Python Programming</a></td>
+            Bren School MEDS - Python Programming</a><br /></td>
         </tr>
         
 
@@ -97,7 +96,7 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>January 21</td>
-        <td><a href="https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/">Intro to Bash Shell</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/">Intro to Bash Shell</a><br /></td>
         </tr>
         <tr class="active-row">
             <td><b>2020 Workshops</b></td>
@@ -151,7 +150,7 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>January 17</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-01-17-UCSB-git/">Version Control with Git</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-01-17-UCSB-git/">Version Control with Git</a><br /></td>
         </tr>
         <tr class="active-row">
             <td><b>2019 Workshops</b></td>
@@ -190,7 +189,7 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>Jan 25-26</td>
-        <td><a href="https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/">Bash, Git &amp; R</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/">Bash, Git &amp; R<br /></a></td>
         </tr>
         <tr>
         <tr class="active-row">
