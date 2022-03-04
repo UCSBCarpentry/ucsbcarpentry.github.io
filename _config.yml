@@ -1,7 +1,3 @@
 
 # Overall title for pages.
 title: "UCSB Library Software Carpentry Workshops"
-
-# see issue #11 
-# as recommended at https://www.rubydoc.info/gems/jekyll-commonmark-ghpages/0.2.0
-markdown: CommonMarkGhPages
