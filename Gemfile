@@ -10,3 +10,9 @@ ruby '>=2.7.1'
 gem 'github-pages', group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
+
+# see Github issue #11
+
+group :jekyll_plugins do
+    gem 'jekyll-commonmark-ghpages'
+  end
