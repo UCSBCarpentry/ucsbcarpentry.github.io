@@ -4,10 +4,10 @@ title: UCSB Library Carpentry Workshops
 ![carpentry logo](fig/banner-carpentry.png)
 
 ## Tentative Spring 2022 Carpentry Schedule
-- April 7, 8: Intro to Geospatial Raster and Vector Data in R, online
-- April 11, 13: Intro to Geospatial Raster and Vector Data in R, in-person
-- Week of April 11th, dates TBD: Data Carpentry with OpenRefine, online
-- April 19, 21: Data Analysis and Visualization in Python, online
+- April 6, 8: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-06-ucsb-r-geospatial/), online
+- April 11, 13: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-11-ucsb-r-geospatial/), in-person
+- April 14: [Intro to OpenRefine](https://ucsbcarpentry.github.io/2022-04-14-ucsb-openrefine/), online
+- April 19, 21: [Data Analysis and Visualization in Python](https://ucsbcarpentry.github.io/2022-04-19-ucsb-python/), online
 - May 2, 4: Introduction to Webscraping, TBD
 - May 10, 12: Introduction to Webscraping, TBD
 - May 23, 25: Harvesting Twitter with Twarc, TBD
