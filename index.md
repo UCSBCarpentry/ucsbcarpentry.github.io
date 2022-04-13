@@ -11,10 +11,8 @@ based on real-life (or analogous) datasets using widely-accepted tools.
 - April 11, 13: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-11-ucsb-r-geospatial/), in-person
 - April 14: [Intro to OpenRefine](https://ucsbcarpentry.github.io/2022-04-14-ucsb-openrefine/), online
 - April 19, 21: [Data Analysis and Visualization in Python](https://ucsbcarpentry.github.io/2022-04-19-ucsb-python/), online
-- May 10, 12: Introduction to Webscraping, TBD
-- May 16, 18: Introduction to Webscraping, TBD
-- May 23, 25: Harvesting Twitter with Twarc, TBD
-- May 24, 26: Harvesting Twitter with Twarc,TBD
+- May 12, 13: [Introduction to Webscraping](https://ucsbcarpentry.github.io/2022-05-12-ucsb-webscraping/), hybrid (online & in-person)
+- May 26, 27: [Harvesting Twitter with Twarc](https://ucsbcarpentry.github.io/2022-05-26-ucsb-twarc/), hybrid (online & in-person)
 
 
 #### Please check back for links to the website lesson if it is not available, dates are subject to minor change.
