@@ -17,11 +17,10 @@ based on real-life (or analogous) datasets using widely-accepted tools.
 
 #### Please check back for links to the website lesson if it is not available, dates are subject to minor change.
 
-<br />
 
-[Research Data Services](https://www.library.ucsb.edu/research-data-services) is excited to launch a series of short, hybrid workshops dedicated to the Humanities and Social Sciences. Students, faculty, and staff are welcome. Email [rds@library.ucsb.edu](mailto:rds@library.ucsb.edu) for more information.
+[Research Data Services](https://www.library.ucsb.edu/research-data-services) is excited to launch a series of short, hybrid workshops dedicated to the Humanities and Social Sciences. Students, faculty, and staff are welcome. [Upcoming workshops.](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1225)
+Email [rds@library.ucsb.edu](mailto:rds@library.ucsb.edu) for more information.
 
-<br />
 
 ## About Us
 **[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at Davidson Library.
