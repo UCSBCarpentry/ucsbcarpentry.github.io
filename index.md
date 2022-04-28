@@ -23,12 +23,15 @@ Email [rds@library.ucsb.edu](mailto:rds@library.ucsb.edu) for more information.
 
 
 ## About Us
-**[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at Davidson Library.
-With the help of our stellar volunteers, we offer guided and hands-on workshops to undergraduate, staff, graduate students, and faculty researchers. These teachings focus on beginner-level research computing, data literacy, and information management. The teaching material is always available on **[our website](https://ucsbcarpentry.github.io/past-workshops)** after workshops have ended.
+**[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at the UCSB Library.
 
-If you want to stay in the loop for future workshops, you can join the carpentry listserv with an @ucsb.edu email address and/or join our slack channel. If you do not have an @ucsb.edu email address, please email the Collaboratory directly so we can add you.
+[We have a few policies.](community)
 
-For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global carpentries community- including researchers, post-docs, graduate students, faculty and staff. If you would like to get involved with putting on these workshops, please email us at **library-collaboratory@ucsb.edu** or visit the **[Carpentry Community Page](https://ucsbcarpentry.github.io/community/instructors)**.
+With the help of our stellar volunteers, we offer guided and hands-on workshops to undergraduate, staff, graduate students, and faculty researchers. These teachings focus on beginner-level research computing, data literacy, and information management. We always link to [our teaching material](https://ucsbcarpentry.github.io/past-workshops) after workshops have ended.
+
+If you want to stay in the loop for future workshops, you can join our Carpentry mailing list with an @ucsb.edu email address and/or join our slack channel. If you do not have an @ucsb.edu email address, please email the Collaboratory directly so we can add you.
+
+For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global Carpentries community- including researchers, post-docs, graduate students, faculty and staff. If you would like to get involved with putting on these workshops, please email us at **library-collaboratory@ucsb.edu** or visit our **[Instructors Page](https://ucsbcarpentry.github.io/community/instructors)**.
 
 *Signed,*
 <br>
