@@ -4,6 +4,12 @@ behalf of campus constituents. * We can teach and host a variety of the curricul
 from Software, Data, and Library Carpentries, and are able to secure lead 
 Instructors for any lesson in the Carpentries curicula.
 
+## Local Workshop Policies
+- Got 5 friends? We will talk to you about hosting a workshop tailored to your needs.
+- We reserve the option to cancel workshops when the number of learners at the beginning of a session drops below 6.
+- We may re-schedule or cancel a workshop with fewer than 12 registrations with 48 hours notice
+- No stickies, no robots
+
 ## Preparing for Workshops
 
 * Review the Pre-Workshop Survey results paying special interest to question 14: 
