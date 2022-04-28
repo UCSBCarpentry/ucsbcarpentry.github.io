@@ -2,7 +2,7 @@
 The Library's *Interdisciplinary Research Collaboratory* organizes workshops on 
 behalf of campus constituents. * We can teach and host a variety of the curriculum 
 from Software, Data, and Library Carpentries, and are able to secure lead 
-Instructors for any lesson in the Carpentries curicula.
+Instructors for any lesson in the Carpentries curricula.
 
 ## Local Workshop Policies
 - Got 5 friends? We will talk to you about hosting a workshop tailored to your needs.
