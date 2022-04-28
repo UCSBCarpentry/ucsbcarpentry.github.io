@@ -1,5 +1,5 @@
 ## UCSB Carpentries
-* The Library's Interdisciplinary Research Collaboratory organizes workshops on 
+The Library's *Interdisciplinary Research Collaboratory* organizes workshops on 
 behalf of campus constituents. * We can teach and host a variety of the curriculum 
 from Software, Data, and Library Carpentries, and are able to secure lead 
 Instructors for any lesson in the Carpentries curicula.
