@@ -25,7 +25,7 @@ Email [rds@library.ucsb.edu](mailto:rds@library.ucsb.edu) for more information.
 ## About Us
 **[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at the UCSB Library.
 
-[We have a few policies.](community)
+[We have a few policies.](community/workshops)
 
 With the help of our stellar volunteers, we offer guided and hands-on workshops to undergraduate, staff, graduate students, and faculty researchers. These teachings focus on beginner-level research computing, data literacy, and information management. We always link to [our teaching material](https://ucsbcarpentry.github.io/past-workshops) after workshops have ended.
 
