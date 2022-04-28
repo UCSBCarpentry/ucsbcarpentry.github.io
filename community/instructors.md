@@ -1,9 +1,10 @@
 ---
 layout: page
-title: UCSB Library Carpentry Instructors
+title: UCSB Library Carpentry Community
 ---
 
 ![carpentry community banner](fig/banner-cc.png)
+[Local Workshop Practices](workshops)
 
 # Carpentry Volunteering
 
@@ -37,5 +38,3 @@ Team meetings for are Wednesdays from 9:00 - 10:20, and as needed to prepare for
 Please <b>[contact us](mailto:collaboratory@library.ucsb.edu)</b> if you are interested
 in becoming a Carpentry Instructor or Helper!
 
-* [UCSB Instructor Homepage](index.html)
-* [UCSB Carpentry Homepage](../) (includes links to upcoming workshops)
