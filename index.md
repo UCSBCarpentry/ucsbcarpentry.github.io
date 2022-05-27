@@ -9,9 +9,10 @@ based on real-life (or analogous) datasets using widely-accepted tools.
 ## Summer of R, 2022
 One continuous workshop, Early July through mid-August
 - Bash and Git
-- Intro to R
+- Intro to analysis with the Tidyverse
 - Visualization with ggplot2
-- Machine Learning algorithm
+- GeoSpatial
+- Machine Learning algorithms
 
 ## Spring 2022 Carpentry Schedule
 - April 7, 8: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-07-ucsb-r-geospatial/), online
