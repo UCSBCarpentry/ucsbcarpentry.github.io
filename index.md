@@ -6,6 +6,13 @@ title: UCSB Library Carpentry Workshops
 Carpentry Workshops are hands-on, type-along experiences. Over the course of a workshop, Learners will create graphics and analyses 
 based on real-life (or analogous) datasets using widely-accepted tools.
 
+## Summer of R, 2022
+One continuous workshop, Early July through mid-August
+- Bash and Git
+- Intro to R
+- Visualization with ggplot2
+- Machine Learning algorithm
+
 ## Spring 2022 Carpentry Schedule
 - April 7, 8: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-07-ucsb-r-geospatial/), online
 - April 11, 13: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-11-ucsb-r-geospatial/), in-person
