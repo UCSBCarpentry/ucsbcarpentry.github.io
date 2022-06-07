@@ -3,18 +3,17 @@ title: UCSB Library Carpentry Workshops
 ---
 ![carpentry logo](fig/banner-carpentry.png)
 
-Carpentry Workshops are hands-on, type-along experiences. Over the course of a workshop, Learners will create graphics and analyses 
-based on real-life (or analogous) datasets using widely-accepted tools.
+## Summer of R, 2022 Schedule
 
-## Summer of R, 2022
-One continuous workshop, Early July through mid-August
-- Bash and Git
-- Intro to analysis with the Tidyverse
-- Visualization with ggplot2
-- GeoSpatial
-- Machine Learning algorithms
+The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. Please check back for the date, time, and workshop page.
+- July 2022: The Unix Shell
+- July 2022: Version Control with Git
+- July 2022: Introductory Data Analysis and Visualization in R (Part 1)
+- August 2022: Introductory Data Analysis and Visualization in R (Part 2)
+- August 2022: Introduction to Geospatial Raster and Vector Data with R
+- August 2022: Machine Learning for Tabular Data in R
 
-## Spring 2022 Carpentry Schedule
+## Spring 2022 Schedule
 - April 7, 8: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-07-ucsb-r-geospatial/), online
 - April 11, 13: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-11-ucsb-r-geospatial/), in-person
 - April 14: [Intro to OpenRefine](https://ucsbcarpentry.github.io/2022-04-14-ucsb-openrefine/), online
@@ -22,20 +21,21 @@ One continuous workshop, Early July through mid-August
 - May 12, 13: [Introduction to Webscraping](https://ucsbcarpentry.github.io/2022-05-12-ucsb-webscraping/), hybrid (online & in-person)
 - May 26, 27: [Harvesting Twitter with Twarc](https://ucsbcarpentry.github.io/2022-05-26-ucsb-twarc/), hybrid (online & in-person)
 
-
-#### Please check back for links to the website lesson if it is not available, dates are subject to minor change.
-
+<!---
+Remove comment delineators after RDS Workshops are scheduled
 
 [Research Data Services](https://www.library.ucsb.edu/research-data-services) is excited to launch a series of short, hybrid workshops dedicated to the Humanities and Social Sciences. Students, faculty, and staff are welcome. [Upcoming workshops.](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1225)
 Email [rds@library.ucsb.edu](mailto:rds@library.ucsb.edu) for more information.
-
+-->
 
 ## About Us
-**[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops here at UCSB are supported and organized through the Interdisciplinary Research Collaboratory at the UCSB Library.
-
+**[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops at UCSB are supported and organized by our stellar volunteers and the Interdisciplinary Research Collaboratory at the UCSB Library.
+<!---
+Uncomment after the page is done.
 [We have a few policies.](community/workshops)
+-->
 
-With the help of our stellar volunteers, we offer guided and hands-on workshops to undergraduate, staff, graduate students, and faculty researchers. These teachings focus on beginner-level research computing, data literacy, and information management. We always link to [our teaching material](https://ucsbcarpentry.github.io/past-workshops) after workshops have ended.
+We offer guided and hands-on workshops to researchers, including undergraduate, staff, graduate students, post-docs, and faculty. These teachings focus on beginner-level research computing, data literacy, and information management. Resources that persist outside of workshops is our community of data research and programming "carpenters," and the teaching material of [previous workshops](https://ucsbcarpentry.github.io/past-workshops).
 
 If you want to stay in the loop for future workshops, you can join our Carpentry mailing list with an @ucsb.edu email address and/or join our slack channel. If you do not have an @ucsb.edu email address, please email the Collaboratory directly so we can add you.
 
