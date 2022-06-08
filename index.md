@@ -5,13 +5,13 @@ title: UCSB Library Carpentry Workshops
 
 ## Summer of R, 2022 Schedule
 
-The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. Please check back for the date, time, and workshop page.
-- July 2022: The Unix Shell
-- July 2022: Version Control with Git
-- July 2022: Introductory Data Analysis and Visualization in R (Part 1)
-- August 2022: Introductory Data Analysis and Visualization in R (Part 2)
-- August 2022: Introduction to Geospatial Raster and Vector Data with R
-- August 2022: Machine Learning for Tabular Data in R
+The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. Dates are subject to minor change, please check back for the workshop page.
+- July 12, 14: The Unix Shell
+- July 19, 21: Version Control with Git
+- July 26, 28: Introductory Data Analysis and Visualization in R (Part 1)
+- August 2, 4: Introductory Data Analysis and Visualization in R (Part 2)
+- August 9, 11: Introduction to Geospatial Raster and Vector Data with R
+- August 16, 18: Machine Learning for Tabular Data in R
 
 ## Spring 2022 Schedule
 - April 7, 8: [Intro to Geospatial Raster and Vector Data in R](https://ucsbcarpentry.github.io/2022-04-07-ucsb-r-geospatial/), online
