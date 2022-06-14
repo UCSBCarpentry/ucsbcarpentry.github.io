@@ -4,6 +4,7 @@ title: Past Workshops
 permalink: /past-workshops/
 ---
 
+
 ![carpentry logo](fig/banner-pastworkshops.png)
 
 <table>
@@ -15,7 +16,18 @@ permalink: /past-workshops/
          <tr>
             <td><b>2022</b></td>
         </tr>
-
+        <tr><td>May 26, 27</td><td><a href="https://ucsbcarpentry.github.io/2022-05-26-ucsb-twarc/">
+            Harvesting Twitter with Twarc</a></td></tr>
+        <tr><td>May 12, 13</td><td><a href="https://ucsbcarpentry.github.io/2022-05-12-ucsb-webscraping/">
+            Introduction to Webscraping</a></td></tr>
+        <tr><td>April 19, 21</td><td><a href="https://ucsbcarpentry.github.io/2022-04-19-ucsb-python/">
+            Data Analysis and Visualization in Python</a></td></tr>
+        <tr><td>April 14</td><td><a href="https://ucsbcarpentry.github.io/2022-04-14-ucsb-openrefine/">
+            Intro to OpenRefine</a></td></tr>
+        <tr><td>April 11, 13</td><td><a href="https://ucsbcarpentry.github.io/2022-04-11-ucsb-r-geospatial/">
+            Intro to Geospatial Raster and Vector Data in R</a></td></tr>
+        <tr><td>April 7, 8</td><td><a href="https://ucsbcarpentry.github.io/2022-04-07-ucsb-r-geospatial/">
+            Intro to Geospatial Raster and Vector Data in R</a></td></tr>
         <tr><td>March 3, 4</td><td><a href="https://ucsbcarpentry.github.io/2022-03-03-ucsb-rstudio-reproducibility/">
             Reproducible Publications with RStudio</a></td></tr>
         <tr><td>February 24, 25</td><td><a href="https://ucsbcarpentry.github.io/2022-02-24-ucsb-R-online/">
