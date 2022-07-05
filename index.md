@@ -9,6 +9,8 @@ The target audience are researchers with little to no computational experience, 
 
 Dates are subject to minor change, please check back for the workshop page if it is not available.
 
+In our original flyer, we split Intro to R into two workshops, but now have collapsed that workshop into July 26, 28. 
+
 - [July 12, 14: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2022-07-12-ucsb-bash/), in-person & remote
 - [July 19, 21: Version Control with Git](https://ucsbcarpentry.github.io/2022-07-19-ucsb-git/), in-person & remote
 - [July 26, 28: Intro to Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-07-26-ucsb-R/), in-person & remote
