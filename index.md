@@ -7,14 +7,13 @@ title: UCSB Library Carpentry Workshops
 
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.  
 
-Dates are subject to minor change, please check back for the workshop page if it is not available.
-- *In our original flyer, we split Intro to R into two workshops, but now have collapsed that workshop into July 26, 28.*
+*In our original flyer, we split Intro to R into two workshops, but now have collapsed that workshop into July 26, 28.*
 
 - [July 12, 14: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2022-07-12-ucsb-bash/), in-person & remote
 - [July 19, 21: Version Control with Git](https://ucsbcarpentry.github.io/2022-07-19-ucsb-git/), in-person & remote
 - [July 26, 28: Intro to Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-07-26-ucsb-R/), in-person & remote
-- August 9, 11: Intro to Geospatial Raster and Vector Data with R, TBD
-- August 16, 18: Machine Learning for Tabular Data in R, TBD
+- [August 9, 11: Intro to Geospatial Raster and Vector Data with R](https://ucsbcarpentry.github.io/2022-08-09-ucsb-r-geospatial/), TBD
+- [August 16, 18: Machine Learning for Tabular Data in R](https://ucsbcarpentry.github.io/2022-08-16-ucsb-machlearn-r/), TBD
 
 <!---
 Remove comment delineators after RDS Workshops are scheduled
