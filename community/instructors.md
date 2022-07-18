@@ -35,6 +35,6 @@ training, we expect some things from you in return:
 Team meetings for are Wednesdays from 9:00 - 10:20, and as needed to prepare for workshops.
 
 
-Please <b>[contact us](mailto:collaboratory@library.ucsb.edu)</b> if you are interested
+Please <b>[contact us](mailto:dreamlab@library.ucsb.edu)</b> if you are interested
 in becoming a Carpentry Instructor or Helper!
 
