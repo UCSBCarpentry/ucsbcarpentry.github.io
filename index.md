@@ -23,17 +23,22 @@ Email [rds@library.ucsb.edu](mailto:rds@library.ucsb.edu) for more information.
 -->
 
 ## About Us
-**[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. Carpentry Workshops at UCSB are supported and organized by our stellar volunteers and the DREAM Lab (formerly, Interdisciplinary Research Collaboratory) at UCSB Library.
+**[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. 
+Carpentry Workshops at UCSB are supported and organized by our stellar volunteers and the DREAM Lab (formerly, Interdisciplinary Research Collaboratory) at UCSB Library.
 <!---
 Uncomment after the page is done.
 [We have a few policies.](community/workshops)
 -->
 
-We offer guided and hands-on workshops to researchers, including undergraduate, staff, graduate students, post-docs, and faculty. These teachings focus on beginner-level research computing, data literacy, and information management. Resources that persist outside of workshops is our community of data research and programming "carpenters," and the teaching material of [previous workshops](https://ucsbcarpentry.github.io/past-workshops).
+We offer guided and hands-on workshops to researchers, including undergraduate, staff, graduate students, post-docs, and faculty. 
+These teachings focus on beginner-level research computing, data literacy, and information management. 
+Resources that persist outside of workshops is our community of data research and programming "carpenters," and the teaching material of [previous workshops](https://ucsbcarpentry.github.io/past-workshops).
 
-If you want to stay in the loop for future workshops, you can join our Carpentry mailing list with an @ucsb.edu email address and/or join our slack channel. If you do not have an @ucsb.edu email address, please email the DREAM Lab directly so we can add you.
+If you want to stay in the loop for future workshops, you can join our Carpentry mailing list with an @ucsb.edu email address and/or join our slack channel. 
+If you do not have an @ucsb.edu email address, please email the DREAM Lab directly so we can add you.
 
-For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global Carpentries community- including researchers, post-docs, graduate students, faculty and staff. If you would like to get involved with putting on these workshops, please email us at **library-collaboratory@ucsb.edu** or visit our **[Instructors Page](https://ucsbcarpentry.github.io/community/instructors)**.
+For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global Carpentries community- including researchers, post-docs, graduate students, faculty and staff. 
+If you would like to get involved with putting on these workshops, please email us at **dreamlab@library.ucsb.edu** or visit our **[Instructors Page](https://ucsbcarpentry.github.io/community/instructors)**.
 
 *Signed,*
 <br>
