@@ -12,7 +12,7 @@ The target audience are researchers with little to no computational experience, 
 - [July 12, 14: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2022-07-12-ucsb-bash/), in-person & remote
 - [July 19, 21: Version Control with Git](https://ucsbcarpentry.github.io/2022-07-19-ucsb-git/), in-person & remote
 - [July 26, 28: Intro to Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-07-26-ucsb-R/), in-person & remote
-- [August 9, 11: Intro to Geospatial Raster and Vector Data with R](https://ucsbcarpentry.github.io/2022-08-09-ucsb-r-geospatial/), TBD
+- [August 9, 11: Intro to Geospatial Raster and Vector Data with R](https://ucsbcarpentry.github.io/2022-08-09-ucsb-r-geospatial/), in-person & remote
 - [August 16, 18: Machine Learning for Tabular Data in R](https://ucsbcarpentry.github.io/2022-08-16-ucsb-machlearn-r/), TBD
 
 <!---
