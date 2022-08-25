@@ -3,17 +3,14 @@ title: UCSB Library Carpentry Workshops
 ---
 ![carpentry logo](fig/banner-carpentry.png)
 
-## Summer of R, 2022 Schedule
+## Fall 2022 Workshop Schedule
 
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.  
 
-*In our original flyer, we split Intro to R into two workshops, but now have collapsed that workshop into July 26, 28.*
-
-- [July 12, 14: Intro to Bash-Shell](https://ucsbcarpentry.github.io/2022-07-12-ucsb-bash/), in-person & remote
-- [July 19, 21: Version Control with Git](https://ucsbcarpentry.github.io/2022-07-19-ucsb-git/), in-person & remote
-- [July 26, 28: Intro to Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-07-26-ucsb-R/), in-person & remote
-- [August 9, 11: Intro to Geospatial Raster and Vector Data with R](https://ucsbcarpentry.github.io/2022-08-09-ucsb-r-geospatial/), in-person & remote
-- [August 16, 18: Machine Learning for Tabular Data in R](https://ucsbcarpentry.github.io/2022-08-16-ucsb-machlearn-r/), in-person
+- [October 10: Data Organization in Spreadsheets](https://ucsbcarpentry.github.io/2022-10-11-ucsb-spreadsheets/), in-person
+- [October 18-20: Introduction to the Unix Shell & Version Control with Git](https://ucsbcarpentry.github.io/2022-10-18-ucsb-bash-git/), in person
+- [October 25, 26: Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/), in person
+- [November 8-10: Introduction to Reproducible Publications with RStudio](https://ucsbcarpentry.github.io/2022-11-8-ucsb-reproducible-pubs/), in person
 
 <!---
 Remove comment delineators after RDS Workshops are scheduled
