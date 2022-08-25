@@ -14,8 +14,20 @@ permalink: /past-workshops/
     </thead>
     <tbody>
          <tr>
-            <td><b>2022</b></td>
+            <td><b>2022 Workshops</b></td>
         </tr>
+        <!-- summer 2022 -->
+        <tr><td>August 16, 18</td><td><a href="https://ucsbcarpentry.github.io/2022-08-16-ucsb-machlearn-r/">
+            Machine Learning for Tabular Data in R</a></td></tr>  
+        <tr><td>August 9, 11</td><td><a href="https://ucsbcarpentry.github.io/2022-08-09-ucsb-r-geospatial/">
+            Intro to Geospatial Raster and Vector Data with R</a></td></tr>  
+        <tr><td>July 26, 28</td><td><a href="https://ucsbcarpentry.github.io/2022-07-26-ucsb-R/">
+            Intro to Data Analysis and Visualization in R</a></td></tr>  
+        <tr><td>July 19, 21</td><td><a href="https://ucsbcarpentry.github.io/2022-07-19-ucsb-git/">
+            Version Control with Git</a></td></tr>  
+        <tr><td>July 12, 14</td><td><a href="https://ucsbcarpentry.github.io/2022-07-12-ucsb-bash/">
+            Intro to Bash-Shell</a></td></tr>  
+        <!-- sprint 2022 -->
         <tr><td>May 26, 27</td><td><a href="https://ucsbcarpentry.github.io/2022-05-26-ucsb-twarc/">
             Harvesting Twitter with Twarc</a></td></tr>
         <tr><td>May 12, 13</td><td><a href="https://ucsbcarpentry.github.io/2022-05-12-ucsb-webscraping/">
