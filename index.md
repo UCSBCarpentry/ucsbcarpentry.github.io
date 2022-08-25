@@ -9,7 +9,7 @@ The target audience are researchers with little to no computational experience, 
 
 - [October 10: Data Organization in Spreadsheets](https://ucsbcarpentry.github.io/2022-10-11-ucsb-spreadsheets/), in-person
 - [October 18-20: Introduction to the Unix Shell & Version Control with Git](https://ucsbcarpentry.github.io/2022-10-18-ucsb-bash-git/), in person
-- [October 25, 26: Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/), in person
+- [October 25 & 27: Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/), in person
 - [November 8-10: Introduction to Reproducible Publications with RStudio](https://ucsbcarpentry.github.io/2022-11-8-ucsb-reproducible-pubs/), in person
 
 <!---
