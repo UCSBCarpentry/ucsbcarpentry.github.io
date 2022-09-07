@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+    <h2>{{page.title}}</h2>
+    <ul>
+        <li>{{page.date | date_to_long_string}} @{{page.time}}</li>
+        <li>Zoom link: <a href="{{ page.zoom }}">{{ page.zoom }}</a></li>
+    </ul>
+
+{{ content }}
