@@ -1,8 +1,6 @@
 ---
 title: UCSB Library Carpentry Workshops
 ---
-![carpentry logo](fig/banner-carpentry.png)
-
 ## Fall 2022 Workshop Schedule
 
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.  

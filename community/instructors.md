@@ -3,7 +3,6 @@ layout: page
 title: UCSB Library Carpentry Community
 ---
 
-![carpentry community banner](fig/banner-cc.png)
 [Local Workshop Practices](workshops)
 
 # Carpentry Volunteering

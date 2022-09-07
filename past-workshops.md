@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: default
 title: Past Workshops
 permalink: /past-workshops/
 ---
-
-
-![carpentry logo](fig/banner-pastworkshops.png)
 
 <table>
     <thead>
