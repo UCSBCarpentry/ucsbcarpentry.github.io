@@ -11,6 +11,8 @@ The target audience are researchers with little to no computational experience, 
 - [October 25 & 27: Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/), in person
 - [November 8-10: Introduction to Reproducible Publications with RStudio](https://ucsbcarpentry.github.io/2022-11-8-ucsb-reproducible-pubs/), in person
 
+UCSB Library's [Research Data Services](https://www.library.ucsb.edu/research-data-services) team is offering workshops on data de-identification (November 2) and network analysis (November 14). Details will be posted here as they become available.
+
 ## Community Meetings
 
 UCSB Carpentry Community meetings are a venue for open discussion on topics in computational research. Meetings take place on Zoom and are open to all researchers in the Santa Barbara area. Feel free to propose a topic for an upcoming meeting!
@@ -23,10 +25,6 @@ UCSB Carpentry Community meetings are a venue for open discussion on topics in c
 ## About Us
 **[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers. 
 Carpentry Workshops at UCSB are supported and organized by our stellar volunteers and the DREAM Lab (formerly, Interdisciplinary Research Collaboratory) at UCSB Library.
-<!---
-Uncomment after the page is done.
-[We have a few policies.](community/workshops)
--->
 
 We offer guided and hands-on workshops to researchers, including undergraduate, staff, graduate students, post-docs, and faculty. 
 These teachings focus on beginner-level research computing, data literacy, and information management. 

@@ -13,7 +13,7 @@ The agenda is here to focus discussion, not enforce it.
 - Short introductions
 - New ground rules for UCSB Carpentry Community Meetings:
     - a venue for open discussion on topics in computational research
-    - The should be fun and informative
+    - They should be fun and informative
     - Feel free to propose a topic!
     - __No workshop planning!__
 - Project organization: how do you organize your project files? Do you use an established directory structure convention (e.g., [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/#directory-structure))?  
