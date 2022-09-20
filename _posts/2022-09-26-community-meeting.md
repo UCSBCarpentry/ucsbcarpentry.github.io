@@ -23,3 +23,5 @@ The agenda is here to focus discussion, not enforce it.
 - Topics for next meeting (October)
 
 ### Meeting Notes
+
+- [https://docs.google.com/document/d/1dxvUcvIh-s9u8EnXeUPDMceT-xJK1notdt0qm3VnlIw/edit#](https://docs.google.com/document/d/1dxvUcvIh-s9u8EnXeUPDMceT-xJK1notdt0qm3VnlIw/edit#)
