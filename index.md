@@ -11,7 +11,7 @@ The target audience are researchers with little to no computational experience, 
 - [October 25 & 27: Data Analysis and Visualization in R](https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/), in person
 - [November 8-10: Introduction to Reproducible Publications with RStudio](https://ucsbcarpentry.github.io/2022-11-8-ucsb-reproducible-pubs/), in person
 
-UCSB Library's [Research Data Services](https://www.library.ucsb.edu/research-data-services) team is offering workshops on data de-identification (November 2) and network analysis (November 14). Details will be posted here as they become available.
+UCSB Library's [Research Data Services](https://www.library.ucsb.edu/research-data-services) team is offering an additional workshop on data de-identification (November 2). Details will be posted here as they become available.
 
 ## Community Meetings
 
