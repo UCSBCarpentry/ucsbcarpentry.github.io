@@ -13,6 +13,8 @@ permalink: /past-workshops/
          <tr>
             <td><b>2022 Workshops</b></td>
         </tr>
+        <tr><td>September 6 - 13</td><td><a href="https://ti.to/ucsd-carpentries/uc-carpentries-fall-workshop-2022">
+            UC Carpentries Fall 2022 Workshop Series</a></td></tr>
         <!-- summer 2022 -->
         <tr><td>August 16, 18</td><td><a href="https://ucsbcarpentry.github.io/2022-08-16-ucsb-machlearn-r/">
             Machine Learning for Tabular Data in R</a></td></tr>  
