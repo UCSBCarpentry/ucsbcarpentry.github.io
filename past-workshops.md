@@ -13,6 +13,10 @@ permalink: /past-workshops/
          <tr>
             <td><b>2022 Workshops</b></td>
         </tr>
+        <tr><td>October 18-20</td><td><a href="https://ucsbcarpentry.github.io/2022-10-18-ucsb-bash-git/">
+            Introduction to the Unix Shell & Version Control with Git</a></td></tr>
+        <tr><td>October 11</td><td><a href="https://ucsbcarpentry.github.io/2022-10-11-ucsb-spreadsheets/">
+            Data Organization in Spreadsheets</a></td></tr>
         <tr><td>September 6 - 13</td><td><a href="https://ti.to/ucsd-carpentries/uc-carpentries-fall-workshop-2022">
             UC Carpentries Fall 2022 Workshop Series</a></td></tr>
         <!-- summer 2022 -->
