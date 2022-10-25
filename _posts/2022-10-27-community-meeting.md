@@ -10,7 +10,11 @@ time: 3:30-5PM
 
 - Introductions
 - Community Updates
-- ... 
+- Python dependency management. 
+    - What are best practices for managing dependencies for jupyter notebooks?
+- Updates on the UCSB R atlas
+    - https://github.com/UCSBCarpentry/geospatialRUCSBAtlas
+
 
 ### Meeting Notes
 
