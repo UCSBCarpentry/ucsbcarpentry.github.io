@@ -13,6 +13,9 @@ permalink: /past-workshops/
          <tr>
             <td><b>2022 Workshops</b></td>
         </tr>
+        <tr>
+        <td>October 25 & 27</td><td><a href="https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/">
+                Data Analysis and Visualization in R</a></td></tr>
         <tr><td>October 18-20</td><td><a href="https://ucsbcarpentry.github.io/2022-10-18-ucsb-bash-git/">
             Introduction to the Unix Shell & Version Control with Git</a></td></tr>
         <tr><td>October 11</td><td><a href="https://ucsbcarpentry.github.io/2022-10-11-ucsb-spreadsheets/">
