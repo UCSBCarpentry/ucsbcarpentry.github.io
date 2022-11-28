@@ -13,8 +13,9 @@ permalink: /past-workshops/
          <tr>
             <td><b>2022 Workshops</b></td>
         </tr>
-        <tr>
-        <td>October 25 & 27</td><td><a href="https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/">
+        <tr><td>November 8-10</td><td><a href=" https://ucsbcarpentry.github.io/2022-11-8-ucsb-reproducible-pubs/">
+                Introduction to Reproducible Publications with RStudio</a></td></tr>
+        <tr><td>October 25 & 27</td><td><a href="https://ucsbcarpentry.github.io/2022-10-25-ucsb-intro-R/">
                 Data Analysis and Visualization in R</a></td></tr>
         <tr><td>October 18-20</td><td><a href="https://ucsbcarpentry.github.io/2022-10-18-ucsb-bash-git/">
             Introduction to the Unix Shell & Version Control with Git</a></td></tr>

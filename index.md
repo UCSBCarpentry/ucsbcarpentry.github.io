@@ -1,13 +1,11 @@
 ---
 title: UCSB Library Carpentry Workshops
 ---
-## Upcoming Workshops
+<!-- ## Upcoming Workshops -->
 
-- [November 8-10: Introduction to Reproducible Publications with RStudio](https://ucsbcarpentry.github.io/2022-11-8-ucsb-reproducible-pubs/), in person
+<!-- The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.  -->
 
-The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC. 
-
-## Community Meetings
+## Upcoming Community Meetings
 
 {% assign meeting=site.categories.meeting |  where_exp:"item", "item.date > site.time" | first %}
 <ul>

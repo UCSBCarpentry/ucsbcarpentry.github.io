@@ -10,11 +10,10 @@ time: 3:30-5PM
 
 - Introductions
 - Community Updates
-- Python dependency management. 
+- Python dependency management.
     - What are best practices for managing dependencies for jupyter notebooks?
-- Updates on the UCSB R atlas
-    - https://github.com/UCSBCarpentry/geospatialRUCSBAtlas
-
+- Show and Tell: DREAM Lab’s Quarto Notebook for Workshop Survey Results
+    - https://github.com/UCSBCarpentry/wkshp-survey-analysis
 
 ### Meeting Notes
 
