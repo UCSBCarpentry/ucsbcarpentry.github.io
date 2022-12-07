@@ -16,8 +16,9 @@ and preservation. Whether you're working on qualitative or quantitative data, we
 University of California community are welcome to attend. Make sure you registers with your UC-campus email. 
 <ul>
 <li><td>February 13:</td><td><a href="https://www.eventbrite.com/e/love-data-week-data-visualization-dos-and-donts-tickets-479568701897"> Data Visualization: Do's and Don'ts</a></td></li>
-<li><td>February 15: Data De-identification in Practice</td></li>
+<li><td>February 15:</td><td><a href="https://www.eventbrite.com/e/love-data-week-data-de-identification-in-practice-tickets-479576866317"> Data De-identification in Practice</a></td></li>
 </ul>
+
 
 ## Upcoming Community Meetings
 
