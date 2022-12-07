@@ -9,7 +9,7 @@ The target audience are researchers with little to no computational experience, 
 <li><tr><td>February 20: Introduction to Python</td></tr></li>
 </ul>
 
-#### UC Love Data Week 2023
+<h4><a href="https://uc-love-data-week.github.io/">UC Love Data Week 2023</a></h4>
 
 UC Love Data Week is a week-long offering of presentation adn workshops focused on data access, management, security, sharing, 
 and preservation. Whether you're working on qualitative or quantitative data, we've got events for you! All members of the
