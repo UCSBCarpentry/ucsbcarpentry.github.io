@@ -1,9 +1,23 @@
 ---
 title: UCSB Library Carpentry Workshops
 ---
-<!-- ## Upcoming Workshops -->
+## Upcoming Workshops: Winter 2023
 
-<!-- The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.  -->
+The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.
+<ul>
+<li><tr><td>January 23, 30, & February 6: Mondays <b>R</b> for Social Science</td></tr></li>
+<li><tr><td>February 20: Introduction to Python</td></tr></li>
+</ul>
+
+#### UC Love Data Week 2023
+
+UC Love Data Week is a week-long offering of presentation adn workshops focused on data access, management, security, sharing, 
+and preservation. Whether you're working on qualitative or quantitative data, we've got events for you! All members of the
+University of California community are welcome to attend. Make sure you registers with your UC-campus email. 
+<ul>
+<li><td>February 13: Data Visualization: Do's and Don'ts</td></li>
+<li><td>February 15: Data De-identification in Practice</td></li>
+</ul>
 
 ## Upcoming Community Meetings
 
