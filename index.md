@@ -4,6 +4,8 @@ title: UCSB Library Carpentry Workshops
 ## Upcoming Workshops: Winter 2023
 
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.
+<br>
+*Please come back for registrations and workshop websites*
 <ul>
 <li><tr><td>January 23, 30, & February 6: Mondays <b>R</b> for Social Science</td></tr></li>
 <li><tr><td>February 20: Introduction to Python</td></tr></li>
