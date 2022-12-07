@@ -15,7 +15,7 @@ UC Love Data Week is a week-long offering of presentation adn workshops focused 
 and preservation. Whether you're working on qualitative or quantitative data, we've got events for you! All members of the
 University of California community are welcome to attend. Make sure you registers with your UC-campus email. 
 <ul>
-<li><td>February 13: Data Visualization: Do's and Don'ts</td></li>
+<li><td>February 13:</td><td><a href="https://www.eventbrite.com/e/love-data-week-data-visualization-dos-and-donts-tickets-479568701897"> Data Visualization: Do's and Don'ts</a></td></li>
 <li><td>February 15: Data De-identification in Practice</td></li>
 </ul>
 
