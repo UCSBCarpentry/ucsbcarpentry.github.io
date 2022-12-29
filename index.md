@@ -7,7 +7,7 @@ The target audience are researchers with little to no computational experience, 
 <br>
 *Please come back for registrations and workshop websites*
 <ul>
-<li><tr><td>January 23, 30, & February 6: Mondays <b>R</b> for Social Science</td></tr></li>
+<li><tr><td>January 23, 30, & February 6: </td><td><a href= "https://ucsbcarpentry.github.io/2023-01-23-ucsb-r/"> Mondays <b>R</b> for Social Science</a></td></tr></li>
 <li><tr><td>February 20: Introduction to Python</td></tr></li>
 </ul>
 
