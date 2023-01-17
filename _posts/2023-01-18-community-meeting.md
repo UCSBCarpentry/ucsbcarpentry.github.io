@@ -2,7 +2,7 @@
 layout: meeting
 category: meeting
 title: "Community Meeting"
-zoom: " https://ucsb.zoom.us/j/85883488926?pwd=a09tNzFxYkVpbTFEbWc4cExIaUFSUT09"
+zoom: "https://ucsb.zoom.us/j/85883488926?pwd=a09tNzFxYkVpbTFEbWc4cExIaUFSUT09"
 time: 3:30-5PM
 ---
 
@@ -10,6 +10,11 @@ time: 3:30-5PM
 
 - Introductions
 - Community Updates
+- Discussion: 
+    - Briefly: Upcoming teaching opportunities: 
+    - Data Access APIs (Seth): What are desirable characteristics for APIs used to access data from repositories within programming environments like R and python? In most cases, APIs are tailored to particular types of data (e.g., US Census data, or Twitter data), however there are a few “general purpose” APIs for accessing datasets in repositories (dataverse-client-r, rdataone). Are general purpose APIs for downloading datasets from repositories useful? If so, why hasn’t there been more standardization in this area? For example: a reliable way to download files for a dataset based on its DOI, regardless of repository.
+    - Additional topics welcome!
+
 
 ### Meeting Notes
 
