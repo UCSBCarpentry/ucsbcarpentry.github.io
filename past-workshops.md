@@ -10,6 +10,10 @@ permalink: /past-workshops/
             <th>Workshop Name</th>
     </thead>
     <tbody>
+        <tr>
+            <td><b>2023 Workshops</b></td>
+        </tr>
+        <tr><td>January 23, 30, & February 6</td><td><a href= "https://ucsbcarpentry.github.io/2023-01-23-ucsb-r/"> Mondays <b>R</b> for Social Science</a></td></tr>
          <tr>
             <td><b>2022 Workshops</b></td>
         </tr>
