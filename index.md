@@ -8,6 +8,7 @@ The target audience are researchers with little to no computational experience, 
 - April 25-26: Introduction to Version Control with Git
 - May 5: Intro to GIS with ArcGIS Online
 - May 11: Building Websites with Jekyll and GitHub
+- May 16-18: Data Analysis and Visualization in Python
 
 ## Upcoming Community Meetings
 
