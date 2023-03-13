@@ -13,8 +13,9 @@ permalink: /past-workshops/
         <tr>
             <td><b>2023 Workshops</b></td>
         </tr>
-        <tr><td>January 23, 30, & February 6</td><td><a href= "https://ucsbcarpentry.github.io/2023-01-23-ucsb-r/"> Mondays <b>R</b> for Social Science</a></td></tr>
-         <tr>
+        <tr><td>February 21-23</td><td><a href="https://ucsbcarpentry.github.io/2023-02-21-python/"> Intro to Data Analysis & Visualization in Python</a></td></tr>
+        <tr><td>Jan. 23, 30, & Feb. 6</td><td><a href= "https://ucsbcarpentry.github.io/2023-01-23-ucsb-r/"> Mondays <b>R</b> for Social Science</a></td></tr>
+        <tr>
             <td><b>2022 Workshops</b></td>
         </tr>
         <tr><td>November 8-10</td><td><a href=" https://ucsbcarpentry.github.io/2022-11-8-ucsb-reproducible-pubs/">
