@@ -1,26 +1,14 @@
 ---
 title: UCSB Library Carpentry Workshops
 ---
-## Upcoming Workshops: Winter 2023
+## Upcoming Workshops: Spring 2023
 
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.
-<br>
-*Please come back for registrations and workshop websites*
-<ul>
-<li><tr><td>January 23, 30, & February 6: </td><td><a href= "https://ucsbcarpentry.github.io/2023-01-23-ucsb-r/"> Mondays <b>R</b> for Social Science</a></td></tr></li>
-<li><tr><td>February 21-23: </td><td><a href="https://ucsbcarpentry.github.io/2023-02-21-python/"> Intro to Data Analysis & Visualization in Python</a></td></tr></li>
-</ul>
 
-<h4><a href="https://uc-love-data-week.github.io/">UC Love Data Week 2023</a></h4>
-
-UC Love Data Week is a week-long offering of presentations and workshops focused on data access, management, security, sharing, 
-and preservation. Whether you're working on qualitative or quantitative data, we've got events for you! All members of the
-University of California community are welcome to attend. Make sure you register with your UC-campus email. 
-<ul>
-<li><td>February 13:</td><td><a href="https://www.eventbrite.com/e/love-data-week-data-visualization-dos-and-donts-tickets-479568701897"> Data Visualization: Do's and Don'ts</a></td></li>
-<li><td>February 15:</td><td><a href="https://www.eventbrite.com/e/love-data-week-data-de-identification-in-practice-tickets-479576866317"> Data De-identification in Practice</a></td></li>
-</ul>
-
+- April 25-26: Introduction to Version Control with Git
+- May 5: Intro to GIS with ArcGIS Online
+- May 11: Building Websites with Jekyll and GitHub
+- May 16-18: Data Analysis and Visualization in Python
 
 ## Upcoming Community Meetings
 
