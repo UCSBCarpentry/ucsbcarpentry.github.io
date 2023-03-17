@@ -6,8 +6,9 @@ title: UCSB Library Carpentry Workshops
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.
 
 - April 25-26: Introduction to Version Control with Git
-- May 5: Intro to GIS with ArcGIS Online
+- May 5: Measure, Map, and Publish with ArcGIS Pro and Online
 - May 11: Building Websites with Jekyll and GitHub
+- May 12: *to be announced*
 - May 16-18: Data Analysis and Visualization in Python
 
 ## Upcoming Community Meetings
