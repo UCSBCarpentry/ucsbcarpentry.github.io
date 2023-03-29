@@ -7,7 +7,7 @@ The target audience are researchers with little to no computational experience, 
 
 - April 25-26: [Introduction to Version Control with Git](https://ucsbcarpentry.github.io/2023-04-25-ucsb-git/)
 - May 5: Measure, Map, and Publish with ArcGIS Pro and Online
-- May 12: *to be announced*
+- May 12: Planet Labs Workshop
 - May 16-18: [Data Analysis and Visualization in Python](https://ucsbcarpentry.github.io/2023-05-16-ucsb-python/)
 
 ## Upcoming Community Meetings
