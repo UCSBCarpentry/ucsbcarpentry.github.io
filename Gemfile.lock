@@ -30,7 +30,7 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.1)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (227)
@@ -255,7 +255,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
-    unf_ext (0.0.8.2-x64-mingw-ucrt)
+    unf_ext (0.0.8.2-x64-unknown)
     unicode-display_width (1.8.0)
     webrick (1.7.0)
     zeitwerk (2.6.1)
@@ -263,7 +263,7 @@ GEM
 PLATFORMS
   arm64-darwin-21
   ruby
-  x64-mingw-ucrt
+  x64-unknown
   x86_64-linux
 
 DEPENDENCIES
