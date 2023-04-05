@@ -218,13 +218,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.13.10-arm64-darwin)
       racc (~> 1.4)
-<<<<<<< HEAD
-    nokogiri (1.13.9-x64-mingw-ucrt)
-      racc (~> 1.4)
-    nokogiri (1.13.9-x86_64-linux)
-=======
     nokogiri (1.13.10-x86_64-linux)
->>>>>>> a456a11bc2b569e610f6e5bc8ef7dff0cee534fa
       racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
