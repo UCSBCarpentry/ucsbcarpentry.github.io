@@ -1,8 +1,3 @@
-
-* {
-    box-sizing: border-box;
-}
-
 :root { 
   --sans-font: 'Inter', -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, "Noto Sans", "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
@@ -17,4 +12,13 @@
   --preformatted: #444;
   --marked: #ffdd33;
   --disabled: #efefef;
+}
+
+header {
+  background-image: url(/fig/contour2.jpg);
+  background-size: contain;
+}
+
+header nav a {
+  background-color: var(--accent-bg);
 }
