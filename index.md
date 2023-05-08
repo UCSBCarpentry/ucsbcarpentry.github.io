@@ -12,10 +12,15 @@ The target audience are researchers with little to no computational experience, 
 
 ## Community Meetings
 
-{% assign meeting=site.categories.meeting |  where_exp:"item", "item.date > site.time" | first %}
 <ul>
-<li><a href="{{meeting.url}}"> {{  meeting.date | date: "%B %d" }}: {{ meeting.title }} (agenda) </a></li>
+{% assign meeting=site.categories.meeting |  where_exp:"item", "item.date > site.time" | first %}
+{% if meeting %}
+    <li> <a href="{{meeting.url}}"> {{  meeting.date | date: "%B %d" }}: {{ meeting.title }} (agenda) </a></li>
+{% else %}
+    <li> The next community meeting is not yet scheduled. Check back soon! </li>
+{% endif %}
 </ul>
+
 
 UCSB Carpentry Community meetings are a venue for open discussion on topics in computational research. Meetings take place on Zoom and are open to all researchers in the Santa Barbara area. Feel free to propose a topic for an upcoming meeting!
 
