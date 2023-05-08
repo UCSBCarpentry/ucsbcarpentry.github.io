@@ -3,8 +3,6 @@ title: UCSB Library Carpentry Workshops
 ---
 ## Upcoming Workshops
 
-- April 25-26: [Introduction to Version Control with Git](https://ucsbcarpentry.github.io/2023-04-25-ucsb-git/)
-- May 5: [Measure, Map, and Publish with ArcGIS Pro and Online](https://ucsbcarpentry.github.io/2023-MEDS-GIS/)
 - May 12: [Planet Labs Workshop](https://ucsbcarpentry.github.io/2023-Planet-Labs/)
 - May 16-18: [Data Analysis and Visualization in Python](https://ucsbcarpentry.github.io/2023-05-16-ucsb-python/)
 
