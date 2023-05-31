@@ -14,6 +14,7 @@ permalink: /past-workshops/
             <td><b>2023 Workshops</b></td>
         </tr>
         <tr>
+            <td>May 12</td><td><a href="https://ucsbcarpentry.github.io/2023-Planet-Labs/">Planet Labs Workshop</a></td>
             <td> May 5</td><td><a href="https://ucsbcarpentry.github.io/2023-MEDS-GIS/">Measure, Map, and Publish with ArcGIS Pro and Online</a></td>
         </tr><tr>
             <td>April 25-26</td><td><a href="https://ucsbcarpentry.github.io/2023-04-25-ucsb-git/">Introduction to Version Control with Git</a></td>
