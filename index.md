@@ -3,8 +3,7 @@ title: UCSB Library Carpentry Workshops
 ---
 ## Upcoming Workshops
 
-- May 12: [Planet Labs Workshop](https://ucsbcarpentry.github.io/2023-Planet-Labs/)
-- May 16-18: [Data Analysis and Visualization in Python](https://ucsbcarpentry.github.io/2023-05-16-ucsb-python/)
+We will be taking a short break from workshops during Summer Session A. 
 
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.
 
