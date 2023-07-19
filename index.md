@@ -3,7 +3,8 @@ title: UCSB Library Carpentry Workshops
 ---
 ## Upcoming Workshops
 
-We will be taking a short break from workshops during Summer Session A. 
+July 28 & Aug 4: <a href= "https://ucsbcarpentry.github.io/2023-07-28-ucsb-mcnairs-R/"> What does it mean to be Reproducible in R?</a>
+
 
 The target audience are researchers with little to no computational experience, and are looking to learn tools that enable data-driven discovery. These workshops are synchronous and hands-on. These are open to any academics in the Santa Barbara area including UCSB, Westmont, and SBCC.
 
