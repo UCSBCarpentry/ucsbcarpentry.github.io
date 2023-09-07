@@ -1,0 +1,7 @@
+<h2>Upcoming Workshops</h2>
+
+<ul>
+{% for w in workshops %}
+    <li> {{w.human_date}}: <a href="{{w.url}}">{{ w.title }}</a></li>
+{% endfor %}
+</ul>
