@@ -1,12 +1,46 @@
 ---
 layout: default
 ---
-    <h3> {{page.title}}</h3>
+    <h3>{{page.title}}</h3>
     
-    <p>Workshop: {{page.human_date}}, {{page.year}}, {{page.time}}</p>
-    <p>{{page.location}}</p>
-    <p>Instructors: {{page.instructors}}</p>
-    <p>Helpers: {{page.helpers}}</p>
-    
+    <div class="details"> 
+        <p style="margin:0;font-weight:bold">{{page.human_date}}, {{page.year}}</p>
+        <p style="margin:0">{{page.time}}</p>
+        <p style="margin-top:0">{{page.location}}</p>
+        <p style="margin:0">Instructors: {{page.instructors}}</p>
+        <p style="margin:0">Helpers: {{page.helpers}}</p>
+        <p style="float:left">{{ content }}</p>
+    </div>
 
-{{ content }}
+
+    <div class="registration">
+    {% if page.eventbrite %}
+        <h3>Registration</h3>
+        <iframe src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" frameborder="0" width="100%" height="420px" scrolling="auto"></iframe>
+        <p>Registration will open October 2<sup>nd</sup>.</p>
+        <p>Some adblockers block the registration window. If you do not see the
+        registration box above, please check your adblocker settings.</p>
+    {% endif %}
+    </div>
+
+    <div class="conduct">
+        <h4>Code of Conduct</h4>
+        <p> Everyone who participates in Carpentries activities is required to
+        conform to the Code of Conduct. This document also outlines how to
+        report an incident if needed.</p>
+        <p>
+            <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
+              <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
+            </a>
+          </p>
+    </div>
+
+    <div class="survey-links">
+        <h4>Surveys</h4>
+        <p>Please be sure to complete these surveys before and after the
+        workshop.</p>
+        <p><a href="{{page.pre_workshop_survey}}">Pre-workshop survey</a></p>
+        <p><a href=""> Post-workshop survey</a></p>
+    </div>
+
+

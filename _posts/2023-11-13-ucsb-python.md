@@ -10,6 +10,5 @@ instructors: Seth Erickson
 helpers: Kristi Liu
 pre_workshop_survey:
 post_workshop_survey:
-lesson_url:
 eventbrite_url:
 ---

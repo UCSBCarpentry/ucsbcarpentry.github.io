@@ -3,7 +3,7 @@ title: UCSB Library Carpentry Workshops
 ---
 
 <!-- upcoming workshops -->
-{% assign workshops=site.categories.workshop | where_exp:"item", "item.date > site.time" %}
+{% assign workshops=site.categories.workshop | where_exp:"item", "item.date > site.time"  | sort: "date" %}
 {%- include workshop_schedule.html workshops=workshops %}
 
 ## Community Meetings
