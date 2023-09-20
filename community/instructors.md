@@ -31,7 +31,6 @@ training, we expect some things from you in return:
   school year
 * Participate in team meetings in the lead up to, and immediately after, workshops in which you participate.
 
-Team meetings for are Wednesdays from 9:00 - 10:20, and as needed to prepare for workshops.
 
 
 Please <b>[contact us](mailto:dreamlab@library.ucsb.edu)</b> if you are interested
