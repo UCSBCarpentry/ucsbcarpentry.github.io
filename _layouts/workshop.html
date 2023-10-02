@@ -10,6 +10,14 @@ layout: default
         <p style="margin:0">Instructors: {{page.instructors}}</p>
         <p style="margin:0">Helpers: {{page.helpers}}</p>
         <p style="float:left">{{ content }}</p>
+        
+        {% if page.lesson_url %}
+        <p class="lesson">
+            <a href="{{page.lesson_url}}">
+                <button type="button" class="btn btn-info">Workshop Materials</button>
+            </a>
+        </p>
+        {% endif %}
     </div>
 
 
@@ -23,6 +31,25 @@ layout: default
     {% endif %}
     </div>
 
+    {% if page.pre_workshop_survey %}
+    <div class="survey-links">
+        <h4>Surveys</h4>
+        <p>Please be sure to complete these surveys before and after the
+        workshop.</p>
+        <p>
+            <a href="{{page.pre_workshop_survey}}">
+                <button type="button" class="btn btn-info">Pre-workshop survey</button>
+            </a>
+            
+            {% if page.post_workshop_survey %}
+            <a href="{{page.post_workshop_survey}}"> 
+                <button type="button" class="btn btn-info">Post-workshop survey</button>
+            </a>
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+
     <div class="conduct">
         <h4>Code of Conduct</h4>
         <p> Everyone who participates in Carpentries activities is required to
@@ -30,17 +57,11 @@ layout: default
         report an incident if needed.</p>
         <p>
             <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
-              <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
+                <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
             </a>
-          </p>
+        </p>
     </div>
 
-    <div class="survey-links">
-        <h4>Surveys</h4>
-        <p>Please be sure to complete these surveys before and after the
-        workshop.</p>
-        <p><a href="{{page.pre_workshop_survey}}">Pre-workshop survey</a></p>
-        <p><a href=""> Post-workshop survey</a></p>
-    </div>
+
 
 
