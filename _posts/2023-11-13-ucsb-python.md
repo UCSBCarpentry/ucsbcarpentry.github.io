@@ -10,7 +10,7 @@ instructors: Seth Erickson
 helpers: Kristi Liu
 pre_workshop_survey:
 post_workshop_survey:
-eventbrite_url: "726426490187"
+eventbrite: "726426490187"
 ---
 
 This three-day, example-driven workshop on Nov 14-16, 2023  is an introduction to programming in Python for people with little or no previous programming experience. 
