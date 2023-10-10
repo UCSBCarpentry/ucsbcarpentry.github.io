@@ -13,4 +13,6 @@ post_workshop_survey:
 eventbrite: 
 ---
 
+Registration priority will be be given to learners from Psych & Brain Sciences, Journal Club,
+and members of the Quantitative Methods for the Social Sciences (QMSS) Group. 
 
