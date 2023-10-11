@@ -14,6 +14,9 @@ permalink: /past-workshops/
             <td><b>2023 Workshops</b></td>
         </tr>
         <tr>
+            <td>July 28, Aug 4 & 11</td><td><a href="https://ucsbcarpentry.github.io/2023-07-28-ucsb-mcnairs-R/">What does it mean to be Reproducible in R?</a></td>
+        </tr>
+        <tr>
             <td>May 16-18</td><td><a href="https://ucsbcarpentry.github.io/2023-05-16-ucsb-python/"> Data Analysis and Visualization in Python</a></td>
         </tr><tr>
             <td>May 12</td><td><a href="https://ucsbcarpentry.github.io/2023-Planet-Labs/">Planet Labs Workshop</a></td>
