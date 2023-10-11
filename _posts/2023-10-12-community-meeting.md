@@ -12,6 +12,7 @@ This is our first Fall community meeting of the academic year. We will discuss t
 
 - Introductions
 - Community Updates
+- [Carpentry Instructor Training](https://preview.carpentries.org/instructor-training/training_calendar.html#upcoming-instructor-training): November 7-8 and December 7-8. Let us know if you would like attend.
 - Discussion
 
 *Additional topics welcome!
