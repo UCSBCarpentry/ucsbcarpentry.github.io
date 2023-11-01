@@ -13,6 +13,9 @@ permalink: /past-workshops/
         <tr>
             <td><b>2023 Workshops</b></td>
         </tr>
+         <tr>
+            <td>October 23-24</td><td><a href="/workshop/2023/10/23/ucsb-git.html">Version Control with Git</a></td>
+        </tr>
         <tr>
             <td>July 28, Aug 4 & 11</td><td><a href="https://ucsbcarpentry.github.io/2023-07-28-ucsb-mcnairs-R/">What does it mean to be Reproducible in R?</a></td>
         </tr>
