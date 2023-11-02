@@ -11,6 +11,7 @@ helpers: Kristi Liu
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_a9lbCFfUFKvRaCO"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_24h9cuaCYaLuZf0"
 eventbrite: "726426490187"
+lesson_url: "https://ucsbcarpentry.github.io/2023-11-14-ucsb-python"
 ---
 
 This three-day, example-driven workshop on Nov 14-16, 2023  is an introduction
