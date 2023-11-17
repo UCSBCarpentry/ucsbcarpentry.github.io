@@ -11,7 +11,7 @@ helpers: Kristi Liu, Ian Lessing, Julien Brun
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_86yuYtk3In1aCyy"
 post_workshop_survey:
 eventbrite: "747502097897"
-lesson url: "https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/"
+lesson url: "https://ucsbcarpentry.github.io/workshop/2023/12/11/ucsb-quarto.html"
 ---
  
 
