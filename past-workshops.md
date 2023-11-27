@@ -13,7 +13,10 @@ permalink: /past-workshops/
         <tr>
             <td><b>2023 Workshops</b></td>
         </tr>
-         <tr>
+        <tr>
+            <td>November 14-16</td><td><a href="/workshop/2023/11/13/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
+        </tr>       
+        <tr>
             <td>October 23-24</td><td><a href="/workshop/2023/10/23/ucsb-git.html">Version Control with Git</a></td>
         </tr>
         <tr>
