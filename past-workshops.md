@@ -14,6 +14,9 @@ permalink: /past-workshops/
             <td><b>2023 Workshops</b></td>
         </tr>
         <tr>
+            <td>November 14-16</td><td><a href="/workshop/2023/12/11/ucsb-quarto.html">"Reproducible Publications with Quarto</a></td>
+        </tr>      
+        <tr>
             <td>November 14-16</td><td><a href="/workshop/2023/11/13/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
         </tr>       
         <tr>
