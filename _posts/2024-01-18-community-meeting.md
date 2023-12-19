@@ -11,8 +11,11 @@ time: 3:30-4:50PM
 This is the Winter quarter kick-off meeting. We will discuss the Carpentries Program, and instructor training for the quarter. If you are interested in becoming a certified Carpentries Instructor, or are interested in being a helper, please join us at the DREAM Lab, Rm 2322, or on Zoom.
 
 - Introductions
-- Community Updates
-- Discussion
+- Winter Quarter workshop schedule:
+    - January 30 & February 1: Version Control with Git
+    - February 27 & 29th: Introduction to Web Scraping
+    - We are looking for instructors and helper!
+- Community Updates & Discussion
 
 *Additional topics welcome!
 
