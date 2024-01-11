@@ -8,9 +8,9 @@ year: 2024
 location: UC Santa Barbara Library, Room 2509
 instructors: Seth Erickson
 helpers: Kristi Liu
-# pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_86yuYtk3In1aCyy"
-# post_workshop_survey:
-# eventbrite: "747502097897"
+pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_3t2toIchSI71xga"
+post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_dburY1WdnYB1KaG"
+# shoreline_url:
 lesson_url: "https://ucsbcarpentry.github.io/CustomLibraryWebscraping/"
 
 ---
