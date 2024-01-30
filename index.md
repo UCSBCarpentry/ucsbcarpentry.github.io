@@ -2,9 +2,21 @@
 title: UCSB Library Carpentry Workshops
 ---
 
-<!-- upcoming workshops -->
-{% assign workshops=site.categories.workshop | where_exp:"item", "item.date > site.time"  | sort: "date" %}
-{%- include workshop_schedule.html workshops=workshops %}
+
+<h2>Workshops</h2>
+
+<!-- show workshops after 2024-01-01 -->
+{% assign afterDate = '2024-01-01' | date: "%s" %}
+{% assign sorted_workshops = site.categories.workshop | sort: "date" %}
+
+<ul>
+{% for w in sorted_workshops %}
+  {% assign postDate = w.date | date: "%s" %}
+  {% if postDate > afterDate %}
+    <li>{{ w.human_date }}: <a href="{{ w.url }}">{{ w.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 ## Community Meetings
 
