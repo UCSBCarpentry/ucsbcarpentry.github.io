@@ -6,13 +6,12 @@ time: 1pm - 4:30 PST
 human_date: "February 27"
 year: 2024
 location: UC Santa Barbara Library, Room 2509
-instructors: Seth Erickson
+instructors: Renata Curty, Seth Erickson, Jose Niño
 helpers: Kristi Liu
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_3t2toIchSI71xga"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_dburY1WdnYB1KaG"
-# shoreline_url:
-# lesson_url: "https://ucsbcarpentry.github.io/CustomLibraryWebscraping/"
-
+shoreline_url: "https://shoreline.ucsb.edu/library/rsvp_boot?id=2258697"
+lesson_url: "https://ucsbcarpentry.github.io/2024-02-27-ucsb-webscraping/"
 ---
  
 This workshop introduces tools for turning web pages into analyzable
