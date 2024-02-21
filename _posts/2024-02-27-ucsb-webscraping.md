@@ -6,7 +6,7 @@ time: 1pm - 4:30 PST
 human_date: "February 27"
 year: 2024
 location: UC Santa Barbara Library, Room 2509
-instructors: Renata Curty, Seth Erickson, Jose Niño
+instructors: Renata Curty, Seth Erickson, Jose Niño Muriel
 helpers: Kristi Liu
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_3t2toIchSI71xga"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_dburY1WdnYB1KaG"
