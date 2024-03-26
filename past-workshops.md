@@ -10,11 +10,20 @@ permalink: /past-workshops/
             <th>Workshop Name</th>
     </thead>
     <tbody>
+	<tr>
+	    <td><b>2024 Workshops</b></td>
+	</tr>
+	<tr>
+	    <td>February 27</td><td><a href="/workshop/2024/02/27/ucsb-webscraping.html">Introduction to Web Scraping</a></td>
+	</tr>
+	<tr>
+	    <td>January 30 & February 1</td><td><a href="/workshop/2024/01/30/ucsb-git.html">Version Control with Git</a></td>
+	</tr>
         <tr>
             <td><b>2023 Workshops</b></td>
         </tr>
         <tr>
-            <td>November 14-16</td><td><a href="/workshop/2023/12/11/ucsb-quarto.html">"Reproducible Publications with Quarto</a></td>
+            <td>November 14-16</td><td><a href="/workshop/2023/12/11/ucsb-quarto.html">Reproducible Publications with Quarto</a></td>
         </tr>      
         <tr>
             <td>November 14-16</td><td><a href="/workshop/2023/11/13/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
