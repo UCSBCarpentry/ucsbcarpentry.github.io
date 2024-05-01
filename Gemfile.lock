@@ -259,7 +259,7 @@ GEM
 PLATFORMS
   arm64-darwin-21
   ruby
-  x64-unknown
+  x64-mingw-ucrt
   x64-unknown
   x86_64-linux
 
