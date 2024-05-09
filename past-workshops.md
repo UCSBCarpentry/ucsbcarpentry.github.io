@@ -14,6 +14,9 @@ permalink: /past-workshops/
 	    <td><b>2024 Workshops</b></td>
 	</tr>
 	<tr>
+	    <td>May 1-2</td><td><a href="/workshop/2024/05/01/ucsb-r.html">Introduction to Data Analysis with R for Social Science</a></td>
+	</tr>
+	<tr>
 	    <td>February 27</td><td><a href="/workshop/2024/02/27/ucsb-webscraping.html">Introduction to Web Scraping</a></td>
 	</tr>
 	<tr>

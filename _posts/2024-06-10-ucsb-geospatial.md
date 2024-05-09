@@ -10,6 +10,6 @@ instructors:
 helpers:
 pre_workshop_survey:
 post_workshop_survey:
-shoreline_url:
+shoreline_url: "https://shoreline.ucsb.edu/library/rsvp_boot?id=2260563"
 lesson_url: "https://datacarpentry.org/r-raster-vector-geospatial/"
 ---
