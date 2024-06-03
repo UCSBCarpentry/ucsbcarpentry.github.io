@@ -6,10 +6,11 @@ time: 10am - 2pm PST
 human_date: "June 10-11"
 year: 2024
 location: UC Santa Barbara Library, Room 1312
-instructors:
+instructors: Julien Brun, Jon Jablonski, Kristi Liu, Jose Niño Muriel
 helpers:
-pre_workshop_survey:
-post_workshop_survey:
+pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_2nlNcgGv3OTPQYS"
+post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_ePunBKJD6xPVhk2"
 shoreline_url: "https://shoreline.ucsb.edu/library/rsvp_boot?id=2260563"
 lesson_url: "https://datacarpentry.org/r-raster-vector-geospatial/"
+jupyter_url: "https://carpentryworkshop.lsit.ucsb.edu/"
 ---
