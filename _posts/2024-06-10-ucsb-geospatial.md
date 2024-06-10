@@ -13,4 +13,5 @@ post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_8D4m2J8UgHUK1r
 shoreline_url: "https://shoreline.ucsb.edu/library/rsvp_boot?id=2260563"
 lesson_url: "https://datacarpentry.org/r-raster-vector-geospatial/"
 jupyter_url: "https://carpentryworkshop.lsit.ucsb.edu/"
+notes_url: "https://docs.google.com/document/d/1p6G-FU_IFw7xbPaQ4YaW6mpi0YWnLeXtrBHkHZ7m2Tw/edit?usp=sharing"
 ---
