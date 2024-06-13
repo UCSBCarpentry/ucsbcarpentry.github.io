@@ -14,6 +14,12 @@ permalink: /past-workshops/
 	    <td><b>2024 Workshops</b></td>
 	</tr>
 	<tr>
+	    <td>June 10-11</td><td><a href="/workshop/2024/06/10/ucsb-geospatial.html">Introduction to Geospatial Raster and Vector Data with R </a></td>
+	</tr>
+	<tr>
+	    <td>June 4</td><td><a href="/workshop/2024/06/04/ucsb-containers.html">Container-driven Reproducible Research Made Simple</a></td>
+	</tr>
+	<tr>
 	    <td>May 1-2</td><td><a href="/workshop/2024/05/01/ucsb-r.html">Introduction to Data Analysis with R for Social Science</a></td>
 	</tr>
 	<tr>
