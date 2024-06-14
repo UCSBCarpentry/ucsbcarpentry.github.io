@@ -1,7 +1,7 @@
 ---
 layout: workshop
 category: workshop
-title: "Data Organization in Spreadsheets for Social Scientists"
+title: "Data Organization in Spreadsheets"
 time: 10am - 12:30pm PST
 human_date: "July 2"
 year: 2024
