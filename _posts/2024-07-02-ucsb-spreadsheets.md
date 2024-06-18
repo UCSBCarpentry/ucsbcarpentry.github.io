@@ -10,6 +10,6 @@ instructors:
 helpers:
 pre_workshop_survey:
 post_workshop_survey:
-shoreline_url: ""
+shoreline_url: "https://cglink.me/2dD/r2261219"
 lesson_url: "https://datacarpentry.org/spreadsheets-socialsci/"
 ---
