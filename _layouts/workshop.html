@@ -9,6 +9,9 @@ layout: default
         <p style="margin-top:0">{{page.location}}</p>
         <p style="margin:0">Instructors: {{page.instructors}}</p>
         <p style="margin:0">Helpers: {{page.helpers}}</p>
+
+        <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+
         <p style="float:left">{{ content }}</p>
         
         <p class="workshop-links">
@@ -29,6 +32,9 @@ layout: default
     </div>
 
     {% if page.pre_workshop_survey %}
+
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+    
     <div class="survey-links">
         <h4>Surveys</h4>
         <p>Please be sure to complete these surveys before and after the
@@ -41,6 +47,8 @@ layout: default
         </p>
     </div>
     {% endif %}
+
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
 
     <div class="conduct">
         <h4>Code of Conduct</h4>
