@@ -8,8 +8,8 @@ year: 2024
 location: UC Santa Barbara Library, Room 1312
 instructors: Renata Curty, Jose Niño Muriel
 helpers:
-pre_workshop_survey:
-post_workshop_survey:
+pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_9uz8XYyandzZ4c6"
+post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_9ThjaNqZD2z6g0C"
 shoreline_url: "https://cglink.me/2dD/r2261219"
 lesson_url: "https://datacarpentry.org/spreadsheets-socialsci/"
 ---

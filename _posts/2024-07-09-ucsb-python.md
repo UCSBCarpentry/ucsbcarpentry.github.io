@@ -8,8 +8,8 @@ year: 2024
 location: UC Santa Barbara Library, Room 1312
 instructors:
 helpers:
-pre_workshop_survey:
-post_workshop_survey:
+pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_cwG7Uz9BVKTBEPA"
+post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_8CV5Pc4mMzsCHr0"
 shoreline_url: "https://cglink.me/2dD/r2261220"
 lesson_url: "https://datacarpentry.org/python-ecology-lesson/"
 ---
