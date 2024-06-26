@@ -6,7 +6,7 @@ time: 10am - 2:30pm PST
 human_date: "July 9, 16, 23"
 year: 2024
 location: UC Santa Barbara Library, Room 1312
-instructors:
+instructors: Seth Erickson, Greg Janée, Jose Niño Muriel
 helpers:
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_cwG7Uz9BVKTBEPA"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_8CV5Pc4mMzsCHr0"
