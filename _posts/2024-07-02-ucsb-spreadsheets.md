@@ -11,7 +11,7 @@ helpers:
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_9uz8XYyandzZ4c6"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_9ThjaNqZD2z6g0C"
 shoreline_url: "https://cglink.me/2dD/r2261219"
-lesson_url: "https://datacarpentry.org/spreadsheets-socialsci/"
+lesson_url: "https://ucsbcarpentry.github.io/spreadsheets-socialsci/"
 ---
 
 
