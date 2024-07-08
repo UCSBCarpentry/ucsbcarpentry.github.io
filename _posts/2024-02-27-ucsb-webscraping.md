@@ -12,9 +12,8 @@ pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_3t2toIchSI71xga
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_dburY1WdnYB1KaG"
 shoreline_url: "https://shoreline.ucsb.edu/library/rsvp_boot?id=2258697"
 lesson_url: "https://ucsbcarpentry.github.io/2024-02-27-ucsb-webscraping/"
----
- 
-This workshop introduces tools for turning web pages into analyzable
+description: "This workshop introduces tools for turning web pages into analyzable
 data. We will explore common web scraping scenarios and learn how to use XPath
 and a web browser to extract data from websites without needing to write code.
-We will also discuss the ethics of web scraping.
+We will also discuss the ethics of web scraping."
+---

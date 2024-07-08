@@ -12,7 +12,5 @@ pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_9uz8XYyandzZ4c6
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_9ThjaNqZD2z6g0C"
 shoreline_url: "https://cglink.me/2dD/r2261219"
 lesson_url: "https://ucsbcarpentry.github.io/spreadsheets-socialsci/"
+description: "Are you a frequent user of spreadsheets? In this hands-on, example-driven workshop, we will learn best practices for data organization. Topics covered include good data entry practices, approaches for handling dates, data quality control and manipulation, and exporting data to universal file formats. This workshop will assume no prior knowledge of the skills or tools."
 ---
-
-
-Are you a frequent user of spreadsheets? In this hands-on, example-driven workshop, we will learn best practices for data organization. Topics covered include good data entry practices, approaches for handling dates, data quality control and manipulation, and exporting data to universal file formats. This workshop will assume no prior knowledge of the skills or tools.
