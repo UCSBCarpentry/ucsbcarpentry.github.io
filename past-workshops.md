@@ -190,19 +190,19 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>August 19, 20, 26, 27</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python">Introduction to Python</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/">Introduction to Python</a></td>
         </tr>
         <tr>
         <td>September 2</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python">Introduction to Python</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/">Introduction to Python</a></td>
         </tr>
         <tr>
         <td>August 17, 18, 24, 25</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R">Intro to R programming</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R/">Intro to R programming</a></td>
         </tr>
         <tr>
         <td>September 1</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R">Intro to R programming</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R/">Intro to R programming</a></td>
         </tr>
         <tr>
         <td>August 10-13</td>
@@ -210,18 +210,18 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>June 3, 10, &amp; 17</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp">Bash &amp; Webscraping</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/">Bash &amp; Webscraping</a></td>
         </tr>
         <tr>
         <td>May 22 &amp; 29</td>
         <td><a href="https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/">Intro to R Programming</a></td>
         </tr>
         <tr>
-        <td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL">Databases and SQL</a></td>
+        <td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL/">Databases and SQL</a></td>
         </tr>
         <tr>
         <td>January 17</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash">Introduction to the Unix Shell</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash/">Introduction to the Unix Shell</a></td>
         </tr>
         <tr>
         <td>January 17</td>
@@ -252,7 +252,7 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>April 11-12</td>
-        <td><a href="https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop//">Bash, Git &amp; R Workshop</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop/">Bash, Git &amp; R Workshop</a></td>
         </tr>
         <tr>
         <td>March 21-22</td>
