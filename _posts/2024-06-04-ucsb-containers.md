@@ -7,7 +7,7 @@ human_date: "June 4"
 year: 2024
 location: UC Santa Barbara Library, Room 1312
 instructors: Ronald Lencevičius
-helpers: Sang-Yun Oh, Yu-Chieh "Jay" Chi, Jose Niño Muriel
+helpers: Sang-Yun Oh, Jay Chi, Jose Niño Muriel
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0vz6xRlMbHyimcS"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_ePunBKJD6xPVhk2"
 shoreline_url: "https://cglink.me/2dD/r2260973"
