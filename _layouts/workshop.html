@@ -29,6 +29,8 @@ layout: default
             {% endif %}
 
         </p>
+
+        <p style="float:left">{{ content }}</p>
     </div>
 
     {% if page.pre_workshop_survey %}
@@ -62,9 +64,18 @@ layout: default
         </p>
     </div>
 
+    {% if page.schedule %}
     <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
 
-    <p style="float:left">{{ content }}</p>
+    <div class="schedule">
+        <h4>Schedule</h4>
+        <p> {{page.schedule | markdownify}}</p>
+    </div>
+    {% endif %}
+
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+
+    
 
 
 
