@@ -67,9 +67,8 @@ permalink: /past-workshops/
             Introduction to the Unix Shell & Version Control with Git</a></td></tr>
         <tr><td>October 11</td><td><a href="https://ucsbcarpentry.github.io/2022-10-11-ucsb-spreadsheets/">
             Data Organization in Spreadsheets</a></td></tr>
-        <tr><td>September 6 - 13</td><td><a href="https://ti.to/ucsd-carpentries/uc-carpentries-fall-workshop-2022">
+        <tr><td>September 6 - 13</td><td><a href="https://ucsdlib.github.io/2022-09-06-carpentries-uc/">
             UC Carpentries Fall 2022 Workshop Series</a></td></tr>
-        <!-- summer 2022 -->
         <tr><td>August 16, 18</td><td><a href="https://ucsbcarpentry.github.io/2022-08-16-ucsb-machlearn-r/">
             Machine Learning for Tabular Data in R</a></td></tr>  
         <tr><td>August 9, 11</td><td><a href="https://ucsbcarpentry.github.io/2022-08-09-ucsb-r-geospatial/">
@@ -80,7 +79,6 @@ permalink: /past-workshops/
             Version Control with Git</a></td></tr>  
         <tr><td>July 12, 14</td><td><a href="https://ucsbcarpentry.github.io/2022-07-12-ucsb-bash/">
             Intro to Bash-Shell</a></td></tr>  
-        <!-- sprint 2022 -->
         <tr><td>May 26, 27</td><td><a href="https://ucsbcarpentry.github.io/2022-05-26-ucsb-twarc/">
             Harvesting Twitter with Twarc</a></td></tr>
         <tr><td>May 12, 13</td><td><a href="https://ucsbcarpentry.github.io/2022-05-12-ucsb-webscraping/">
@@ -105,7 +103,6 @@ permalink: /past-workshops/
             Bren School MEDS - Relational Databases and SQL</a></td></tr>
         <tr><td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/">
             Webpublishing with Github Pages (SEEDS ONLY event)</a></td></tr>
-        
         <tr>
         <td>January 28</td><td><a href="https://ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online/">Webpublishing with Github Pages</a></td>
         </tr>
@@ -117,12 +114,9 @@ permalink: /past-workshops/
         <td>January 4, 7</td><td><a href="https://ucsbcarpentry.github.io/2022-01-04-ucsb-python/">
             Bren School MEDS - Python Programming</a><br /></td>
         </tr>
-        
-
         <tr>
             <td><b>2021 Workshops</b></td>
         </tr>
-        
         <tr>
             <td>December 14, 15</td>
             <td><a href= "https://ucsbcarpentry.github.io/2021-12-14-ucsb-gitbash-online/">Intro to Git/Bash Workshop</a></td>
@@ -196,19 +190,19 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>August 19, 20, 26, 27</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python">Introduction to Python</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/">Introduction to Python</a></td>
         </tr>
         <tr>
         <td>September 2</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python">Introduction to Python</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/">Introduction to Python</a></td>
         </tr>
         <tr>
         <td>August 17, 18, 24, 25</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R">Intro to R programming</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R/">Intro to R programming</a></td>
         </tr>
         <tr>
         <td>September 1</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R">Intro to R programming</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-08-17-Summer-R/">Intro to R programming</a></td>
         </tr>
         <tr>
         <td>August 10-13</td>
@@ -216,18 +210,18 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>June 3, 10, &amp; 17</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp">Bash &amp; Webscraping</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/">Bash &amp; Webscraping</a></td>
         </tr>
         <tr>
         <td>May 22 &amp; 29</td>
         <td><a href="https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/">Intro to R Programming</a></td>
         </tr>
         <tr>
-        <td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL">Databases and SQL</a></td>
+        <td>January 31</td><td><a href="https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL/">Databases and SQL</a></td>
         </tr>
         <tr>
         <td>January 17</td>
-        <td><a href="https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash">Introduction to the Unix Shell</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2020-01-17-UCSB-bash/">Introduction to the Unix Shell</a></td>
         </tr>
         <tr>
         <td>January 17</td>
@@ -258,7 +252,7 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>April 11-12</td>
-        <td><a href="https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop//">Bash, Git &amp; R Workshop</a></td>
+        <td><a href="https://ucsbcarpentry.github.io/2019-04-11-UCSB-SW-Workshop/">Bash, Git &amp; R Workshop</a></td>
         </tr>
         <tr>
         <td>March 21-22</td>
@@ -278,6 +272,4 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <td>April 15</td>
-        <td><a href="http://remi-daigle.github.io/2016-04-15-UCSB/overview/"> R Programming Language</a></td>
-
-
+        <td><a href="http://remi-daigle.github.io/2016-04-15-UCSB/"> R Programming Language</a></td>
