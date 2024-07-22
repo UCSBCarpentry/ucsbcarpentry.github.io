@@ -34,8 +34,10 @@ schedule: |
     |||
     | Day 3 - July 23rd ||
     | 10:00 AM   | Review |
-    | 10:10 AM   | [Data Workflows and Automation](https://ucsbcarpentry.github.io/2024-07-09-python-ecology-lesson/06-loops-and-functions.html)      |
-    | 11:20 AM   | Break   |
+    | 10:10 AM   | [Combining DataFrames](https://ucsbcarpentry.github.io/2024-07-09-python-ecology-lesson/05-merging-data.html)  |
+    | 10:25 AM   | [Data Workflows and Automation](https://ucsbcarpentry.github.io/2024-07-09-python-ecology-lesson/06-loops-and-functions.html)      |
+    | 11:30 AM   | Break   |
     | 11:30 AM   | [Plotting with Matplotlib and plotnine](https://ucsbcarpentry.github.io/2024-07-09-python-ecology-lesson/08-putting-it-all-together.html)           |
+    | 12:25 PM   | [Post-workshop survey](https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2024-07-09-ucsb-python)           |
     | 12:30 PM   | End of day 3 |
 ---
