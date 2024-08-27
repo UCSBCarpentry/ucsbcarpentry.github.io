@@ -13,7 +13,13 @@ permalink: /past-workshops/
 	<tr>
 	    <td><b>2024 Workshops</b></td>
 	</tr>
+    <tr>
+	    <td>July 9, 16, 23</td><td><a href="/workshop/2024/07/09/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
+	</tr>
 	<tr>
+	    <td>July 2</td><td><a href="/workshop/2024/07/02/ucsb-spreadsheets.html">Data Organization in Spreadsheets</a></td>
+	</tr>
+    <tr>
 	    <td>June 10-11</td><td><a href="/workshop/2024/06/10/ucsb-geospatial.html">Introduction to Geospatial Raster and Vector Data with R </a></td>
 	</tr>
 	<tr>
