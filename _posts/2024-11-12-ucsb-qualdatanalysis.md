@@ -1,7 +1,7 @@
 ---
 layout: workshop
 category: workshop
-title: "Qualitative Data Analysis"
+title: "Handling and Sharing Qualitative Data Responsibly and Effectively"
 time: 10 am - 12:30 PST
 human_date: "November 12, 14"
 year: 2024
