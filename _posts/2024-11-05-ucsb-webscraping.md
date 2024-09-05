@@ -10,7 +10,7 @@ instructors:
 helpers:
 pre_workshop_survey:
 post_workshop_survey:
-shoreline_url:
-lesson_url:
+shoreline_url: "https://cglink.me/2dD/r2261828"
+lesson_url: 
 jupyter_url:
 ---
