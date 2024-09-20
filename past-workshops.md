@@ -14,6 +14,12 @@ permalink: /past-workshops/
 	    <td><b>2024 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>July 9, 16, 23</td><td><a href="/workshop/2024/09/09/UC.html">2024 UC Carpentries Workshop Series (Remote)</a></td>
+	</tr>
+    <tr>
+	    <td>September 5</td><td><a href="/workshop/2024/09/05/SPNHC24.html">Data Carpentry: Species Interaction Data Workshop (Okinawa, Japan)</a></td>
+	</tr>
+    <tr>
 	    <td>July 9, 16, 23</td><td><a href="/workshop/2024/07/09/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
 	</tr>
 	<tr>
