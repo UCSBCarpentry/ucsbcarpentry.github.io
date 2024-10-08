@@ -38,13 +38,13 @@ Carpentry Workshops at UCSB are supported and organized by our stellar volunteer
 
 We offer guided and hands-on workshops to researchers, including undergraduate, staff, graduate students, post-docs, and faculty. 
 These teachings focus on beginner-level research computing, data literacy, and information management. 
-Resources that persist outside of workshops is our community of data research and programming "carpenters," and the teaching material of [previous workshops](https://ucsbcarpentry.github.io/past-workshops).
+Resources that persist outside of workshops are our community of data research and programming "carpenters" and the teaching materials of [previous workshops](https://ucsbcarpentry.github.io/past-workshops).
 
 If you want to stay in the loop for future workshops, you can join our [Carpentry mailing list](https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about) with an @ucsb.edu email address and/or join our [Slack channel](https://join.slack.com/t/ucsbcarpentry/shared_invite/zt-2kio5k9cx-Ro67PPzRDGOfeS3kMIuBAA). 
 If you do not have an @ucsb.edu email address, please email the DREAM Lab directly so we can add you.
 
 For a few of us, teaching Carpentry workshops is part of our job descriptions, but most are volunteers from around campus and the global Carpentries community- including researchers, post-docs, graduate students, faculty and staff. 
-If you would like to get involved with putting on these workshops, please email us at **dreamlab@library.ucsb.edu** or visit our **[Instructors Page](https://ucsbcarpentry.github.io/community/instructors)**.
+If you would like to get involved with putting on these workshops, please email us at **dreamlab@library.ucsb.edu** or visit our **[Carpentry Community Page](https://ucsbcarpentry.github.io/community/instructors)**.
 
 *Signed,*
 <br>
