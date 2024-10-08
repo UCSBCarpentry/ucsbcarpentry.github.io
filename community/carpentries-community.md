@@ -23,8 +23,8 @@ The <b>[UCSB Library](https://www.library.ucsb.edu/)</b> and <b>[the Office of t
 <b>[The Carpentries](https://carpentries.org/)</b>. Each year we send a cohort of
 people through the Instructor certification process, which includes:
 
-* A 16 hour training workshop, that covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries.
-* Attending a welcome sessiong of The Carpentries.
+* A 16 hour training workshop that covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries.
+* Attending a welcome session of The Carpentries.
 * A practical teaching demonstration.
 * Getting involved in the global community, by serving as an instructor or helper in a workshop, attending a community call, or making a contribution to Carpentries materials.
 
