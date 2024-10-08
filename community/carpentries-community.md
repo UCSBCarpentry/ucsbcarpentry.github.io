@@ -15,7 +15,7 @@ Running a workshop is done through the group effort of people in organizing, tea
 
 Lead instructors are not expected to teach a whole workshop themselves: through <b>co-instructing</b>, others may teach segments of the lesson and support any discussion initiated by the lead instructor. Because workshops depend on live-coding and hands-on demos, <b>helpers</b> are needed to provide immediate help to attendees or to take notes in a collaborative document for those who fall behind.
 
-Got 5 friends? The *DREAM Lab* staff will talk to you about hosting a workshop tailored to your group needs. If you're interested in hosting a workshop in your department, we will help you organize it from the variety of curricula available in the Software, Data, and Library Carpentries.
+Got 5 friends? The *DREAM Lab* staff will talk to you about hosting a workshop tailored to your group needs. [Email us](mailto:dreamlab@library.ucsb.edu) and we will help you organize it from the variety of curricula available in the Software, Data, and Library Carpentries.
 
 ## Becoming a Certified Carpentries Instructor
 
