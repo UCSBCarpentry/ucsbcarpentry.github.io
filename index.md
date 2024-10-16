@@ -23,7 +23,9 @@ title: UCSB Library Carpentry Workshops
 <ul>
 {% assign meeting=site.categories.meeting |  where_exp:"item", "item.date > site.time" | first %}
 {% if meeting %}
-    <li> <a href="{{meeting.url}}"> {{  meeting.date | date: "%B %d" }}: {{ meeting.title }} (agenda) </a></li>
+    <li> <a href="{{meeting.url}}"> {{  meeting.date | date: "%B %d" }}: {{ meeting.title }} (agenda)</a>
+      <p>{{ meeting.short_description }}</p>
+    </li>
 {% else %}
     <li> The next community meeting is not yet scheduled. Check back soon! </li>
 {% endif %}
