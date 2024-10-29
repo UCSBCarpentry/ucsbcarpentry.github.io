@@ -9,7 +9,7 @@ shoreline_url: "https://cglink.me/2dD/r2263441"
 short_description: "We’re excited to invite you to our autumn Carpentry @ UCSB Community meeting, where we’ll gather in person (with coffee and donuts!) and over Zoom to connect, share, and plan our future workshops. Whether you’re a curious Learner, an experienced Instructor, or anywhere in between, we’d love to see you there!"
 ---
 
-We’re excited to invite you to our autumn **Carpentry @ UCSB Community meeting**, where we’ll gather in person (with coffee and donuts!) and over Zoom to connect, share, and plan our future workshops. Whether you're a curious Learner, an experienced Instructor, or anywhere in between, we’d love to see you there! Let us know if you are coming by [registering on Shoreline](https://cglink.me/2dD/r2263441).
+We’re excited to invite you to our autumn **Carpentry @ UCSB Community meeting**, where we’ll gather in person (with coffee and donuts!) and over Zoom to connect, share, and plan our future workshops. Whether you're a curious Learner, an experienced Instructor, or anywhere in between, we’d love to see you there! Let us know you are coming, [RSVP on Shoreline](https://cglink.me/2dD/r2263441).
 
 Here’s a sneak peek at what’s on the **agenda**:
 
