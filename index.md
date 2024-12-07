@@ -5,8 +5,8 @@ title: UCSB Library Carpentry Workshops
 
 <h2>Workshops</h2>
 
-<!-- show workshops after 2024-03-01 -->
-{% assign afterDate = '2024-10-01' | date: "%s" %}
+<!-- show workshops after 2025-01-01 -->
+{% assign afterDate = '2025-01-01' | date: "%s" %}
 {% assign sorted_workshops = site.categories.workshop | sort: "date" %}
 
 <ul>
