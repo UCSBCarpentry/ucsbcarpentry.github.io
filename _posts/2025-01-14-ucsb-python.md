@@ -10,10 +10,11 @@ instructors: Jose Niño Muriel, Jairo Melo-Flórez, Seth Erickson
 helpers: Tess Ivinjack, Sigrid Van Den Abbeele
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-01-14-ucsb-python"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-01-14-ucsb-python"
-shoreline_url: ""
+shoreline_url:
 lesson_url: "https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/"
 jupyter_url: "https://carpentryworkshop.lsit.ucsb.edu/"
-description: "This three-day workshop offers a comprehensive introduction to Python, specifically designed for participants with no prior programming experience. Through the use of Jupyter notebooks, learners will get started coding in Python. The workshop will cover essential skills such as data loading and analysis, automation of data processing tasks, and the creation of basic plots for data visualization."
+description: "<b>Registration opens on December 10, 2024.</b><br>
+This three-day workshop offers a comprehensive introduction to Python, specifically designed for participants with no prior programming experience. Through the use of Jupyter notebooks, learners will get started coding in Python. The workshop will cover essential skills such as data loading and analysis, automation of data processing tasks, and the creation of basic plots for data visualization."
 schedule: |
     | Day 1 - January 14 ||
     | 10:00 AM  | Welcome and intro |
