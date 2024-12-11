@@ -3,9 +3,9 @@ layout: workshop
 category: workshop
 title: "Container-driven Reproducible Research Made Simple"
 time: 1:00 PM - 4:00 PM PST
-human_date: "January 15"
+human_date: "February 5"
 year: 2025
-location: UC Santa Barbara Library
+location: UC Santa Barbara Library, Room 1312
 instructors: Ronald Lencevičius
 helpers: Seth Erickson, Jose Niño Muriel
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-01-15-ucsb-containers"
