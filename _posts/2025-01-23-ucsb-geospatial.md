@@ -13,5 +13,5 @@ post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr
 shoreline_url: "https://cglink.me/2dD/r2264303"
 lesson_url: "https://datacarpentry.org/r-raster-vector-geospatial/"
 jupyter_url:
-description: "This workshop covers the fundamentals of working with raster and vector geospatial data in R. Participants will learn to plot and analyze raster data, change projections, perform raster math, and work with multi-band rasters. The workshop also explores vector data, including points, lines, and polygons, and demonstrates how to combine multiple layers in a single map. Additionally, participants will work with time series raster data and summary statistics from this data."
+description: "This workshop covers the fundamentals of working with raster and vector geospatial data in R. Participants will learn to plot and analyze raster data, change projections, perform raster math, and work with multi-band rasters. The workshop also explores vector data, including points, lines, and polygons, and demonstrates how to combine multiple layers in a single map. Additionally, participants will work with time series rasters and compute summary statistics from this data."
 ---
