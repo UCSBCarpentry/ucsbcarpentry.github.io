@@ -10,8 +10,9 @@ instructors:
 helpers:
 pre_workshop_survey:
 post_workshop_survey:
-shoreline_url:
+shoreline_url: "https://cglink.me/2dD/r2264676"
 lesson_url:
-description: "<b>Stay tuned for more details when registration opens on January 7!</b><br>
-If you want to stay in the loop for this and future workshops, you can join our <a href='https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about'>Carpentry mailing list</a> with an @ucsb.edu email address and/or join our <a href='https://join.slack.com/t/ucsbcarpentry/shared_invite/zt-2kio5k9cx-Ro67PPzRDGOfeS3kMIuBAA'>Slack channel</a>."
+description: "Join us for this 1-hour seminar on Research Computing resources at UCSB, designed for researchers tackling complex projects that exceed their laptop's capabilities. This session will cover fundamental computing concepts (CPU, GPU, RAM, hard drive), what computer clusters are, and clarify what these mean for your research. Explore the full compute spectrum, from laptops to high-performance clusters, and discover campus and national resources available to optimize your workflows, so you can close your laptop and still get work done.
+<br>
+We're hosting two identical seminars, on February 3 and 4. Register for the one that best suits your schedule. Lunch will be provided!"
 ---
