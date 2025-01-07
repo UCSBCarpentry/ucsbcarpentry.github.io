@@ -23,7 +23,7 @@ schedule: |
     | 11:30 AM  | [Starting with Data](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/02-starting-with-data.html)           |
     | 12:30 PM  | End of day 1 |
     |||
-    | Day 2 - July 16th ||
+    | Day 2 - January 17 ||
     | 10:00 AM  | Review |
     | 10:10 AM  | [Indexing, Slicing and Subsetting DataFrames](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/03-index-slice-subset.html)      |
     | 11:10 AM  | Break   |
@@ -31,7 +31,7 @@ schedule: |
     | 11:45 AM  | [Combining DataFrames](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/05-merging-data.html)           |
     | 12:30 PM  | End of day 2 |
     |||
-    | Day 3 - July 23rd ||
+    | Day 3 - January 21 ||
     | 10:00 AM   | Review |
     | 10:10 AM   | [Data Workflows and Automation](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/06-loops-and-functions.html)      |
     | 11:20 AM   | Break   |
