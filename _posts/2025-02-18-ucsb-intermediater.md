@@ -10,7 +10,7 @@ instructors: Sigrid Van Den Abeele, Jose Niño Muriel
 helpers: Ronald Lencevičius, Seth Erickson
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-02-18-ucsb-intermediater"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-02-18-ucsb-intermediater"
-shoreline_url:
+shoreline_url: "https://cglink.me/2dD/r2265400"
 lesson_url:
 jupyter_url: "https://carpentryworkshop.lsit.ucsb.edu/"
 description: "<b>Stay tuned for more details when registration opens on January 27!</b><br>
