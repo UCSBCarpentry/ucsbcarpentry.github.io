@@ -3,7 +3,7 @@ layout: workshop
 category: workshop
 title: "Intermediate R"
 time: 1:00 PM - 3:00 PM PST
-human_date: "February 9"
+human_date: "February 19"
 year: 2025
 location: UC Santa Barbara Library, Room 2509
 instructors: Sigrid Van Den Abeele, Jose Niño Muriel
