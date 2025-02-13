@@ -31,7 +31,6 @@ people through the Instructor certification process, which includes:
 The training is completely free. In return, we ask for your involvement in the Carpentry @ UCSB community by:
 * Completing the certification process.
 * Serving as instructor for at least one lesson in a UCSB workshop.
-* Contribute to lessons on the UCSB Carpentry Repo.
 * Serving as a helper for at least one complete UCSB workshop or contributing to the development of workshop lesson materials on GitHub.
 
 Please <b>[contact us](mailto:dreamlab@library.ucsb.edu)</b> if you are interested in becoming a Carpentries Instructor or Helper!

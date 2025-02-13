@@ -7,7 +7,7 @@ human_date: "January 14, 17, 21"
 year: 2025
 location:  UC Santa Barbara Library, Room 2509
 instructors: Jose Niño Muriel, Jairo Melo-Flórez, Seth Erickson
-helpers: Tess Ivinjack, Sigrid Van Den Abbeele
+helpers: Tess Ivinjack, Sigrid Van Den Abbeele, Greg Janée, Jean Allen
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-01-14-ucsb-python"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-01-14-ucsb-python"
 shoreline_url: "https://cglink.me/2dD/r2264299"
@@ -23,7 +23,7 @@ schedule: |
     | 11:30 AM  | [Starting with Data](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/02-starting-with-data.html)           |
     | 12:30 PM  | End of day 1 |
     |||
-    | Day 2 - July 16th ||
+    | Day 2 - January 17 ||
     | 10:00 AM  | Review |
     | 10:10 AM  | [Indexing, Slicing and Subsetting DataFrames](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/03-index-slice-subset.html)      |
     | 11:10 AM  | Break   |
@@ -31,7 +31,7 @@ schedule: |
     | 11:45 AM  | [Combining DataFrames](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/05-merging-data.html)           |
     | 12:30 PM  | End of day 2 |
     |||
-    | Day 3 - July 23rd ||
+    | Day 3 - January 21 ||
     | 10:00 AM   | Review |
     | 10:10 AM   | [Data Workflows and Automation](https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/06-loops-and-functions.html)      |
     | 11:20 AM   | Break   |
