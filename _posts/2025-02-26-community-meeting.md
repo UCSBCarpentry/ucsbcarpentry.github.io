@@ -10,7 +10,7 @@ short_description: "We’re excited to invite you to our Winter Carpentry @ UCSB
 
 We’re excited to invite you to our Winter Carpentry @ UCSB Community meeting. We’ll discuss plans for our Spring 2025 workshop schedule, explore ways to integrate AI into data science workshops, and, if time permits, share strategies for supporting learners after workshops. Whether you’re a curious Learner, an experienced Instructor, or anywhere in between, we’d love to see you there!
 
-To kick off the conversation about Spring workshops, please take a moment to let us know what workshops you’d like to see and participate in next quarter by completing this form: https://tinyurl.com/workshops-spring2025.
+To kick off the conversation about Spring workshops, please take a moment to let us know what workshops you’d like to see and participate in next quarter by completing this form: <a href="https://tinyurl.com/workshops-spring2025">https://tinyurl.com/workshops-spring2025</a>.
 
 Here’s a preview of the agenda:
 - 🗳️ Discussion about workshops to be offered in Spring 2025.
@@ -21,7 +21,7 @@ Here’s a preview of the agenda:
 
 This will be a hybrid event, so join us in person to enjoy the treats and great company or virtually if that’s more convenient. Either way, your voice is important, and we’d love your input on what workshops to offer next! 
 
-In the meeting, we'll discuss the opportunity to become a certified Carpentries Instructor—a great chance for professional development if you're passionate about teaching and sharing your data science knowledge! Interested? Join us at the meeting or email dreamlab@library.ucsb.edu.
+In the meeting, we'll discuss the opportunity to become a certified Carpentries Instructor—a great chance for professional development if you're passionate about teaching and sharing your data science knowledge! Interested? Join us at the meeting or email <a href="mailto:dreamlab@library.ucsb.edu">dreamlab@library.ucsb.edu</a>.
 
 
 Our best,
