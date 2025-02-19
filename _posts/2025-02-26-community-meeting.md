@@ -5,6 +5,7 @@ title: "Community Meeting"
 time: 10:00-11:00AM
 location: (Hybrid) UC Santa Barbara Library, Room 2509
 zoom: "https://ucsb.zoom.us/j/3853799239"
+shoreline_url: "https://tinyurl.com/winter-community-ucsbcarp"
 short_description: "We’re excited to invite you to our Winter Carpentry @ UCSB Community meeting. We’ll discuss plans for our Spring 2025 workshop schedule, explore ways to integrate AI into data science workshops, and, if time permits, share strategies for supporting learners after workshops. Whether you’re a curious Learner, an experienced Instructor, or anywhere in between, we’d love to see you there!"
 ---
 
