@@ -11,6 +11,28 @@ permalink: /past-workshops/
     </thead>
     <tbody>
 	<tr>
+	    <td><b>2025 Workshops</b></td>
+	</tr>
+    <tr>
+	    <td>February 25 and 27</td><td><a href="/workshop/2025/02/25/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
+	</tr>
+    <tr>
+	    <td>February 19</td><td><a href="/workshop/2025/02/18/ucsb-intermediater.html">Intermediate R</a></td>
+	</tr>
+    <tr>
+	    <td>February 5</td><td><a href="/workshop/2025/02/05/ucsb-containers.html">Container-driven Reproducible Research Made Simple</a></td>
+	</tr>
+    <tr>
+	    <td>February 3 and 4</td><td><a href="/workshop/2025/02/03/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop</a></td>
+	</tr>
+    <tr>
+	    <td>January 23, 24, 30, 31</td><td><a href="/workshop/2025/01/23/ucsb-geospatial.html">Working with Geospatial Data in R</a></td>
+	</tr>
+    <tr>
+	    <td>January 14, 17, 21</td><td><a href="/workshop/2025/01/14/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
+	</tr>
+
+	<tr>
 	    <td><b>2024 Workshops</b></td>
 	</tr>
     <tr>
