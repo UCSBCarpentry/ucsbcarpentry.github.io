@@ -1,0 +1,18 @@
+---
+layout: workshop
+category: workshop
+title: "Collaborating with Git and GitHub"
+time: 10:00 AM - 1:00 PM PST
+human_date: "April 16"
+year: 2025
+location: UC Santa Barbara Library, Room 2509
+instructors:
+helpers:
+pre_workshop_survey:
+post_workshop_survey:
+shoreline_url: "https://tinyurl.com/ucsbcarp-s25-gitcollab-w"
+lesson_url:
+description: "This workshop builds on the Getting Started with Git and GitHub session, introducing essential collaboration techniques. You'll learn how to work with branches and forks, follow best practices for preventing and resolving merge conflicts, and use Git effectively within integrated development environments (IDEs) like RStudio and VS Code.
+<br><br>
+This session is ideal for those who already have basic Git knowledge and want to improve their workflow when working with others."
+---
