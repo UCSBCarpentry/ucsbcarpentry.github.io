@@ -8,8 +8,8 @@ year: 2025
 location: Remote - Zoom
 instructors: David Moles, Jon Jablonski
 helpers: Joel Jaffe, Jay Chi, Jose Niño Muriel, Seth Erickson
-pre_workshop_survey:
-post_workshop_survey:
+pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-04-11-ucsb-shell"
+post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-04-11-ucsb-shell"
 shoreline_url: "https://tinyurl.com/ucsbcarp-s25-shell2-w"
 lesson_url: 
 description: "The Unix Shell is a powerful command-line interface that allows you to control your computer more efficiently than a traditional graphical interface. This hands-on workshop will introduce fundamental skills, including navigating files and directories, manipulating data, and writing simple scripts.
