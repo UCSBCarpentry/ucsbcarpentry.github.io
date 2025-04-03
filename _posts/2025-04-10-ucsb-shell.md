@@ -17,4 +17,10 @@ description: "The Unix Shell is a powerful command-line interface that allows yo
 No prior experience is required to attend, just curiosity and a desire to work more efficiently with your computer. Learning these basics will open the door to advanced computing, including high-performance computing and version control with Git.
 <br><br>
 We’re offering this workshop in two formats, both covering the same content: an in-person session on April 10 and an online session on April 11. Register for the one that best suits your schedule."
+instructions: |
+    - Make sure you have the necessary data and software installed in your laptop by following the instructions here: [https://swcarpentry.github.io/shell-novice/#download-files](https://swcarpentry.github.io/shell-novice/#download-files)
+    - Fill out the [pre-workshop survey](https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-04-10-ucsb-shell). We use this to calibrate the pace of the workshop, and together with a post-workshop survey, we assess how it went.
+    - If you have any questions regarding whether or not you are ready to go, please send us an email [dreamlab@library.ucsb.edu](mailto:dreamlab@library.ucsb.edu).
+    - We are committed to making sure that the workshop is accessible to everyone. Please let us know if there is anything we can do to make the workshop more accessible for you. Learners usually bring their own laptops, but if you need to borrow one for the workshop, let us know beforehand.
+
 ---

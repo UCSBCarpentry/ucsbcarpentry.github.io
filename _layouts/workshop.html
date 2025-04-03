@@ -73,6 +73,14 @@ layout: default
     </div>
     {% endif %}
 
+    {% if page.instructions %}
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+    <div class="instructions">
+        <h4>Workshop prep instructions:</h4>
+        <p> {{page.instructions | markdownify}}</p>
+    </div>
+    {% endif %}
+
     <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
 
     
