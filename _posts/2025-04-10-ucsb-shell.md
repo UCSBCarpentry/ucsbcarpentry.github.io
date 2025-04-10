@@ -11,7 +11,7 @@ helpers: Allie Caughman, Joel Jaffe, Jay Chi
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-04-10-ucsb-shell"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-04-10-ucsb-shell"
 shoreline_url: "https://tinyurl.com/ucsbcarp-s25-shell1-w"
-lesson_url:
+lesson_url: "https://swcarpentry.github.io/shell-novice/index.html"
 description: "The Unix Shell is a powerful command-line interface that allows you to control your computer more efficiently than a traditional graphical interface. This hands-on workshop will introduce fundamental skills, including navigating files and directories, manipulating data, and writing simple scripts.
 <br><br>
 No prior experience is required to attend, just curiosity and a desire to work more efficiently with your computer. Learning these basics will open the door to advanced computing, including high-performance computing and version control with Git.
