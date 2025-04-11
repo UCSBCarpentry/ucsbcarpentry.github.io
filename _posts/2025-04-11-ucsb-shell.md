@@ -7,7 +7,7 @@ human_date: "April 11"
 year: 2025
 location: Remote - Zoom
 instructors: David Moles, Jon Jablonski
-helpers: Joel Jaffe, Jay Chi, Jose Niño Muriel, Seth Erickson
+helpers: Jose Niño Muriel, Seth Erickson
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-04-11-ucsb-shell"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-04-11-ucsb-shell"
 shoreline_url: "https://tinyurl.com/ucsbcarp-s25-shell2-w"
