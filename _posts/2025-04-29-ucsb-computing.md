@@ -1,7 +1,7 @@
 ---
 layout: workshop
 category: workshop
-title: "Research Computing (Part 2) - What to do when your work gets too big for your laptop"
+title: "Research Computing - What to do when your work gets too big for your laptop"
 time: 12:00 PM - 1:30 PM PST
 human_date: "April 29"
 year: 2025
