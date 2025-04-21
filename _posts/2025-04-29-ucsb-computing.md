@@ -6,7 +6,7 @@ time: 12:00 PM - 1:30 PM PST
 human_date: "April 29"
 year: 2025
 location: UC Santa Barbara Library, Room 1312
-instructors: Seth Erickson
+instructors:
 helpers:
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-04-29-ucsb-computing"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-02025-04-29-ucsb-computing"
