@@ -14,6 +14,24 @@ permalink: /past-workshops/
 	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>May 1, 2, 8</td><td><a href="/workshop/2025/05/01/ucsb-r.html">Introduction to Data Analysis with R</a></td>
+	</tr>
+    <tr>
+	    <td>April 29</td><td><a href="/workshop/2025/04/29/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop (Part 2)</a></td>
+	</tr>
+    <tr>
+	    <td>April 16</td><td><a href="/workshop/2025/04/16/ucsb-gitcollab.html">Collaborating with Git and GitHub</a></td>
+	</tr>
+    <tr>
+	    <td>April 14</td><td><a href="/workshop/2025/04/14/ucsb-git.html">Getting Started with Git and GitHub</a></td>
+	</tr>
+    <tr>
+	    <td>April 11</td><td><a href="/workshop/2025/04/11/ucsb-shell.html">Introduction to The Unix Shell (Online)</a></td>
+	</tr>
+    <tr>
+	    <td>April 10</td><td><a href="/workshop/2025/04/10/ucsb-shell.html">Introduction to The Unix Shell</a></td>
+	</tr>
+    <tr>
 	    <td>February 25 and 27</td><td><a href="/workshop/2025/02/25/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
 	</tr>
     <tr>
@@ -31,7 +49,6 @@ permalink: /past-workshops/
     <tr>
 	    <td>January 14, 17, 21</td><td><a href="/workshop/2025/01/14/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
 	</tr>
-
 	<tr>
 	    <td><b>2024 Workshops</b></td>
 	</tr>

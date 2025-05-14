@@ -6,16 +6,24 @@ title: UCSB Library Carpentry Workshops
 <h2>Workshops</h2>
 
 <!-- show workshops after 2025-01-01 -->
-{% assign afterDate = '2025-03-01' | date: "%s" %}
+{% assign cutoff = '2025-06-01' | date: "%s" %}
 {% assign sorted_workshops = site.categories.workshop | sort: "date" %}
+{% assign lastWorkshop = sorted_workshops | last %}
+{% assign lastWorkshopDate = lastWorkshop.date | date: "%s" %}
+
 
 <ul>
-{% for w in sorted_workshops %}
-  {% assign postDate = w.date | date: "%s" %}
-  {% if postDate > afterDate %}
-    <li>{{ w.human_date }}: <a href="{{ w.url }}">{{ w.title }}</a></li>
-  {% endif %}
-{% endfor %}
+{% if lastWorkshopDate > cutoff %}
+  {% for w in sorted_workshops %}
+    {% assign postDate = w.date | date: "%s" %}
+    {% if postDate > cutoff %}
+      <li>{{ w.human_date }}: <a href="{{ w.url }}">{{ w.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+{% else %}
+    <li> We don’t have any more workshops scheduled this quarter. Join our <a href="https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about">mailing list</a> to hear about future workshops. </li>
+    <li> Have ideas for what we should offer next? <a href="https://tinyurl.com/future-workshops-ucsbcarpentry">Let us know here</a>. </li>
+{% endif %}
 </ul>
 
 ## Community Meetings
