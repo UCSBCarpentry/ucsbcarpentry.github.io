@@ -6,7 +6,7 @@ time: 1:00 PM - 3:00 PM PST
 human_date: "February 19"
 year: 2025
 location: UC Santa Barbara Library, Room 2509
-instructors: Sigrid Van Den Abeele, Jose Niño Muriel
+instructors: Sigrid Van Den Abbeele, Jose Niño Muriel
 helpers: Ronald Lencevičius, Seth Erickson
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-02-18-ucsb-intermediater"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-02-18-ucsb-intermediater"
