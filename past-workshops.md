@@ -65,7 +65,7 @@ permalink: /past-workshops/
 	    <td>October 8, 11, 15</td><td><a href="/workshop/2024/10/08/ucsb-r.html">Introduction to Data Analysis with R</a></td>
 	</tr>
     <tr>
-	    <td>July 9, 16, 23</td><td><a href="/workshop/2024/09/09/UC.html">2024 UC Carpentries Workshop Series (Remote)</a></td>
+	    <td>September 9-20</td><td><a href="/workshop/2024/09/09/UC.html">2024 UC Carpentries Workshop Series (Remote)</a></td>
 	</tr>
     <tr>
 	    <td>September 5</td><td><a href="/workshop/2024/09/05/SPNHC24.html">Data Carpentry: Species Interaction Data Workshop (Okinawa, Japan)</a></td>
