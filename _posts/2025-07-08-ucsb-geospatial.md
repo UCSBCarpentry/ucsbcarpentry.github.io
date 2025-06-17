@@ -10,7 +10,7 @@ instructors:
 helpers:
 pre_workshop_survey:
 post_workshop_survey:
-shoreline_url: "https://cglink.me/2dD/r2267520"
+shoreline_url: "https://tinyurl.com/ucsbcarp-m25-geo"
 lesson_url: "https://datacarpentry.org/r-raster-vector-geospatial/"
 description: "This hybrid workshop introduces the essentials of working with raster and vector geospatial data in R. You'll learn to visualize, reproject, and analyze rasters—including multi-band and time series data—as well as work with vector features like points, lines, and polygons. Unique to this workshop, we’ll also collaboratively revise the Carpentries lesson as we go, making it more engaging and learner-friendly. Whether you're new to geospatial analysis or looking to sharpen your skills, join us for a hands-on, community-driven learning experience this July."
 ---
