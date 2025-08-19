@@ -14,6 +14,9 @@ permalink: /past-workshops/
 	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>July 8-31</td><td><a href="/workshop/2025/07/08/ucsb-geospatial.html">Intro to Geospatial Raster and Vector Data with R</a></td>
+	</tr>
+    <tr>
 	    <td>May 1, 2, 8</td><td><a href="/workshop/2025/05/01/ucsb-r.html">Introduction to Data Analysis with R</a></td>
 	</tr>
     <tr>
