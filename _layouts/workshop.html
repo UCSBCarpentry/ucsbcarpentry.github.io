@@ -16,19 +16,19 @@ layout: default
         
         <p class="workshop-links">
             {% if page.shoreline_url %}
-            <a href="{{page.shoreline_url}}"><button type="button" class="btn btn-info">Register for this Workshop</button></a>
+            <a href="{{page.shoreline_url}}" target="_blank"><button type="button" class="btn btn-info">Register for this Workshop</button></a>
             {% endif %}
             {% if page.lesson_url %}
-            <a href="{{page.lesson_url}}"><button type="button" class="btn btn-info">Workshop Materials</button></a>
+            <a href="{{page.lesson_url}}" target="_blank"><button type="button" class="btn btn-info">Workshop Materials</button></a>
             {% endif %}
             {% if page.jupyter_url %}
-            <a href="{{page.jupyter_url}}"><button type="button" class="btn btn-info">Carpentry Jupyterhub</button></a>
+            <a href="{{page.jupyter_url}}" target="_blank"><button type="button" class="btn btn-info">Carpentry Jupyterhub</button></a>
             {% endif %}
             {% if page.notes_url %}
-            <a href="{{page.notes_url}}"><button type="button" class="btn btn-info">Collaborative notes</button></a>
+            <a href="{{page.notes_url}}" target="_blank"><button type="button" class="btn btn-info">Collaborative notes</button></a>
             {% endif %}
             {% if page.solutions_url %}
-            <a href="{{page.solutions_url}}"><button type="button" class="btn btn-info">Solution Set</button></a>
+            <a href="{{page.solutions_url}}" target="_blank"><button type="button" class="btn btn-info">Solution Set</button></a>
             {% endif %}
 
         </p>
@@ -45,9 +45,9 @@ layout: default
         <p>Please be sure to complete these surveys before and after the
         workshop.</p>
         <p>
-            <a href="{{page.pre_workshop_survey}}"><button type="button" class="btn btn-info">Pre-workshop survey</button></a>
+            <a href="{{page.pre_workshop_survey}}" target="_blank"><button type="button" class="btn btn-info">Pre-workshop survey</button></a>
             {% if page.post_workshop_survey %}
-            <a href="{{page.post_workshop_survey}}"><button type="button" class="btn btn-info">Post-workshop survey</button></a>
+            <a href="{{page.post_workshop_survey}}" target="_blank"><button type="button" class="btn btn-info">Post-workshop survey</button></a>
             {% endif %}
         </p>
     </div>
@@ -61,7 +61,7 @@ layout: default
         conform to the Code of Conduct. This document also outlines how to
         report an incident if needed.</p>
         <p>
-            <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
+            <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2" target="_blank">
                 <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
             </a>
         </p>
