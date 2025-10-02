@@ -3,10 +3,10 @@ title: UCSB Library Carpentry Workshops
 ---
 
 
-<h2>Workshops</h2>
+## Workshops
 
 <!-- show workshops after 2025-01-01 -->
-{% assign cutoff = '2025-09-01' | date: "%s" %}
+{% assign cutoff = '2025-10-01' | date: "%s" %}
 {% assign sorted_workshops = site.categories.workshop | sort: "date" %}
 {% assign lastWorkshop = sorted_workshops | last %}
 {% assign lastWorkshopDate = lastWorkshop.date | date: "%s" %}
@@ -17,13 +17,19 @@ title: UCSB Library Carpentry Workshops
   {% for w in sorted_workshops %}
     {% assign postDate = w.date | date: "%s" %}
     {% if postDate > cutoff %}
-      <li>{{ w.human_date }}: <a href="{{ w.url }}">{{ w.title }}</a></li>
+      <li>{{ w.human_date }}: <a href="{{ w.url }}" target="_blank">{{ w.title }}</a></li>
     {% endif %}
   {% endfor %}
 {% else %}
-    <li> We don’t have any more workshops scheduled this quarter. Join our <a href="https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about">mailing list</a> to hear about future workshops. </li>
-    <li> Have ideas for what we should offer next? <a href="https://tinyurl.com/future-workshops-ucsbcarpentry">Let us know here</a>. </li>
+    <li> We don’t have any more workshops scheduled this quarter. Join our <a href="https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about" target="_blank">mailing list</a> to hear about future workshops. </li>
+    <li> Have ideas for what we should offer next? <a href="https://tinyurl.com/future-workshops-ucsbcarpentry" target="_blank">Let us know here</a>. </li>
 {% endif %}
+</ul>
+
+## Related events 
+<ul>
+  <li>October 23: <a href="https://www.library.ucsb.edu/events-exhibitions/text-preprocessing-r" target="_blank">Text Preprocessing with R workshop</a></li>
+  <li>Thursdays this Fall: <a href="https://ucsb.zoom.us/meeting/register/2BlJKaBaTtGKtzhqSZHRiw#/registration" target="_blank">Data to Discovery Series (30-minute sessions)</a></li>
 </ul>
 
 ## Community Meetings
@@ -43,6 +49,7 @@ title: UCSB Library Carpentry Workshops
 UCSB Carpentry Community meetings are a venue for open discussion on topics in computational research. Meetings take place on Zoom and are open to all researchers in the Santa Barbara area. Feel free to propose a topic for an upcoming meeting!
 
 ## About Us
+
 **[The Carpentries](https://carpentries.org/)** project is an international organization of volunteers teaching foundational coding and data science skills to researchers (Check out this [map of workshops held worldwide](https://feeds.carpentries.org/plot_workshops_map.svg)). 
 Carpentry Workshops at UCSB are supported and organized by our stellar volunteers and the DREAM Lab (formerly, Interdisciplinary Research Collaboratory) at UCSB Library.
 
@@ -60,5 +67,5 @@ If you would like to get involved with putting on these workshops, please email 
 <br>
 *Your UCSB Carpentry Team*
 
-P.S. [See the DREAM Lab calendar page for more events!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1218)
+P.S. [See the Library calendar page for more workshops!](https://www.library.ucsb.edu/events-exhibitions?location=All&series=1225)
 

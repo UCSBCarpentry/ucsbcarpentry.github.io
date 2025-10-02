@@ -14,6 +14,12 @@ permalink: /past-workshops/
 	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>September 16, 18, and 19</td><td><a href="/workshop/2025/09/16/ucsb-python.html">Introduction to Python for MTM Students</a></td>
+	</tr>
+    <tr>
+	    <td>September 15 - 25</td><td><a href="/workshop/2025/09/15/UC.html">2025 UC Carpentries Workshop Series (Remote)</a></td>
+	</tr>
+    <tr>
 	    <td>July 8-31</td><td><a href="/workshop/2025/07/08/ucsb-geospatial.html">Intro to Geospatial Raster and Vector Data with R</a></td>
 	</tr>
     <tr>
@@ -332,7 +338,6 @@ permalink: /past-workshops/
         <td>Jan 25-26</td>
         <td><a href="https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/">Bash, Git &amp; R<br /></a></td>
         </tr>
-        <tr>
         <tr class="active-row">
             <td><b>2016 Workshops</b></td>
         </tr>
