@@ -14,6 +14,9 @@ permalink: /past-workshops/
 	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>October 7</td><td><a href="/workshop/2025/10/07/ucsb-shell.html">Introduction to The Unix Shell</a></td>
+	</tr>
+    <tr>
 	    <td>September 16, 18, and 19</td><td><a href="/workshop/2025/09/16/ucsb-python.html">Introduction to Python for MTM Students</a></td>
 	</tr>
     <tr>

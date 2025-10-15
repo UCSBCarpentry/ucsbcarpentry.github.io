@@ -36,7 +36,7 @@ layout: default
         <p style="float:left">{{ content }}</p>
     </div>
 
-    {% if page.pre_workshop_survey %}
+    {% if page.post_workshop_survey %}
 
     <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
     
@@ -45,7 +45,9 @@ layout: default
         <p>Please be sure to complete these surveys before and after the
         workshop.</p>
         <p>
+            {% if page.pre_workshop_survey %}
             <a href="{{page.pre_workshop_survey}}" target="_blank"><button type="button" class="btn btn-info">Pre-workshop survey</button></a>
+            {% endif %}
             {% if page.post_workshop_survey %}
             <a href="{{page.post_workshop_survey}}" target="_blank"><button type="button" class="btn btn-info">Post-workshop survey</button></a>
             {% endif %}
