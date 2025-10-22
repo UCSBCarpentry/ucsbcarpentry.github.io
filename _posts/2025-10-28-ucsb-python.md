@@ -6,8 +6,8 @@ time: 10:00 AM - 1:00 PM PST
 human_date: "October 28, 30, and November 4"
 year: 2025
 location: UC Santa Barbara Library
-instructors:
-helpers:
+instructors: Jairo Melo-Flórez, Jose Niño Muriel
+helpers: Hind Al Ali, Jean Allen
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-10-28-ucsb-python"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-10-28-ucsb-python"
 shoreline_url: "https://cglink.me/2dD/r2268292"

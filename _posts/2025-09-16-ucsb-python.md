@@ -7,7 +7,7 @@ human_date: "September 16, 18, and 19"
 year: 2025
 location: UC Santa Barbara Library
 instructors: Seth Erickson, Jose Niño Muriel
-helpers: Nicolas Herrera, Hind Al Ali, Jairo Melo, Jay Chi
+helpers: Nicolas Herrera, Hind Al Ali, Jairo Melo-Flórez, Jay Chi
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2025-09-16-ucsb-python"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2025-09-16-ucsb-python"
 lesson_url: "https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/"
