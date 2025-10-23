@@ -6,7 +6,7 @@ title: UCSB Library Carpentry Workshops
 ## Workshops
 
 <!-- show workshops after 2025-01-01 -->
-{% assign cutoff = '2025-10-13' | date: "%s" %}
+{% assign cutoff = '2025-10-23' | date: "%s" %}
 {% assign sorted_workshops = site.categories.workshop | sort: "date" %}
 {% assign lastWorkshop = sorted_workshops | last %}
 {% assign lastWorkshopDate = lastWorkshop.date | date: "%s" %}
@@ -28,7 +28,6 @@ title: UCSB Library Carpentry Workshops
 
 ## Related events 
 <ul>
-  <li>October 23: <a href="https://www.library.ucsb.edu/events-exhibitions/text-preprocessing-r" target="_blank">Text Preprocessing with R workshop</a></li>
   <li>Thursdays this Fall: <a href="https://ucsb.zoom.us/meeting/register/2BlJKaBaTtGKtzhqSZHRiw#/registration" target="_blank">Data to Discovery Series (30-minute sessions on Open Science)</a></li>
 </ul>
 
