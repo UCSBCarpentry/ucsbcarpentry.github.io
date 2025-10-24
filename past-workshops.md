@@ -14,6 +14,9 @@ permalink: /past-workshops/
 	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>October 14 and 16</td><td><a href="/workshop/2025/10/14/ucsb-git.html">Version Control with Git and GitHub</a></td>
+	</tr>
+    <tr>
 	    <td>October 7</td><td><a href="/workshop/2025/10/07/ucsb-shell.html">Introduction to The Unix Shell</a></td>
 	</tr>
     <tr>
