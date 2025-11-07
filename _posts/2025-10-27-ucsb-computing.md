@@ -6,7 +6,7 @@ time: 12:00 PM - 1:00 PM PST
 human_date: "October 27 and November 6"
 year: 2025
 location: UC Santa Barbara Library, Room 1312
-instructors: Brian Emery, Jay Chi, Seth Erickson
+instructors: Brian Emery, Seth Erickson, Jay Chi, Kelly Garvey, Danielle Ferraro, Paul Weakliem, Gavin McDonald
 helpers:
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_a5Uzcuc75oELlT8"
 shoreline_url: "https://cglink.me/2dD/r2269320"

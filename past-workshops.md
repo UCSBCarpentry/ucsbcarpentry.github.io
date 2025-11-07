@@ -14,6 +14,12 @@ permalink: /past-workshops/
 	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>October 28, 30, and November 4</td><td><a href="/workshop/2025/10/28/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
+	</tr>
+    <tr>
+	    <td>October 27 and November 6</td><td><a href="/workshop/2025/10/27/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop</a></td>
+	</tr>
+    <tr>
 	    <td>October 14 and 16</td><td><a href="/workshop/2025/10/14/ucsb-git.html">Version Control with Git and GitHub</a></td>
 	</tr>
     <tr>
