@@ -11,4 +11,6 @@ helpers:
 shoreline_url: "https://cglink.me/2dD/r2269687"
 lesson_url: "https://carpentries-incubator.github.io/r-geospatial-urban/index.html"
 jupyter_url: "https://carpentryworkshop.lsit.ucsb.edu/"
+pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-01-05-ucsb-geospatial"
+post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-01-05-ucsb-geospatial"
 ---
