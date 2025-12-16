@@ -1,2 +1,4 @@
 _site
 .tool-versions
+.bundle/
+vendor/
