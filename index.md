@@ -28,7 +28,7 @@ title: UCSB Library Carpentry Workshops
 
 ## Related events 
 <ul>
-  <li>Thursdays this Fall: <a href="https://ucsb.zoom.us/meeting/register/2BlJKaBaTtGKtzhqSZHRiw#/registration" target="_blank">Data to Discovery Series (30-minute sessions on Open Science)</a></li>
+  <li>Thursdays this Fall: <a href="https://bit.ly/D2D_2026Winter" target="_blank">Data to Discovery Series (30-minute sessions on data visualization and visual communication)</a></li>
   <li>February 9 - 13: <a href="https://uc-love-data-week.github.io/" target="_blank">UC Love Data Week</a></li>
 </ul>
 

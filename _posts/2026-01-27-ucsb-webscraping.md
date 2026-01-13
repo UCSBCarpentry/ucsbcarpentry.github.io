@@ -4,7 +4,7 @@ category: workshop
 title: "Web Scraping with Python"
 time: 10 am - 12:00 PST
 human_date: "January 27 and 29"
-year: 2025
+year: 2026
 location: UCSB Library
 instructors: Jose Nino Muriel, Jairo Melo-Flórez, Julien Brun
 helpers: Jean Allen, Youjia He
