@@ -1,0 +1,88 @@
+{{ define "main" }}
+    <h3>{{ .Title }}</h3>
+
+    <div class="details">
+        <p style="margin:0;font-weight:bold">{{ .Params.human_date }}, {{ .Params.year }}</p>
+        <p style="margin:0">{{ .Params.time }}</p>
+        <p style="margin-top:0">{{ .Params.location }}</p>
+        <p style="margin:0">Instructors: {{ .Params.instructors }}</p>
+        <p style="margin:0">Helpers: {{ .Params.helpers }}</p>
+
+        <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+
+        <p style="margin:0">{{ .Params.description | safeHTML }}</p>
+
+        <p class="workshop-links">
+            {{ with .Params.shoreline_url }}
+            <a href="{{ . }}" target="_blank"><button type="button" class="btn btn-info">Register for this Workshop</button></a>
+            {{ end }}
+            {{ with .Params.lesson_url }}
+            <a href="{{ . }}" target="_blank"><button type="button" class="btn btn-info">Workshop Materials</button></a>
+            {{ end }}
+            {{ with .Params.jupyter_url }}
+            <a href="{{ . }}" target="_blank"><button type="button" class="btn btn-info">Carpentry Jupyterhub</button></a>
+            {{ end }}
+            {{ with .Params.notes_url }}
+            <a href="{{ . }}" target="_blank"><button type="button" class="btn btn-info">Collaborative notes</button></a>
+            {{ end }}
+            {{ with .Params.solutions_url }}
+            <a href="{{ . }}" target="_blank"><button type="button" class="btn btn-info">Solution Set</button></a>
+            {{ end }}
+
+        </p>
+
+        <p style="float:left">{{ .Content }}</p>
+    </div>
+
+    {{ if .Params.post_workshop_survey }}
+
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+
+    <div class="survey-links">
+        <h4>Surveys</h4>
+        <p>Please be sure to complete these surveys before and after the
+        workshop.</p>
+        <p>
+            {{ with .Params.pre_workshop_survey }}
+            <a href="{{ . }}" target="_blank"><button type="button" class="btn btn-info">Pre-workshop survey</button></a>
+            {{ end }}
+            {{ with .Params.post_workshop_survey }}
+            <a href="{{ . }}" target="_blank"><button type="button" class="btn btn-info">Post-workshop survey</button></a>
+            {{ end }}
+        </p>
+    </div>
+    {{ end }}
+
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+
+    <div class="conduct">
+        <h4>Code of Conduct</h4>
+        <p> Everyone who participates in Carpentries activities is required to
+        conform to the Code of Conduct. This document also outlines how to
+        report an incident if needed.</p>
+        <p>
+            <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2" target="_blank">
+                <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
+            </a>
+        </p>
+    </div>
+
+    {{ with .Params.schedule }}
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+
+    <div class="schedule">
+        <h4>Schedule</h4>
+        <p>{{ . | markdownify }}</p>
+    </div>
+    {{ end }}
+
+    {{ with .Params.instructions }}
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+    <div class="instructions">
+        <h4>Workshop prep instructions:</h4>
+        <p>{{ . | markdownify }}</p>
+    </div>
+    {{ end }}
+
+    <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
+{{ end }}
