@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+<h2>Workshops</h2>
+
+{{/* show workshops after cutoff date - equivalent to Jekyll's assign cutoff = '2025-11-07' */}}
+{{ $cutoff := time "2025-11-07" }}
+{{ $workshops := where .Site.RegularPages "Section" "workshop" }}
+{{ $sortedWorkshops := sort $workshops "Date" }}
+{{ $lastWorkshop := index (last 1 $sortedWorkshops) 0 }}
+
+<ul>
+{{ if gt $lastWorkshop.Date.Unix $cutoff.Unix }}
+  {{ range $sortedWorkshops }}
+    {{ if gt .Date.Unix $cutoff.Unix }}
+      <li>{{ .Params.human_date }}: <a href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+{{ else }}
+    <li> We don't have any more workshops scheduled this quarter. Join our <a href="https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about" target="_blank">mailing list</a> to hear about future workshops. </li>
+    <li> Have ideas for what we should offer next? <a href="https://tinyurl.com/future-workshops-ucsbcarpentry" target="_blank">Let us know here</a>. </li>
+{{ end }}
+</ul>
+
+<h2>Related events</h2>
+<ul>
+  <li>Thursdays this Winter: <a href="https://bit.ly/D2D_2026Winter" target="_blank">Data to Discovery Series (30-minute sessions on data visualization and visual communication)</a></li>
+  <li>February 9 - 13: <a href="https://uc-love-data-week.github.io/" target="_blank">UC Love Data Week</a></li>
+  <li>February 9: <a href="https://www.library.ucsb.edu/events-exhibitions/events/ai-in-action" target="_blank">AI in Action: Conversations with UCSB Researchers</a></li>
+</ul>
+
+<h2>Community Meetings</h2>
+
+<ul>
+{{ $meetings := where .Site.RegularPages "Section" "meeting" }}
+{{ $futureMeetings := where $meetings "Date" ">" now }}
+{{ $sortedFutureMeetings := sort $futureMeetings "Date" }}
+{{ if gt (len $sortedFutureMeetings) 0 }}
+  {{ $nextMeeting := index $sortedFutureMeetings 0 }}
+    <li> <a href="{{ $nextMeeting.RelPermalink }}"> {{ $nextMeeting.Date.Format "January 02" }}: {{ $nextMeeting.Title }} (agenda)</a>
+      <p>{{ $nextMeeting.Params.short_description }}</p>
+    </li>
+{{ else }}
+    <li> The next community meeting is not yet scheduled. Check back soon! </li>
+{{ end }}
+</ul>
+
+
+UCSB Carpentry Community meetings are a venue for open discussion on topics in computational research. Meetings take place on Zoom and in the Library, and are open to all researchers in the Santa Barbara area. Feel free to propose a topic for an upcoming meeting!
+
+<h2>About Us</h2>
+
+{{ .Content }}
+
+{{ end }}
