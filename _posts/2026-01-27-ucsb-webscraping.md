@@ -11,7 +11,7 @@ helpers: Jean Allen, Youjia He
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-01-27-ucsb-webscraping"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-01-27-ucsb-webscraping"
 shoreline_url: "https://cglink.me/2dD/r2270303"
-lesson_url: "https://carpentries-incubator.github.io/web-scraping-python/index.html"
+lesson_url: "https://carpentry.library.ucsb.edu/web-scraping-python/"
 jupyter_url: "https://carpentryworkshop.lsit.ucsb.edu/"
 description: "Turn websites into usable data. In this intermediate workshop, you will master web scraping using Python's Requests, Beautiful Soup, and Selenium. Learn to read and navigate the backbone of a website (its HTML content) and automate data extraction from both static and dynamic web pages.
 <br><br>
