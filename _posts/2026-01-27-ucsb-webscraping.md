@@ -7,7 +7,7 @@ human_date: "January 27 and 29"
 year: 2026
 location: UCSB Library, Room 2509
 instructors: Jose Nino Muriel, Jairo Melo-Flórez, Julien Brun
-helpers: Jean Allen, Youjia He
+helpers: Jean Allen
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-01-27-ucsb-webscraping"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-01-27-ucsb-webscraping"
 shoreline_url: "https://cglink.me/2dD/r2270303"
@@ -20,7 +20,7 @@ Designed for participants with basic knowledge of Python programming.
 Complete workshop content, day by day:
 <ul>
 <li>Day 1: Exploring an HTML document and parsing its content with BeautifulSoup.</li>
-<li>Day 2: Automating data collection and scrapping dynamic websites.</li>
+<li>Day 2: Automating data collection and scraping dynamic websites.</li>
 </ul>
 "
 ---
