@@ -6,7 +6,7 @@ title: UCSB Library Carpentry Workshops
 ## Workshops
 
 <!-- show workshops after 2025-01-01 -->
-{% assign cutoff = '2025-11-07' | date: "%s" %}
+{% assign cutoff = '2026-02-01' | date: "%s" %}
 {% assign sorted_workshops = site.categories.workshop | sort: "date" %}
 {% assign lastWorkshop = sorted_workshops | last %}
 {% assign lastWorkshopDate = lastWorkshop.date | date: "%s" %}
