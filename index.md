@@ -6,7 +6,7 @@ title: UCSB Library Carpentry Workshops
 ## Workshops
 
 <!-- show workshops after 2025-01-01 -->
-{% assign cutoff = '2026-02-01' | date: "%s" %}
+{% assign cutoff = '2026-02-15' | date: "%s" %}
 {% assign sorted_workshops = site.categories.workshop | sort: "date" %}
 {% assign lastWorkshop = sorted_workshops | last %}
 {% assign lastWorkshopDate = lastWorkshop.date | date: "%s" %}
@@ -29,8 +29,6 @@ title: UCSB Library Carpentry Workshops
 ## Related events 
 <ul>
   <li>Thursdays this Winter: <a href="https://bit.ly/D2D_2026Winter" target="_blank">Data to Discovery Series (30-minute sessions on data visualization and visual communication)</a></li>
-  <li>February 9 - 13: <a href="https://uc-love-data-week.github.io/" target="_blank">UC Love Data Week</a></li>
-  <li>February 9: <a href="https://www.library.ucsb.edu/events-exhibitions/events/ai-in-action" target="_blank">AI in Action: Conversations with UCSB Researchers</a></li>
 </ul>
 
 ## Community Meetings

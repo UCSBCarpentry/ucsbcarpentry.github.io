@@ -11,7 +11,10 @@ permalink: /past-workshops/
     </thead>
     <tbody>
 	<tr>
-	    <td><b>2025 Workshops</b></td>
+	    <td><b>2026 Workshops</b></td>
+	</tr>
+    <tr>
+	    <td>February 11 and 13</td><td><a href="/workshop/2026/02/02/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
 	</tr>
     <tr>
 	    <td>January 27 and 29</td><td><a href="/workshop/2026/01/27/ucsb-webscraping.html">Web Scraping with Python</a></td>
@@ -21,6 +24,9 @@ permalink: /past-workshops/
 	</tr>
     <tr>
 	    <td>January 5, 6, 8, and 9</td><td><a href="/workshop/2026/01/05/ucsb-geospatial.html">Geospatial Data Carpentry for Urbanism using R</a></td>
+	</tr>
+    <tr>
+	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
 	    <td>October 28, 30, and November 4</td><td><a href="/workshop/2025/10/28/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
