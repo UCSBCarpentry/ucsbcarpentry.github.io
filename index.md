@@ -28,6 +28,7 @@ title: UCSB Library Carpentry Workshops
 
 ## Related events 
 <ul>
+  <li>March 6: <a href="https://www.library.ucsb.edu/events-exhibitions/workshop-1-how-make-map-arcgis-online" target="_blank">How to make a map with ArcGIS Online</a></li>
   <li>Thursdays this Winter: <a href="https://bit.ly/D2D_2026Winter" target="_blank">Data to Discovery Series (30-minute sessions on data visualization and visual communication)</a></li>
 </ul>
 
