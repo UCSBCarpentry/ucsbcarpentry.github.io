@@ -22,3 +22,12 @@ header {
 header nav a {
   background-color: var(--accent-bg);
 }
+
+header.post-header {
+  background-image: none;
+}
+
+article.post {
+  border: none;
+  padding: 0;
+}
