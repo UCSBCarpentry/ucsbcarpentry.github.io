@@ -1,0 +1,25 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<div class="posts-list">
+{{ $posts := .Pages }}
+{{ $sortedPosts := sort $posts "Date" "desc" }}
+{{ range $sortedPosts }}
+    <article class="post-summary">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="post-meta">{{ .Date.Format "January 2, 2006" }}</p>
+        {{ with .Params.summary }}
+        <p class="post-excerpt">{{ . }}</p>
+        {{ else }}
+        <p class="post-excerpt">{{ .Summary }}</p>
+        {{ end }}
+    </article>
+{{ end }}
+</div>
+
+{{ if eq (len $sortedPosts) 0 }}
+<p>No posts yet. Check back soon!</p>
+{{ end }}
+{{ end }}

@@ -2,8 +2,8 @@
 
 <h2>Workshops</h2>
 
-{{/* show workshops after cutoff date - equivalent to Jekyll's assign cutoff = '2025-11-07' */}}
-{{ $cutoff := time "2025-11-07" }}
+{{/* show workshops after cutoff date - equivalent to Jekyll's assign cutoff = '2026-02-15' */}}
+{{ $cutoff := time "2026-02-15" }}
 {{ $workshops := where .Site.RegularPages "Section" "workshop" }}
 {{ $sortedWorkshops := sort $workshops "Date" }}
 {{ $lastWorkshop := index (last 1 $sortedWorkshops) 0 }}
@@ -23,9 +23,8 @@
 
 <h2>Related events</h2>
 <ul>
+  <li>March 6: <a href="https://www.library.ucsb.edu/events-exhibitions/workshop-1-how-make-map-arcgis-online" target="_blank">How to make a map with ArcGIS Online</a></li>
   <li>Thursdays this Winter: <a href="https://bit.ly/D2D_2026Winter" target="_blank">Data to Discovery Series (30-minute sessions on data visualization and visual communication)</a></li>
-  <li>February 9 - 13: <a href="https://uc-love-data-week.github.io/" target="_blank">UC Love Data Week</a></li>
-  <li>February 9: <a href="https://www.library.ucsb.edu/events-exhibitions/events/ai-in-action" target="_blank">AI in Action: Conversations with UCSB Researchers</a></li>
 </ul>
 
 <h2>Community Meetings</h2>
