@@ -21,7 +21,7 @@ title: UCSB Library Carpentry Workshops
     {% endif %}
   {% endfor %}
 {% else %}
-    <li> We don’t have any more workshops scheduled this quarter. Join our <a href="https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about" target="_blank">mailing list</a> to hear about future workshops. </li>
+    <li> We don’t have any more Carpentry workshops scheduled this quarter. See the upcoming related events below, and join our <a href="https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about" target="_blank">mailing list</a> to hear about future workshops. </li>
     <li> Have ideas for what we should offer next? <a href="https://tinyurl.com/future-workshops-ucsbcarpentry" target="_blank">Let us know here</a>. </li>
 {% endif %}
 </ul>
