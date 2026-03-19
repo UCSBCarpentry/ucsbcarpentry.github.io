@@ -1,0 +1,25 @@
+baseurl: 'https://ucsbcarpentry.github.io/'
+languagecode: en-us
+title: UCSB Library Software Carpentry Workshops
+
+# Equivalent to Jekyll's future: true - publish posts with future dates
+buildfuture: true
+
+# Disable features we don't need
+disablekinds:
+  - RSS
+  - sitemap
+  - taxonomy
+  - term
+
+# URL structure to match Jekyll's category-based permalinks
+permalinks:
+  page:
+    meeting: '/meeting/:year/:month/:day/:slug'
+    workshop: '/workshop/:year/:month/:day/:slug'
+
+# Allow raw HTML in markdown (needed for inline HTML in content)
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
