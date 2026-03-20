@@ -44,7 +44,7 @@ url: /past-workshops/
 	    <td>September 16, 18, and 19</td><td><a href="/workshop/2025/09/16/ucsb-python.html">Introduction to Python for MTM Students</a></td>
 	</tr>
     <tr>
-	    <td>September 15 - 25</td><td><a href="/workshop/2025/09/15/UC.html">2025 UC Carpentries Workshop Series (Remote)</a></td>
+	    <td>September 15 - 25</td><td><a href="/workshop/2025/09/15/uc.html">2025 UC Carpentries Workshop Series (Remote)</a></td>
 	</tr>
     <tr>
 	    <td>July 8-31</td><td><a href="/workshop/2025/07/08/ucsb-geospatial.html">Intro to Geospatial Raster and Vector Data with R</a></td>
@@ -101,10 +101,10 @@ url: /past-workshops/
 	    <td>October 8, 11, 15</td><td><a href="/workshop/2024/10/08/ucsb-r.html">Introduction to Data Analysis with R</a></td>
 	</tr>
     <tr>
-	    <td>September 9-20</td><td><a href="/workshop/2024/09/09/UC.html">2024 UC Carpentries Workshop Series (Remote)</a></td>
+	    <td>September 9-20</td><td><a href="/workshop/2024/09/09/uc.html">2024 UC Carpentries Workshop Series (Remote)</a></td>
 	</tr>
     <tr>
-	    <td>September 5</td><td><a href="/workshop/2024/09/05/SPNHC24.html">Data Carpentry: Species Interaction Data Workshop (Okinawa, Japan)</a></td>
+	    <td>September 5</td><td><a href="/workshop/2024/09/05/spnhc24.html">Data Carpentry: Species Interaction Data Workshop (Okinawa, Japan)</a></td>
 	</tr>
     <tr>
 	    <td>July 9, 16, 23</td><td><a href="/workshop/2024/07/09/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
