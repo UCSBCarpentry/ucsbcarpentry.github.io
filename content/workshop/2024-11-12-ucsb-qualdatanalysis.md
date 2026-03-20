@@ -1,7 +1,6 @@
 ---
 date: 2024-11-12
 slug: ucsb-qualdatanalysis
-url: /workshop/2024/11/12/ucsb-qualdatanalysis.html
 title: "Handling and Sharing Qualitative Data Responsibly and Effectively"
 time: 10 am - 12:30 PST
 human_date: "November 12, 22"

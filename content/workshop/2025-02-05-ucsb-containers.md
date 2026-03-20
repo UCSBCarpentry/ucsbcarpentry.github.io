@@ -1,7 +1,6 @@
 ---
 date: 2025-02-05
 slug: ucsb-containers
-url: /workshop/2025/02/05/ucsb-containers.html
 title: "Container-driven Reproducible Research Made Simple"
 time: 1:00 PM - 4:00 PM PST
 human_date: "February 5"

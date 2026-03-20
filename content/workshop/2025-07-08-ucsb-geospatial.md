@@ -1,7 +1,6 @@
 ---
 date: 2025-07-08
 slug: ucsb-geospatial
-url: /workshop/2025/07/08/ucsb-geospatial.html
 title: "Intro to Geospatial Raster and Vector Data with R"
 time: 10:00am - 12:00pm PST
 human_date: "Tuesdays & Thursdays, July 8 - 31"

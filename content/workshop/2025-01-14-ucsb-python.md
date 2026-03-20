@@ -1,7 +1,6 @@
 ---
 date: 2025-01-14
 slug: ucsb-python
-url: /workshop/2025/01/14/ucsb-python.html
 title: "Introduction to Data Analysis with Python"
 time: 10am - 12:30pm PST
 human_date: "January 14, 17, 21"

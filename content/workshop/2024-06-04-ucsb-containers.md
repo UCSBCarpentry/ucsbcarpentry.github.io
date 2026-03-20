@@ -1,7 +1,6 @@
 ---
 date: 2024-06-04
 slug: ucsb-containers
-url: /workshop/2024/06/04/ucsb-containers.html
 title: "Container-driven Reproducible Research Made Simple"
 time: 1:00 PM - 4:00 PM PST
 human_date: "June 4"

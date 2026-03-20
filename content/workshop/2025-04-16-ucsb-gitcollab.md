@@ -1,7 +1,6 @@
 ---
 date: 2025-04-16
 slug: ucsb-gitcollab
-url: /workshop/2025/04/16/ucsb-gitcollab.html
 title: "Collaborating with Git and GitHub"
 time: 10:00 AM - 1:00 PM PST
 human_date: "April 16"

@@ -1,7 +1,6 @@
 ---
 date: 2024-11-13
 slug: community-meeting
-url: /meeting/2024/11/13/community-meeting.html
 title: "Community Meeting"
 time: 3:30-5:00PM
 location: (Hybrid) UC Santa Barbara Library, Room 2509

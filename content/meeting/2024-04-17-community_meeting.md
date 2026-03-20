@@ -1,7 +1,6 @@
 ---
 date: 2024-04-17
 slug: community_meeting
-url: /meeting/2024/04/17/community_meeting.html
 title: "Community Meeting"
 zoom: "https://ucsb.zoom.us/j/85883488926?pwd=a09tNzFxYkVpbTFEbWc4cExIaUFSUT09"
 time: 3-4pm

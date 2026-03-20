@@ -1,7 +1,6 @@
 ---
 date: 2022-10-27
 slug: community-meeting
-url: /meeting/2022/10/27/community-meeting.html
 title: "October Community Meeting"
 zoom: https://ucsb.zoom.us/j/87279994424?pwd=OC81NVBpc2ptUXdHU0VTQTg5ZjRndz09
 time: 3:30-5PM

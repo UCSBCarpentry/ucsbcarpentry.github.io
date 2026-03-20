@@ -1,7 +1,6 @@
 ---
 date: 2025-02-26
 slug: community-meeting
-url: /meeting/2025/02/26/community-meeting.html
 title: "Community Meeting"
 time: 10:00-11:00AM
 location: (Hybrid) UC Santa Barbara Library, Room 2509

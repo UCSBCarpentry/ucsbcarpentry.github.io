@@ -1,7 +1,6 @@
 ---
 date: 2025-02-18
 slug: ucsb-intermediater
-url: /workshop/2025/02/18/ucsb-intermediater.html
 title: "Intermediate R"
 time: 1:00 PM - 3:00 PM PST
 human_date: "February 19"

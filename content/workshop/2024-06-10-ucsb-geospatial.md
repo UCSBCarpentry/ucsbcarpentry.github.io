@@ -1,7 +1,6 @@
 ---
 date: 2024-06-10
 slug: ucsb-geospatial
-url: /workshop/2024/06/10/ucsb-geospatial.html
 title: "Introduction to Geospatial Raster and Vector Data with R (Dress Rehearsal)"
 time: 10am - 2pm PST
 human_date: "June 10-11"

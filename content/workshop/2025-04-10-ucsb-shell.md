@@ -1,7 +1,6 @@
 ---
 date: 2025-04-10
 slug: ucsb-shell
-url: /workshop/2025/04/10/ucsb-shell.html
 title: "Introduction to The Unix Shell"
 time: 1:00 PM - 4:00 PM PST
 human_date: "April 10"

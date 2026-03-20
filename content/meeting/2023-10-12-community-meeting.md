@@ -1,7 +1,6 @@
 ---
 date: 2023-10-12
 slug: community-meeting
-url: /meeting/2023/10/12/community-meeting.html
 title: "Community Meeting"
 zoom: "https://ucsb.zoom.us/j/85883488926?pwd=a09tNzFxYkVpbTFEbWc4cExIaUFSUT09"
 time: 3:00-4:30PM

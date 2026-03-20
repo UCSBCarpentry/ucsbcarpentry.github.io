@@ -1,7 +1,6 @@
 ---
 date: 2023-12-11
 slug: ucsb-quarto
-url: /workshop/2023/12/11/ucsb-quarto.html
 title: "Reproducible Publications with Quarto"
 time: 9:00am - 12pm PST
 human_date: December 11-12
