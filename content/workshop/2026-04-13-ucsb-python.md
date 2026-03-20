@@ -1,6 +1,6 @@
 ---
-layout: workshop
-category: workshop
+date: 2026-04-13
+slug: ucsb-python
 title: "Introduction to Data Analysis with Python"
 time: 10:00 AM - 1:00 PM PT
 human_date: "April 13, 15, and 20"
