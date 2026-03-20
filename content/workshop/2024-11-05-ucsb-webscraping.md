@@ -1,7 +1,6 @@
 ---
 date: 2024-11-05
 slug: ucsb-webscraping
-url: /workshop/2024/11/05/ucsb-webscraping.html
 title: "Web Scraping with Python"
 time: 10 am - 12:00 PST
 human_date: "November 5, 7"

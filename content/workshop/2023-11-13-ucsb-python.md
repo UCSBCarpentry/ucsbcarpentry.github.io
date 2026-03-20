@@ -1,7 +1,6 @@
 ---
 date: 2023-11-13
 slug: ucsb-python
-url: /workshop/2023/11/13/ucsb-python.html
 title: "Data Analysis and Visualization in Python"
 time: 9:30am - 12pm PST
 human_date: November 14-16

@@ -1,7 +1,6 @@
 ---
 date: 2025-01-23
 slug: ucsb-geospatial
-url: /workshop/2025/01/23/ucsb-geospatial.html
 title: "Working with Geospatial Data in R"
 time: 1:30pm - 4:30pm PST
 human_date: "January 23, 24, 30, 31"

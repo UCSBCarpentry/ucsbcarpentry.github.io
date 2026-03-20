@@ -1,7 +1,6 @@
 ---
 date: 2025-10-27
 slug: ucsb-computing
-url: /workshop/2025/10/27/ucsb-computing.html
 title: "Research Computing - What to do when your work gets too big for your laptop"
 time: 12:00 PM - 1:00 PM PST
 human_date: "October 27 and November 6"

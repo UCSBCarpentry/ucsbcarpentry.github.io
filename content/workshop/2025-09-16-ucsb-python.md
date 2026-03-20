@@ -1,7 +1,6 @@
 ---
 date: 2025-09-16
 slug: ucsb-python
-url: /workshop/2025/09/16/ucsb-python.html
 title: "Introduction to Python for MTM Students"
 time: 1:00 PM - 4:00 PM PST
 human_date: "September 16, 18, and 19"

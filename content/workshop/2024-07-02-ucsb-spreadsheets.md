@@ -1,7 +1,6 @@
 ---
 date: 2024-07-02
 slug: ucsb-spreadsheets
-url: /workshop/2024/07/02/ucsb-spreadsheets.html
 title: "Data Organization in Spreadsheets"
 time: 10am - 12:30pm PST
 human_date: "July 2"

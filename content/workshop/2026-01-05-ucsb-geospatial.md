@@ -1,7 +1,6 @@
 ---
 date: 2026-01-05
 slug: ucsb-geospatial
-url: /workshop/2026/01/05/ucsb-geospatial.html
 title: "Geospatial Data Carpentry for Urbanism using R"
 time: 9:30am - 12:00pm PST
 human_date: "January 5, 6, 8, and 9"

@@ -1,7 +1,6 @@
 ---
 date: 2024-07-09
 slug: ucsb-python
-url: /workshop/2024/07/09/ucsb-python.html
 title: "Data Analysis and Visualization in Python"
 time: 10am - 12:30pm PST
 human_date: "July 9, 16, 23"
