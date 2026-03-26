@@ -25,5 +25,3 @@ will help instructors tailor the workshop to the needs of the attendees.
 files and customize for the event. * EventBrite: make 30 tickets available, and
 waiting list of 10. * Don't forget to include data downloads on the setup
 instructions.
-
-## Publicize to list: See spreadsheet in Google shared Drive for UCSB carpentry
