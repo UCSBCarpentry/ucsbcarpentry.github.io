@@ -6,7 +6,7 @@ time: 10:00 AM - 1:00 PM PT
 human_date: "April 13, 15, and 20"
 year: 2026
 location: UCSB Library, Room 2509
-instructors: Emily Gemmill, Jose Niño Muriel
+instructors: Emily Gemmill, Seth Erickson
 helpers: Jay Chi
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-04-13-ucsb-python"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-04-13-ucsb-python"
