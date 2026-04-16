@@ -1,0 +1,17 @@
+---
+date: 2026-05-11
+slug: ucsb-carpentry
+title: "2026 UC Library Carpentry Workshop Series (Remote)"
+time: 9:00 AM - 12:00 PM PST
+human_date: "May 11-26"
+year: 2026
+location: Online
+instructors: Cody Hennesy, Jose Nino-Muriel, Jamie Jamisom, Tim Dennis, Seth Erickson, Ryan Horne, Derek Devnich
+helpers: Dave George, Kristi Liu, Geno Sanchez
+pre_workshop_survey:
+shoreline_url: "https://ucla.zoom.us/meeting/register/9tQoXLE4Q1C-0NfDZndXrg#/registration"
+lesson_url:
+description: "Join us for a 6-day Carpentries workshop series aimed at teaching participants the essential concepts, skills, and tools for Python in Jupyter Notebook, an introduction to the Unix Shell, Version Control with Git, Tidy Data, and OpenRefine. This workshop is designed to empower researchers with the computing skills necessary for research analysis.
+This workshop is free, and participants can register for individual session topics or the entire series."
+
+---
