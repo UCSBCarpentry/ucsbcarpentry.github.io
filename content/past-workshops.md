@@ -14,6 +14,12 @@ url: /past-workshops/
 	    <td><b>2026 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>April 13, 15, and 20</td><td><a href="/workshop/2026/04/13/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
+	</tr>
+    <tr>
+	    <td>April 7 and 9</td><td><a href="/workshop/2026/04/07/ucsb-git.html">Version Control with Git and GitHub</a></td>
+	</tr>
+    <tr>
 	    <td>February 11 and 13</td><td><a href="/workshop/2026/02/02/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
 	</tr>
     <tr>

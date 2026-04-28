@@ -2,8 +2,7 @@
 
 <h2>Workshops</h2>
 
-{{/* show workshops after cutoff date - equivalent to Jekyll's assign cutoff = '2026-02-15' */}}
-{{ $cutoff := time "2026-02-15" }}
+{{ $cutoff := time "2026-05-01" }}
 {{ $workshops := where .Site.RegularPages "Section" "workshop" }}
 {{ $sortedWorkshops := sort $workshops "Date" }}
 {{ $lastWorkshop := index (last 1 $sortedWorkshops) 0 }}
