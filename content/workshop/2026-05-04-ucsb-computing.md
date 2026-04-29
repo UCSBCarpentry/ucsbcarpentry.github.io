@@ -8,7 +8,8 @@ year: 2026
 location: UC Santa Barbara Library, Room 1312
 instructors: Jay Chi, Seth Erickson, Brian Emery
 helpers:
-pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-05-04-ucsb-computing"
+pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_1zu1a9eHmqQPR9c"
+post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_a5Uzcuc75oELlT8"
 shoreline_url: "https://cglink.me/2dD/r2272276"
 lesson_url:
 description: "Join us for this 1.5-hour seminar on using Research Computing resources at UCSB. We’ll present several case studies for putting High Performance Computing (HPC) resources to use, including on boarding, moving from local GUI interfaces (e.g. R, jupyter, etc.) to workflows for using HPC machines with web interfaces, the command line, or queue based methods.
