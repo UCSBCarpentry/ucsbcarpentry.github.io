@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2026/05/04/ucsb-computing.html"
 date: 2026-05-04
 slug: ucsb-computing
 title: "Research Computing - What to do when your work gets too big for your laptop"

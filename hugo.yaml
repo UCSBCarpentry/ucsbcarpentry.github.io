@@ -23,6 +23,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
-# Output URLs with .html extensions (matches Jekyll behavior)
-uglyURLs: true

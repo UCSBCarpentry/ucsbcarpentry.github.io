@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/02/18/ucsb-intermediater.html"
 date: 2025-02-18
 slug: ucsb-intermediater
 title: "Intermediate R"

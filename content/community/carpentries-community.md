@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/community/carpentries-community.html"
 title: UCSB Library Carpentry Community
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/04/16/ucsb-gitcollab.html"
 date: 2025-04-16
 slug: ucsb-gitcollab
 title: "Collaborating with Git and GitHub"

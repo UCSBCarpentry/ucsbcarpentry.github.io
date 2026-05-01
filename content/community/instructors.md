@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/community/instructors.html"
 title: UCSB Library Carpentry Community
 hide_title: true
 ---

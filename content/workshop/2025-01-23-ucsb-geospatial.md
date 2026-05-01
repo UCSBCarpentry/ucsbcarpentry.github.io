@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/01/23/ucsb-geospatial.html"
 date: 2025-01-23
 slug: ucsb-geospatial
 title: "Working with Geospatial Data in R"
