@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/meeting/2022/11/29/community-meeting.html"
 date: 2022-11-29
 slug: community-meeting
 title: "November Community Meeting"

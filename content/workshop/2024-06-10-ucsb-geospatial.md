@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2024/06/10/ucsb-geospatial.html"
 date: 2024-06-10
 slug: ucsb-geospatial
 title: "Introduction to Geospatial Raster and Vector Data with R (Dress Rehearsal)"

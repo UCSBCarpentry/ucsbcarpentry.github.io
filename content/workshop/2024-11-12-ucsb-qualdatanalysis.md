@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2024/11/12/ucsb-qualdatanalysis.html"
 date: 2024-11-12
 slug: ucsb-qualdatanalysis
 title: "Handling and Sharing Qualitative Data Responsibly and Effectively"

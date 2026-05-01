@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/07/08/ucsb-geospatial.html"
 date: 2025-07-08
 slug: ucsb-geospatial
 title: "Intro to Geospatial Raster and Vector Data with R"

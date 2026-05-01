@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2026/01/05/ucsb-geospatial.html"
 date: 2026-01-05
 slug: ucsb-geospatial
 title: "Geospatial Data Carpentry for Urbanism using R"
