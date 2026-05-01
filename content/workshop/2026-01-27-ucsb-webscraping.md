@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2026/01/27/ucsb-webscraping.html"
 date: 2026-01-27
 slug: ucsb-webscraping
 title: "Web Scraping with Python"

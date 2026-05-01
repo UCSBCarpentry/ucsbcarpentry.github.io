@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2023/12/11/ucsb-quarto.html"
 date: 2023-12-11
 slug: ucsb-quarto
 title: "Reproducible Publications with Quarto"

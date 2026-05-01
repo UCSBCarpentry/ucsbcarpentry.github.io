@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/01/14/ucsb-python.html"
 date: 2025-01-14
 slug: ucsb-python
 title: "Introduction to Data Analysis with Python"

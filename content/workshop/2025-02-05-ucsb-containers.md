@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/02/05/ucsb-containers.html"
 date: 2025-02-05
 slug: ucsb-containers
 title: "Container-driven Reproducible Research Made Simple"

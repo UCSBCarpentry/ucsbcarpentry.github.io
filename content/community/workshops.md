@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/community/workshops.html"
 title: UCSB Carpentries Workshop Practices
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/04/10/ucsb-shell.html"
 date: 2025-04-10
 slug: ucsb-shell
 title: "Introduction to The Unix Shell"

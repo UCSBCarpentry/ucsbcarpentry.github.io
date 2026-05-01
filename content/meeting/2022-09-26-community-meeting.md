@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/meeting/2022/09/26/community-meeting.html"
 date: 2022-09-26
 slug: community-meeting
 title: "Fall Kickoff Meeting"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2024/07/02/ucsb-spreadsheets.html"
 date: 2024-07-02
 slug: ucsb-spreadsheets
 title: "Data Organization in Spreadsheets"

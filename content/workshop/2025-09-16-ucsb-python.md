@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2025/09/16/ucsb-python.html"
 date: 2025-09-16
 slug: ucsb-python
 title: "Introduction to Python for MTM Students"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2024/07/09/ucsb-python.html"
 date: 2024-07-09
 slug: ucsb-python
 title: "Data Analysis and Visualization in Python"

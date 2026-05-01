@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/workshop/2024/02/27/ucsb-webscraping.html"
 date: 2024-02-27
 slug: ucsb-webscraping
 title: "Introduction to Web Scraping"
