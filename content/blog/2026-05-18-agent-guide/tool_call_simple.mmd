@@ -1,0 +1,11 @@
+sequenceDiagram
+    participant Weather API
+    participant User
+    participant LLM API
+
+    User->>LLM API: (1) Prompt + Tool: get_weather(location)
+    LLM API->>User: (2) Tool Call: get_weather(location="Paris")
+    User ->> Weather API: (3) {"location": "Paris"}
+    Weather API ->> User: (4) "The weather in Paris is sunny."
+    User->>LLM API: (5) Tool Call Result: "Weather in Paris is sunny."
+    LLM API->>User: (6) Final Response: "The weather in Paris is sunny."
