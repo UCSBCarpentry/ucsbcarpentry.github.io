@@ -2,14 +2,14 @@
 title:  What is an AI Agent?
 ---
 
-Simon Willison, a prolific software developer and writer on AI-assisted coding,
-describes [AI agents](https://simonwillison.net/tags/ai-agents/) as "LLMs
-calling tools in a loop to achieve a goal". It's a nice definition, particularly
-if you are already familiar with the technical sense of the terms. If you
-aren't, you might be wondering: What is a "tool", and how does a language model
-"call" one? In this post, I want to add some technical specificity to Willison's
-definition by showing how to build a very simple agent: we'll build a program in
-which an LLM calls tools in a loop to achieve a goal.
+The prolific software developer and writer on AI-assisted coding, Simon Willison
+describes [AI agents](https://simonwillison.net/tags/ai-agents/) as "**LLMs
+calling tools in a loop to achieve a goal**". It's a good definition,
+particularly if you are already familiar with the technical sense of the terms.
+If you aren't, you might be wondering: What is a "tool", and how does a language
+model "call" one? In this post, I want to add some technical specificity to
+Willison's definition by showing how to build a very simple agent: we'll build a
+program in which an LLM calls tools in a loop to achieve a goal.
 
 Real-world agents (for example, coding agents) can be quite complicated pieces
 of software. However, the core features of an agent are surprisingly simple to
@@ -35,8 +35,8 @@ hardware for running models, and we don’t need to complex machine learning
 frameworks (like PyTorch). Instead, we just need an HTTP client, like Python’s
 [requests](https://pypi.org/project/requests/) library.
 
-Model providers (like Open AI, Anthropic, Google, AWS, etc.) expect programs to
-use specific APIs to interact with their LLMs. Open AI’s [Chat Completion
+Model providers (like OpenAI, Anthropic, Google, AWS, etc.) expect programs to
+use specific APIs to interact with their LLMs. OpenAI’s [Chat Completion
 API](https://developers.openai.com/api/reference/resources/chat), is one of the
 oldest and most widely supported APIs for interacting with LLMs--and it’s the API
 we’ll use here.
@@ -248,7 +248,7 @@ The response has changed in a few ways. First, doesn't include any `content`
 like this:
 
 ```json
-{"arguments": '{"location": "Paris"}', "name": 'get_weather'}`
+{"arguments": "{'location': 'Paris'}", "name": "get_weather"}`
 ```
 
 As the name suggests, "tool calls" are how the API calls (or invokes) the tools
@@ -313,17 +313,26 @@ messages.append(msg)
 print(msg["content"]) # The weather in Paris is currently 56°F and cloudy.
 ```
 
-The final message sequence to/from the LLM API and the `get_weather()` tool call
-are represented in the table below. Note that the tool output is sent to the LLM
-API using a message with `"tool"` role, not the typical `"user"` role.
+The final message sequence to/from the LLM API is represented in the table
+below. Note that the tool output is sent to the LLM API using a message with
+`"tool"` role, not the typical `"user"` role.
 
 | `role`                             | `content`                                           | `tool_calls`                                                    |
 | :--------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------------- |
 | `user`                             | "What is the weather in Paris?"                     |                                                                 |
 | `assistant`                        | *None*                                              | `{"arguments": '{"location": "Paris"}', "name": 'get_weather'}` |
-| *run tool:* `get_weather("Paris")` |                                                     |                                                                 |
 | `tool`                             | "Paris: ☁️  +56°F"                                |                                                                 |
 | `assistant`                        | "The weather in Paris is currently 56°F and cloudy" |                                                                 |
 
+## Calling Tools in a Loop 
 
+Let's revisit Willison's definition of AI agents: they are "**LLMs calling tools
+in a loop to achieve a goal**. At this point, we have a better understanding of
+how LLMs call tools: we include descriptions of available tools in our LLM API
+requests; the response messages may include `tool_calls`, which we process
+locally; we then send tool call output back to the LLM API as messages with the
+`"tool"` role. In the code above, we only processed a single response message
+from the LLM API. In fact, that's not how AI agents tend to work. They call
+tools "in a loop" -- sometimes called the "agent loop".
 
+... 
