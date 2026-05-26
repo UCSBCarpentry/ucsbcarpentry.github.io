@@ -239,7 +239,7 @@ msg = call_llm(messages, api_base_url, api_model, api_key, tools = [get_weather_
 # print response details
 print(msg["role"])    # "assistant"
 print(msg["content"]) # None
-print(msg["too_calls"][0][function]) # {'arguments': '{"location": "Paris"}', 'name': 'get_weather'}
+print(msg["too_calls"][0][function]) # {"arguments": "{'location': 'Paris'}", "name": "get_weather"}`
 ```
 
 The response has changed in a few ways. First, doesn't include any `content`
@@ -282,7 +282,7 @@ get_weather("Paris") # "paris: ☁️  +56°F"
 Now that we have implemented `get_weather`, we can call the Python function
 using the arguments in the tool call, and then send the output back to the LLM.
 The tool call output is included in the message of a second request, using the
-`"tool"` role:
+`"tool"` role.
 
 
 ```python
@@ -317,22 +317,31 @@ The final message sequence to/from the LLM API is represented in the table
 below. Note that the tool output is sent to the LLM API using a message with
 `"tool"` role, not the typical `"user"` role.
 
-| `role`                             | `content`                                           | `tool_calls`                                                    |
-| :--------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------------- |
-| `user`                             | "What is the weather in Paris?"                     |                                                                 |
-| `assistant`                        | *None*                                              | `{"arguments": '{"location": "Paris"}', "name": 'get_weather'}` |
-| `tool`                             | "Paris: ☁️  +56°F"                                |                                                                 |
-| `assistant`                        | "The weather in Paris is currently 56°F and cloudy" |                                                                 |
+| Role        | Content / Tool Call                                                          |
+| :---------- | :--------------------------------------------------------------------------- |
+| `user`      | "What is the weather in Paris?"                                              |
+| `assistant` | tool call: `{"arguments": "{'location': 'Paris'}", "name": "get_weather"}` |
+| `tool`      | "Paris: ☁️  +56°F"                                                         |
+| `assistant` | "The weather in Paris is currently 56°F and cloudy"                          |
 
 ## Calling Tools in a Loop 
 
-Let's revisit Willison's definition of AI agents: they are "**LLMs calling tools
-in a loop to achieve a goal**. At this point, we have a better understanding of
-how LLMs call tools: we include descriptions of available tools in our LLM API
-requests; the response messages may include `tool_calls`, which we process
-locally; we then send tool call output back to the LLM API as messages with the
-`"tool"` role. In the code above, we only processed a single response message
-from the LLM API. In fact, that's not how AI agents tend to work. They call
-tools "in a loop" -- sometimes called the "agent loop".
+Let's revisit Willison's definition. AI agents are "**LLMs calling tools in a
+loop to achieve a goal**. At this point, we have a better understanding of how
+LLMs call tools: we include descriptions of available tools in our requests; the
+response may include `tool_calls`; we process tool calls locally and send the
+output back using the `"tool"` role. In the code above, we only processed the
+tool calls for a single response message. If the LLM API responded to the first
+tool call with a second (for example, if the first didn't work as expected), the
+second tool call would be ignored. We can address this by continuing to process
+tool calls, and making new requests to the LLM API with tool output, until we
+stop receiving responses with tool calls.
 
-![Agent Loop](agent-loop.svg)
+This is the idea of "calling tools in a loop": as long as the LLM API continues
+to respond with tool calls, the agent continues to handle the calls and make new
+requests with the results. The "agent loop" (represented on the right-hand side
+of the figure below) is only broken when the LLM API stop responding with tool
+calls.
+
+![The Agent Loop](agent-loop.svg)
+
