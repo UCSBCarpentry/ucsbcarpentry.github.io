@@ -335,4 +335,4 @@ locally; we then send tool call output back to the LLM API as messages with the
 from the LLM API. In fact, that's not how AI agents tend to work. They call
 tools "in a loop" -- sometimes called the "agent loop".
 
-... 
+![Agent Loop](agent-loop.svg)
