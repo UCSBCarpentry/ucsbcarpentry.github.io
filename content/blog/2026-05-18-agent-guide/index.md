@@ -161,7 +161,7 @@ The final `messages` list would include the following:
 
 | `role`      | `content`                                 |
 | :---------- | :---------------------------------------- |
-| `user`      | `"What is the weather in Paris?"`          |
+| `user`      | `"What is the weather in Paris?"`         |
 | `assistant` | `"The weather in Paris is ..."`           |
 | `user`      | `"temperature in C and F please!"`        |
 | `assistant` | `"It is 13°C (55°F) with clear skies..."` |
@@ -188,21 +188,26 @@ Similar weather is expected tomorrow, with mostly sunny skies and a high of 14°
 
 At the time, this descriptions was not accurate. In fact, running the script
 multiple times returned completely different weather conditions! That's because
-the model doesn't actually know what the weather in Paris is, so it makes up. It
-"hallucinates" a plausible description.
+the model doesn't actually know what the weather in Paris is, so it makes up the
+answer. It "hallucinates" a plausible description of the weather. One way to
+avoid hallucinations in LLM API responses is to provide the model with "tools"
+that it can use. Tools provide LLMs with ways to access current information,
+perform tasks, and avoid having to fill-in missing details with statistically
+likely text. 
 
-One way to avoid hallucinations in LLM API responses is by providing the model
-with "tools" that it can use. Tools provide LLMs with ways to access high
-quality information or perform tasks, and to avoid having to fill-in missing
-details with statistically likely text. To illustrate, we first need to define a
-`get_weather` tool, and include it with our request. How does the LLM API
-response change?
+To illustrate how tools work, we'll create a tool called `get_weather` that
+returns current weather conditions for a given location. For now, we're not
+concerned with *implementing* the tool. First, we just want to change our
+request so that the LLM API is aware of the tool.
+
+The optional `tools` argument of our `call_llm()` function is used to provide
+the LLM API with structured descriptions of tools it can call. In this context,
+you can think of "tools" as metadata describing a function in terms of inputs
+and outputs. Here's how we would describe our `get_weather` tool using the Chat
+Completion API:
 
 ```python
-# get_weather_schema is metadata describing the `get_weather` tool
-# to include in the llm requests. It describes what the function
-# does and its required parameters. This structure conforms with the
-# Chat Completion API (`ChatCompletionTool`).
+# get_weather_schema describes the `get_weather` tool.
 get_weather_schema = {
     "type": "function",
     "function": {
@@ -220,39 +225,47 @@ get_weather_schema = {
         },
     },
 }
+```
+
+Now let's see how our response changes when we include this tool (`get_weather_schema`).
+
+```python
+prompt = "What is the weather in Paris"
+messages = [{"role": "user", "content": prompt}]
 
 # same prompt, api_base_url, api_model, and api_key as before
-msg = call_llm(api_base_url, api_model, api_key, 
-    messages = messages,
-    tools = [get_weather_schema]
-)
-print(msg["content"]) # "None"
+msg = call_llm(messages, api_base_url, api_model, api_key, tools = [get_weather_schema])
+
+# print response details
+print(msg["role"])    # "assistant"
+print(msg["content"]) # None
 print(msg["too_calls"][0][function]) # {'arguments': '{"location": "Paris"}', 'name': 'get_weather'}
 ```
 
-The response doesn't include text in the `content` key like before; instead,
-what we get is a list of `tool_calls`, each with a `function` value like this:
+The response has changed in a few ways. First, doesn't include any `content`
+(the `content` key is still present in the response message, but its values is
+`None`). Second, there is a new key, `tool_calls`, which is a list of objects
+like this:
 
 ```json
 {"arguments": '{"location": "Paris"}', "name": 'get_weather'}`
 ```
 
-What is happening here? Instead of generating direct response to the prompt, the
-LLM API has responded with a `tool_call`. As the name suggests, "tool calls" are
-how the API calls (or invokes) the tools we included in the request. Our request
-included the `get_weather` tool definition, and the response includes a tool
-call to run the `get_weather` function with arguments `{"location": "Paris"}`.
-The expectation is that we will run `get_weather()` and provide the LLM with the
-output so that it can provided a response grounded in facts. 
+As the name suggests, "tool calls" are how the API calls (or invokes) the tools
+we included in the request. Our request included the `get_weather` tool
+definition, and the response includes a tool call to run the `get_weather`
+function with arguments `{"location": "Paris"}`. The expectation is that we will
+run `get_weather()` and make an additional request with the output
+from the tool call. 
 
-To achieve this, we need to create a `get_weather()` function that we can call.
-We'll use https://wttr.in as it provides a free, simple API that is sufficient
-for our purposes:
+It's time to implement the `get_weather()` function so that we can call it from
+our python code. We'll use https://wttr.in as it provides a free, simple API
+that is sufficient for our purposes:
 
 ```py
-# get_weather is our implementation of the function described in
-# get_weather_schema. It gets the current weather for a given location 
-# using a weather API (wttr.in)
+# get_weather is our python implemention of the `get_weather` tool.
+# It gets the current weather for a given location using a weather
+# API (wttr.in)
 def get_weather(location: str) -> str:
     url = f"https://wttr.in/{location}?format=3"
     try:
@@ -262,53 +275,55 @@ def get_weather(location: str) -> str:
     except Exception as e:
         return f"Could not get weather for {location}: {e}"
 
+# example
 get_weather("Paris") # "paris: ☁️  +56°F"
 ```
 
-To provide the LLM with the result of the tool call (`"paris: ☁️ +56°F"`), we
-need make a new request that includes all the previous messages *plus* a new
-message with the tool call output. (That's three messages in total: (1) our
-initial prompt, (2) the LLM API's response with the tool call, and (3) the tool
-call output).
-
-Here's how the complete sequence with the LLM API:
+Now that we have implemented `get_weather`, we can call the Python function
+using the arguments in the tool call, and then send the output back to the LLM.
+The tool call output is included in the message of a second request, using the
+`"tool"` role:
 
 
 ```python
-prompt = "What is the weather in Paris?"
-messages = [{"role": "user", "content": prompt}]
-tools = [get_weather_schema] # previously defined
+# continuing from above ...
+# msg = call_llm(messages, api_base_url, api_model, api_key, tools = [get_weather_schema])
 
-# initial request
-msg = call_llm(messages=messages, tools=tools)
-messages.append(msg)
-
-# handle tool calls
-if "tool_calls" not in msg:
-    print("expected a tool call, got content:", msg.get("content"))
-    raise ValueError("No tool calls found in the response")
+# run tool call in response:
 for call in msg["tool_calls"]:
-    args = json.loads(call["function"]["arguments"])
+
+    # parse tool call function name and arguments
     name = call["function"]["name"]
     if name != "get_weather":
-        raise ValueError(f"function name is not 'get_weather', got {name}")
+        raise ValueError(f"unexpected function name: {name}")
+    args = json.loads(call["function"]["arguments"])
     result = get_weather(**args)
-    new_msg =  {"role": "tool", "tool_call_id": call["id"], "content": str(result)}
+    
+    # message with tool cal output
+    new_msg =  {
+        "role": "tool",
+        "tool_call_id": call["id"],
+        "content": str(result),
+    }
     messages.append(new_msg)
 
-# final request
-msg = call_llm(messages=messages, tools=tools)
+# final request with tool call results
+msg = call_llm(messages, api_base_url, api_model, api_key, tools = [get_weather_schema])
+messages.append(msg)
 print(msg["content"]) # The weather in Paris is currently 56°F and cloudy.
 ```
 
-The sequence of the communication between the user (us) and the various APIs is as follows:
+The final message sequence to/from the LLM API and the `get_weather()` tool call
+are represented in the table below. Note that the tool output is sent to the LLM
+API using a message with `"tool"` role, not the typical `"user"` role.
 
-1. `call_llm()`: initial prompt message + tool definitions (`get_weather(location)`)
-2. LLM API responds with tool call: `get_weather("location" = "Paris")`
-3. `get_weather()`: request to Weather API: `{"location": "Paris"}`
-4. Weather API response: "The weather in Paris is sunny."
-5. `call_llm()`: tool call output: "The weather in Paris is sunny."
-6. LLM API's final response to the prompt: "The weather in Paris is sunny."
- 
-![tool call flow](tool_call_simple.png)
+| `role`                             | `content`                                           | `tool_calls`                                                    |
+| :--------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------------- |
+| `user`                             | "What is the weather in Paris?"                     |                                                                 |
+| `assistant`                        | *None*                                              | `{"arguments": '{"location": "Paris"}', "name": 'get_weather'}` |
+| *run tool:* `get_weather("Paris")` |                                                     |                                                                 |
+| `tool`                             | "Paris: ☁️  +56°F"                                |                                                                 |
+| `assistant`                        | "The weather in Paris is currently 56°F and cloudy" |                                                                 |
+
+
 
