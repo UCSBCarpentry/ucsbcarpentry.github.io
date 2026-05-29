@@ -2,7 +2,7 @@
 title:  What is an AI Agent?
 ---
 
-The prolific software developer and writer on AI-assisted coding, Simon Willison
+The prolific software developer and writer on AI-assisted coding, Simon Willison,
 describes [AI agents](https://simonwillison.net/tags/ai-agents/) as "**LLMs
 calling tools in a loop to achieve a goal**". It's a good definition,
 particularly if you are already familiar with the technical sense of the terms.
@@ -15,7 +15,7 @@ Real-world agents (for example, coding agents) can be quite complicated pieces
 of software. However, the core features of an agent are surprisingly simple to
 implement. You might be surprised at how little code it takes to build an agent
 that can do useful work! Because our goal is pedagogical, not practical, we'll
-use plain Python as much as possible. If you're goal is to build a sophisticated
+use plain Python as much as possible. If your goal is to build a sophisticated
 agent with little effort, you should probably use one of the many agent SDKs
 designed for the purpose -- or just ask your coding agent to!
 
@@ -31,7 +31,7 @@ APIs. Instead of running models directly, the program makes HTTP “requests” 
 an LLM model provider over the web. Agents talk to model providers the same way
 your web browser talks to web servers: using HTTP. An advantage of this approach
 is that it makes the software easier to write and run. We don’t need specialized
-hardware for running models, and we don’t need to complex machine learning
+hardware for running models, and we don’t need complex machine learning
 frameworks (like PyTorch). Instead, we just need an HTTP client, like Python’s
 [requests](https://pypi.org/project/requests/) library.
 
@@ -94,10 +94,10 @@ def call_llm(messages, api_base_url, api_model, api_key, tools=None):
     return resp["choices"][0]["message"]
 ```
 
-The `call_llm()` function takes several arguments but the primary input for the LLM is
-the list of `messages`; the function also returns a new message object with the
-output from the LLM. Let's take a closer look at what these "message" objects
-consist of.
+The `call_llm()` function takes several arguments, but the primary input for the
+LLM is the list of `messages`; the function also returns a new message object
+with the output from the LLM. Let's take a closer look at what these "message"
+objects consist of.
 
 ## Chat Completion Message Structure
 
@@ -117,7 +117,7 @@ Messages are json objects (Python dicts) with `role` and `content` keys:
 
 We'll talk about the "tool" role a little later (and we're mostly ignoring the
 "system" role in this guide). In a simple, chat-based exchange (without tool
-calls), the "messages" lists consists of alternating "user" and "assistant"
+calls), the "messages" list consists of alternating "user" and "assistant"
 messages. To illustrate, let's use `call_llm()`, with a single prompt: "What is
 the weather in Paris?"
 
@@ -186,7 +186,7 @@ It is expected to stay clear and cool throughout the evening, with temperatures 
 Similar weather is expected tomorrow, with mostly sunny skies and a high of 14°C (57°F).
 ```
 
-At the time, this descriptions was not accurate. In fact, running the script
+At the time, this description was not accurate. In fact, running the script
 multiple times returned completely different weather conditions! That's because
 the model doesn't actually know what the weather in Paris is, so it makes up the
 answer. It "hallucinates" a plausible description of the weather. One way to
@@ -242,8 +242,8 @@ print(msg["content"]) # None
 print(msg["too_calls"][0][function]) # {"arguments": "{'location': 'Paris'}", "name": "get_weather"}`
 ```
 
-The response has changed in a few ways. First, doesn't include any `content`
-(the `content` key is still present in the response message, but its values is
+The response has changed in a few ways. First, it doesn't include any `content`
+(the `content` key is still present in the response message, but its value is
 `None`). Second, there is a new key, `tool_calls`, which is a list of objects
 like this:
 
@@ -259,11 +259,11 @@ run `get_weather()` and make an additional request with the output
 from the tool call. 
 
 It's time to implement the `get_weather()` function so that we can call it from
-our python code. We'll use https://wttr.in as it provides a free, simple API
+our Python code. We'll use https://wttr.in as it provides a free, simple API
 that is sufficient for our purposes:
 
 ```py
-# get_weather is our python implemention of the `get_weather` tool.
+# get_weather is our Python implementation of the `get_weather` tool.
 # It gets the current weather for a given location using a weather
 # API (wttr.in)
 def get_weather(location: str) -> str:
@@ -299,7 +299,7 @@ for call in msg["tool_calls"]:
     args = json.loads(call["function"]["arguments"])
     result = get_weather(**args)
     
-    # message with tool cal output
+    # message with tool call output
     new_msg =  {
         "role": "tool",
         "tool_call_id": call["id"],
@@ -424,7 +424,7 @@ send_message_schema = {
                 },
                 "message": {
                     "type": "string",
-                    "description": "the body of the messsage",
+                    "description": "the body of the message",
                 },
             },
             "required": ["to", "message"],
@@ -433,8 +433,8 @@ send_message_schema = {
 }
 ```
 
-Next, we provide a Python implementation of `send_messages`. For demonstration
-purposes, we will simply store the messages in an dictionary acting as an inbox
+Next, we provide a Python implementation of `send_message`. For demonstration
+purposes, we will simply store the messages in a dictionary acting as an inbox
 for multiple users.
 
 ```python
@@ -487,5 +487,5 @@ print(inboxes["tom"])
 # ['The current weather in Paris is ☁️ 59°F with a 9mph wind.']
 ```
 
-We gave the LLM a goal, we gave it relevant *tools*, and it used those those
+We gave the LLM a goal, we gave it relevant *tools*, and it used those
 tools to achieve a goal!
