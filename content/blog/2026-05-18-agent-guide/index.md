@@ -38,8 +38,9 @@ frameworks (like PyTorch). Instead, we just need an HTTP client, like Python’s
 Model providers (like OpenAI, Anthropic, Google, AWS, etc.) expect programs to
 use specific APIs to interact with their LLMs. OpenAI’s [Chat Completion
 API](https://developers.openai.com/api/reference/resources/chat), is one of the
-oldest and most widely supported APIs for interacting with LLMs--and it’s the API
-we’ll use here.
+oldest and most widely supported APIs for interacting with LLMs--and it’s the
+API we’ll use here. There are other APIs with similar affordances, such as
+Anthropic's Messages API, but the basic concepts are the same.
 
 To make HTTP requests to an LLM provider using the Chat Completion API, you need
 four things: 
@@ -169,7 +170,7 @@ The final `messages` list would include the following:
 | `assistant` | `"It is 13°C (55°F) with clear skies..."` |
 
 
-## Use 'Tools' to Avoid Hallucinations
+## Using 'Tools' to Avoid Hallucinations
 
 When I ran this script above, with the prompt "What is the weather in Paris?", I received the response:
 
@@ -264,7 +265,7 @@ It's time to implement the `get_weather()` function so that we can call it from
 our Python code. We'll use https://wttr.in as it provides a free, simple API
 that is sufficient for our purposes:
 
-```py
+```python
 # get_weather is our Python implementation of the `get_weather` tool.
 # It gets the current weather for a given location using a weather
 # API (wttr.in)
@@ -288,10 +289,7 @@ The tool call output is included in the message of a second request, using the
 
 
 ```python
-# continuing from above ...
-# msg = call_llm(messages, api_base_url, api_model, api_key, tools = [get_weather_schema])
-
-# run tool call in response:
+# process tool calls from response message
 for call in msg["tool_calls"]:
 
     # parse tool call function name and arguments
@@ -353,7 +351,7 @@ response no longer contains `tool_calls`. Notice that the `tools` argument
 expected by `agent_loop()` differs from the `tools` argument of `call_llm()`.
 While `call_llm()` only expects tool schemas (metadata) to pass to the API,
 `agent_loop()` expects a list of tuples containing both the schema *and* the
-executable Python function. The agent loop needs both because it making API
+executable Python function. The agent loop needs both because it is making API
 requests and also processing tools.
 
 ```python
@@ -403,7 +401,7 @@ def agent_loop(prompt, api_base_url, api_model, api_key, tools=None):
     return messages
 ```
 
-## Adding Multiple Tools
+## Using Multiple Tools
 
 The real power of an agent loop becomes apparent when we provide the LLM with
 multiple tools. The model can then orchestrate calling these tools in sequence
@@ -481,7 +479,7 @@ The complete list of messages returned from `agent_loop()` looks like this:
 Reading the message list, we can see that the LLM responded to the initial
 prompt with two tool calls in a row: the first to get the weather in Paris, and
 the second to send the message to Tom. The final message from the LLM
-"assistant" confirms that that message was sent. The agent loop ends because
+"assistant" confirms that message was sent. The agent loop ends because
 this message doesn't include additional tool calls.
 
 We can also confirm that Tom received a message:
@@ -493,3 +491,31 @@ print(inboxes["tom"])
 
 We gave the LLM a goal, we gave it relevant *tools*, and it used those
 tools to achieve a goal!
+
+## Where to go from here
+
+Agents are able do (hopefully) useful work through the integration of LLMs and
+agent tools via an API. Modern LLMs are specifically trained to respond to use
+tools through techniques like [reinforcement
+learning](https://en.wikipedia.org/wiki/Reinforcement_learning). The Chat
+Completion API and similar APIs, like Anthropic's Messages API, allow us to
+include tool definitions in our requests *to the LLM*, receive tool calls *from
+the LLM*, and feed results *back to the LLM*. Ultimately, the agent is
+responsible for carrying-out the action by processing tool calls.
+
+Agents are largely defined by the tools they make available to the LLM. The most
+salient difference between our weather-checking agent and a sophisticated coding
+agent is the tool set. Coding agents include tools for reading and writing text
+and running shell commands. Real-world agents are significantly more complex
+because they have to handle a wide variety of edge cases that our simple loop
+ignores. They need to manage context limits (compaction or summarization when
+the conversation gets too long), handle interruptions from the user, deal with
+API rate limits, retry failed tool calls intelligently, and prevent the agent
+from getting stuck in infinite loops.
+
+If you are interested in exploring agent development further, you should
+probably check out an agent framework and library, like
+[smolagents](https://github.com/huggingface/smolagents),
+[AutoGen](https://github.com/microsoft/autogen),
+[LangGraph](https://github.com/langchain-ai/langgraph), or
+[LlamaIndex](https://www.llamaindex.ai/).
