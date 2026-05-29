@@ -345,12 +345,14 @@ calls.
 
 ![The Agent Loop](agent-loop.svg)
 
-To implement this "agent loop" in Python, we can create a function that
-repeatedly calls the LLM, checks if the response contains any `tool_calls`,
-executes them, and appends the results back to our conversation history. The
-loop breaks when the LLM's response no longer contains tool calls. 
-
-Notice that the `tools` argument expected by `agent_loop()` differs from the `tools` argument of `call_llm()`. While `call_llm()` only expects tool schemas (metadata) to pass to the API, `agent_loop()` expects a list of tuples containing both the schema *and* the executable Python function, so it can actually run the requested tools.
+To implement an agent in Python, we will create a function called `agent_loop()`
+that makes a request, runs tools, and makes additional requests until the LLM
+response no longer contains `tool_calls`. Notice that the `tools` argument
+expected by `agent_loop()` differs from the `tools` argument of `call_llm()`.
+While `call_llm()` only expects tool schemas (metadata) to pass to the API,
+`agent_loop()` expects a list of tuples containing both the schema *and* the
+executable Python function. The agent loop needs both because it making API
+requests and also processing tools.
 
 ```python
 import json
@@ -463,13 +465,7 @@ tools = [
 messages = agent_loop(prompt, api_base_url, api_model, api_key, tools=tools)
 ```
 
-Behind the scenes, the LLM recognizes that it needs the current weather in Paris
-first. It issues a tool call to `get_weather`. Once our loop provides the
-weather data back to the model, it realizes it has the information needed to
-fulfill the second part of the user's request and issues another tool call to
-`send_message`.
-
-If we print out the conversation transcript as the agent executes, it looks like this:
+The complete list of messages returned from `agent_loop()` looks like this:
 
 | Role        | Content / Tool Call                                                          |
 | :---------- | :--------------------------------------------------------------------------- |
@@ -480,7 +476,13 @@ If we print out the conversation transcript as the agent executes, it looks like
 | `tool`      | "Message sent to Tom"                                                        |
 | `assistant` | "OK. I've sent that message to Tom."                                         |
 
-Let's confirm that the message was actually sent to Tom:
+Reading the message list, we can see that the LLM responded to the initial
+prompt with two tool calls in a row: the first to get the weather in Paris, and
+the second to send the message to Tom. The final message from the LLM
+"assistant" confirms that that message was sent. The agent loop ends because
+this message doesn't include additional tool calls.
+
+We can also confirm that Tom received a message:
 
 ```python
 print(inboxes["tom"])
