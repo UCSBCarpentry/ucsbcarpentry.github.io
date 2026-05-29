@@ -276,7 +276,7 @@ def get_weather(location: str) -> str:
         return f"Could not get weather for {location}: {e}"
 
 # example
-get_weather("Paris") # "paris: ☁️  +56°F"
+get_weather("Paris") # "Paris: ☁️  +56°F"
 ```
 
 Now that we have implemented `get_weather`, we can call the Python function
@@ -345,3 +345,147 @@ calls.
 
 ![The Agent Loop](agent-loop.svg)
 
+To implement this "agent loop" in Python, we can create a function that
+repeatedly calls the LLM, checks if the response contains any `tool_calls`,
+executes them, and appends the results back to our conversation history. The
+loop breaks when the LLM's response no longer contains tool calls. 
+
+Notice that the `tools` argument expected by `agent_loop()` differs from the `tools` argument of `call_llm()`. While `call_llm()` only expects tool schemas (metadata) to pass to the API, `agent_loop()` expects a list of tuples containing both the schema *and* the executable Python function, so it can actually run the requested tools.
+
+```python
+import json
+
+def agent_loop(prompt, api_base_url, api_model, api_key, tools=None):
+    """
+    Run the main agent loop, interacting with the LLM and executing any requested tools.
+    Returns list of messages from the agent's interaction.
+    """
+    tools = tools or []
+
+    # Separate schemas for the API and build a dictionary of implementations
+    tool_schemas = [schema for schema, func in tools]
+    tool_funcs = {schema["function"]["name"]: func for schema, func in tools}
+
+    # messages is our full context. Initially, just the user prompt
+    messages = [{"role": "user", "content": prompt}]
+    
+    while True:
+        # Call the LLM with the current conversation history and available tool schemas
+        msg = call_llm(messages, api_base_url, api_model, api_key, tools=tool_schemas)
+        messages.append(msg)
+
+        # break the loop when the response is not a tool call
+        if not msg.get("tool_calls"):
+            break
+
+        # run all tool calls in the message and append tool call results to messages
+        for call in msg.get("tool_calls", []):
+            args = json.loads(call["function"]["arguments"])
+            name = call["function"]["name"]
+
+            if name in tool_funcs:
+                func = tool_funcs[name]
+                try:
+                    result = func(**args)
+                except Exception as e:
+                    result = f"Error executing {name}: {e}"
+            else:
+                result = f"Error: Tool {name} not found."
+
+            messages.append(
+                {"role": "tool", "tool_call_id": call["id"], "content": str(result)}
+            )
+
+    return messages
+```
+
+## Adding Multiple Tools
+
+The real power of an agent loop becomes apparent when we provide the LLM with
+multiple tools. The model can then orchestrate calling these tools in sequence
+to achieve a multi-step goal. Let's add a second tool, `send_message`, which
+simulates sending a message to a specific recipient. 
+
+First, we define the tool definition for `send_message`:
+
+```python
+# send_message_schema describes the `send_message` tool
+send_message_schema = {
+    "type": "function",
+    "function": {
+        "name": "send_message",
+        "description": "send a message to someone",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "to": {
+                    "type": "string",
+                    "description": "the person to send the message to",
+                },
+                "message": {
+                    "type": "string",
+                    "description": "the body of the messsage",
+                },
+            },
+            "required": ["to", "message"],
+        },
+    },
+}
+```
+
+Next, we provide a Python implementation of `send_messages`. For demonstration
+purposes, we will simply store the messages in an dictionary acting as an inbox
+for multiple users.
+
+```python
+# A fake email inbox to store messages
+inboxes = {}
+
+def send_message(to: str, message: str):
+    to_key = to.lower()
+    if to_key not in inboxes:
+        inboxes[to_key] = []
+    inboxes[to_key].append(message)
+    return f"Message sent to {to}"
+```
+
+Now, we can give our agent a more complex prompt: *"Send a message to Tom about
+the weather in Paris."* For the agent loop, `tools` includes both the tool
+definitions and the tool implementations as tuples.
+
+```python
+prompt = "Send a message to Tom about the weather in Paris."
+tools = [
+    (get_weather_schema, get_weather),
+    (send_message_schema, send_message)
+]
+
+messages = agent_loop(prompt, api_base_url, api_model, api_key, tools=tools)
+```
+
+Behind the scenes, the LLM recognizes that it needs the current weather in Paris
+first. It issues a tool call to `get_weather`. Once our loop provides the
+weather data back to the model, it realizes it has the information needed to
+fulfill the second part of the user's request and issues another tool call to
+`send_message`.
+
+If we print out the conversation transcript as the agent executes, it looks like this:
+
+| Role        | Content / Tool Call                                                          |
+| :---------- | :--------------------------------------------------------------------------- |
+| `user`      | "Send a message to Tom about the weather in Paris."                          |
+| `assistant` | tool call: `{"arguments": "{'location': 'Paris'}", "name": "get_weather"}` |
+| `tool`      | "Paris: ☁️  🌡️+59°F 🌬️↘9mph"                                                 |
+| `assistant` | tool call: `{"arguments": "{'to': 'Tom', 'message': 'The current weather in Paris is ☁️ 59°F with a 9mph wind.'}", "name": "send_message"}` |
+| `tool`      | "Message sent to Tom"                                                        |
+| `assistant` | "OK. I've sent that message to Tom."                                         |
+
+Let's confirm that the message was actually sent to Tom:
+
+```python
+print(inboxes["tom"])
+# ['The current weather in Paris is ☁️ 59°F with a 9mph wind.']
+```
+
+We gave the LLM a goal, we gave it relevant *tools*, and it used those those
+tools to achieve a goal!
