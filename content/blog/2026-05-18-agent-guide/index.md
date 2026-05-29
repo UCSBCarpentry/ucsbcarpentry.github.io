@@ -1,5 +1,10 @@
 ---
-title:  What is an AI Agent?
+title: What is an AI Agent?
+author: Seth Erickson
+tags:
+  - guide
+  - ai
+  - python
 ---
 
 The prolific software developer and writer on AI-assisted coding, Simon
@@ -46,7 +51,7 @@ To make HTTP requests to an LLM provider using the Chat Completion API, you need
 four things: 
 
 1. A list of "messages" with the user prompt as the last message (described in detail below)
-2. The API’s base URL (e.g, `https://litellm.dreamlab.ucsb.edu`)
+2. The API’s base URL (e.g., `https://litellm.dreamlab.ucsb.edu`)
 3. The name of the model to use (e.g., `gemini-3-flash-preview`)
 4. An API access key to authenticate requests
 
@@ -62,7 +67,7 @@ def call_llm(messages, api_base_url, api_model, api_key, tools=None):
     """Makes a request using the Chat Completion API.
 
     Args:
-        messages (list): A list of "message" objects, with prompt
+        messages (list): A list of "message" objects, with prompt.
         api_base_url (str): The URL of our API endpoint.
         api_model (str): Name of the model to use.
         api_key (str): An API key.
@@ -479,7 +484,7 @@ The complete list of messages returned from `agent_loop()` looks like this:
 Reading the message list, we can see that the LLM responded to the initial
 prompt with two tool calls in a row: the first to get the weather in Paris, and
 the second to send the message to Tom. The final message from the LLM
-"assistant" confirms that message was sent. The agent loop ends because
+"assistant" confirms that the message was sent. The agent loop ends because
 this message doesn't include additional tool calls.
 
 We can also confirm that Tom received a message:
@@ -494,8 +499,8 @@ tools to achieve a goal!
 
 ## Where to go from here
 
-Agents are able do (hopefully) useful work through the integration of LLMs and
-agent tools via an API. Modern LLMs are specifically trained to respond to use
+Agents are able to do (hopefully) useful work through the integration of LLMs and
+agent tools via an API. Modern LLMs are specifically trained to use
 tools through techniques like [reinforcement
 learning](https://en.wikipedia.org/wiki/Reinforcement_learning). The Chat
 Completion API and similar APIs, like Anthropic's Messages API, allow us to
