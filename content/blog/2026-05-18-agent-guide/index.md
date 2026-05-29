@@ -2,14 +2,15 @@
 title:  What is an AI Agent?
 ---
 
-The prolific software developer and writer on AI-assisted coding, Simon Willison,
-describes [AI agents](https://simonwillison.net/tags/ai-agents/) as "**LLMs
-calling tools in a loop to achieve a goal**". It's a good definition,
-particularly if you are already familiar with the technical sense of the terms.
-If you aren't, you might be wondering: What is a "tool", and how does a language
-model "call" one? In this post, I want to add some technical specificity to
-Willison's definition by showing how to build a very simple agent: we'll build a
-program in which an LLM calls tools in a loop to achieve a goal.
+The prolific software developer and writer on AI-assisted coding, Simon
+Willison, describes [AI agents](https://simonwillison.net/tags/ai-agents/) as
+**Large Language Models (LLMs) calling tools in a loop to achieve a goal**. It's
+a good definition, particularly if you are already familiar with the technical
+sense of the terms. If you aren't, you might be wondering: What is a "tool", and
+how does a language model "call" one? In this post, I want to add some technical
+specificity to Willison's definition by showing how to build a very simple
+agent: we'll build a program in which an LLM calls tools in a loop to achieve a
+goal.
 
 Real-world agents (for example, coding agents) can be quite complicated pieces
 of software. However, the core features of an agent are surprisingly simple to
@@ -19,17 +20,16 @@ use plain Python as much as possible. If your goal is to build a sophisticated
 agent with little effort, you should probably use one of the many agent SDKs
 designed for the purpose -- or just ask your coding agent to!
 
-To follow this guide, you need an environment to run Python scripts and API
-access to a large language model (LLM) provider. We will be using the DREAM
-Lab’s AI gateway as our LLM provider, but other model providers should also
-work.
+To follow this guide, you will need to know how to run Python scripts and have
+API access to an LLM provider. We will be using the DREAM Lab’s AI gateway as
+our LLM provider, but other model providers should also work.
 
 ## Using LLMs through APIs
 
 Most computer programs, like agents, that *use* LLMs do so through web-based
-APIs. Instead of running models directly, the program makes HTTP “requests” to
-an LLM model provider over the web. Agents talk to model providers the same way
-your web browser talks to web servers: using HTTP. An advantage of this approach
+APIs. Agents talk to model providers the same way your web browser talks to web
+servers: using HTTP. Instead of running models directly, the program makes HTTP
+“requests” to an LLM model provider over the web. An advantage of this approach
 is that it makes the software easier to write and run. We don’t need specialized
 hardware for running models, and we don’t need complex machine learning
 frameworks (like PyTorch). Instead, we just need an HTTP client, like Python’s
@@ -42,8 +42,12 @@ oldest and most widely supported APIs for interacting with LLMs--and it’s the 
 we’ll use here.
 
 To make HTTP requests to an LLM provider using the Chat Completion API, you need
-four things: a prompt (or "message"), the API’s base URL, the name of the model
-you want use, and an API access key. 
+four things: 
+
+1. A list of "messages" with the user prompt as the last message (described in detail below)
+2. The API’s base URL (e.g, `https://litellm.dreamlab.ucsb.edu`)
+3. The name of the model to use (e.g., `gemini-3-flash-preview`)
+4. An API access key to authenticate requests
 
 The core of our agent is a Python function, `call_llm()`, that uses the
 `requests` library to make HTTP requests to an LLM model provider using the Chat
@@ -57,10 +61,10 @@ def call_llm(messages, api_base_url, api_model, api_key, tools=None):
     """Makes a request using the Chat Completion API.
 
     Args:
-        messages (list): A list of "message" objects, described in more detail below.
-        api_base_url (str): The URL of our API endpoint (ex: `https://litellm.dreamlab.ucsb.edu`).
-        api_model (str): Name of the model to use (ex: `gemini-3-flash-preview`).
-        api_key (str): An API key to authorize the request.
+        messages (list): A list of "message" objects, with prompt
+        api_base_url (str): The URL of our API endpoint.
+        api_model (str): Name of the model to use.
+        api_key (str): An API key.
         tools (list, optional): An optional list of tool definitions.
 
     Returns:
@@ -94,10 +98,9 @@ def call_llm(messages, api_base_url, api_model, api_key, tools=None):
     return resp["choices"][0]["message"]
 ```
 
-The `call_llm()` function takes several arguments, but the primary input for the
-LLM is the list of `messages`; the function also returns a new message object
-with the output from the LLM. Let's take a closer look at what these "message"
-objects consist of.
+The primary input for `call_llm()` is the list of `messages`; its output is
+a new message with the response from the LLM API. Let's take a closer
+look at what these "message" objects consist of.
 
 ## Chat Completion Message Structure
 
@@ -105,8 +108,7 @@ The Chat Completion API expects a list of message objects representing the
 conversation history. The message list represents the full context of a
 multi-turn dialogue, typically between a "user" and the LLM "assistant". The
 entire conversation history (the `messages` list) must be included with each
-request, otherwise the LLM won't "remember" the full context of the
-conversation.
+request. This is how the LLM "remembers" the full context of the conversation.
 
 Messages are json objects (Python dicts) with `role` and `content` keys:
 
