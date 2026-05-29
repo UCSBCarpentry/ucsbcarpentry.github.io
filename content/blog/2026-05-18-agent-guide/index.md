@@ -26,8 +26,9 @@ agent with little effort, you should probably use one of the many agent SDKs
 designed for the purpose -- or just ask your coding agent to!
 
 To follow this guide, you will need to know how to run Python scripts and have
-API access to an LLM provider. We will be using the DREAM Lab’s AI gateway as
-our LLM provider, but other model providers should also work.
+API access to an LLM provider. We will be using [DREAM Lab’s AI
+gateway](https://dreamlab.ucsb.edu/guides/ai-gateway.html) as our LLM provider,
+but other model providers should also work.
 
 ## Using LLMs through APIs
 
