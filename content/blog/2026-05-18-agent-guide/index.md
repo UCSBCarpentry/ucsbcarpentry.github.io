@@ -23,7 +23,7 @@ implement. You might be surprised at how little code it takes to build an agent
 that can do useful work! Because our goal is pedagogical, not practical, we'll
 use plain Python as much as possible. If your goal is to build a sophisticated
 agent with little effort, you should probably use one of the many agent SDKs
-designed for the purpose -- or just ask your coding agent to!
+designed for the purpose -- or ask your coding agent to!
 
 To follow this guide, you will need to know how to run Python scripts and have
 API access to an LLM provider. We will be using [DREAM Lab’s AI
@@ -57,8 +57,8 @@ four things:
 4. An API access key to authenticate requests
 
 The core of our agent is a Python function, `call_llm()`, that uses the
-`requests` library to make HTTP requests to an LLM model provider using the Chat
-Completion API. 
+`requests` library to make a single HTTP requests to an LLM model provider using
+the Chat Completion API. 
 
 ```python
 import requests
@@ -105,17 +105,19 @@ def call_llm(messages, api_base_url, api_model, api_key, tools=None):
     return resp["choices"][0]["message"]
 ```
 
-The primary input for `call_llm()` is the list of `messages`; its output is a
-new message with the response from the LLM API. Let's take a closer look at what
-these "message" objects consist of.
+This might look complicated, but the gist of `call_llm()` is that it sends
+"messages" to a web server that understands the Chat Completion API and returns
+a new message with the LLM's response. A list of messages go in, a single
+message comes back. Now let's take a closer look at what these "message" consist
+of.
 
 ## Chat Completion Message Structure
 
-The Chat Completion API expects a list of message objects representing the
-conversation history. The message list represents the full context of a
-multi-turn dialogue, typically between a "user" and the LLM "assistant". The
-entire conversation history (the `messages` list) must be included with each
-request. This is how the LLM "remembers" the full context of the conversation.
+The Chat Completion API expects a list of messages representing the conversation
+history. The message list represents the full context of a multi-turn dialogue,
+typically between a "user" and the LLM "assistant". The entire conversation
+history (the `messages` list) must be included with each request. This is how
+the LLM "remembers" the full context of the conversation.
 
 Messages are json objects (Python dicts) with `role` and `content` keys:
 
@@ -134,7 +136,7 @@ the weather in Paris?"
 import os
 
 # messages with initial prompt (user role)
-prompt = "What is the weather in Paris"
+prompt = "What is the weather in Paris?"
 messages = [{"role": "user", "content": prompt}]
 
 # api config
@@ -210,10 +212,12 @@ concerned with *implementing* the tool. First, we just want to change our
 request so that the LLM API is aware of the tool.
 
 The optional `tools` argument of our `call_llm()` function is used to provide
-the LLM API with structured descriptions of tools it can call. In this context,
-you can think of "tools" as metadata describing a function in terms of inputs
-and outputs. Here's how we would describe our `get_weather` tool using the Chat
-Completion API:
+the LLM API with structured descriptions of tools it can call. The structure is
+defined by the [Chat Completion
+API](https://developers.openai.com/api/reference/resources/chat). In this
+context, you can think of "tools" as metadata describing a function in terms of
+inputs and outputs. Here's how we would describe our `get_weather` tool using
+the Chat Completion API:
 
 ```python
 # get_weather_schema describes the `get_weather` tool.
@@ -268,8 +272,8 @@ run `get_weather()` and make an additional request with the output
 from the tool call. 
 
 It's time to implement the `get_weather()` function so that we can call it from
-our Python code. We'll use https://wttr.in as it provides a free, simple API
-that is sufficient for our purposes:
+our Python code. We'll use https://wttr.in, a site that provides a simple (free)
+API for fetching current weather.
 
 ```python
 # get_weather is our Python implementation of the `get_weather` tool.
@@ -506,13 +510,13 @@ tools through techniques like [reinforcement
 learning](https://en.wikipedia.org/wiki/Reinforcement_learning). The Chat
 Completion API and similar APIs, like Anthropic's Messages API, allow us to
 include tool definitions in our requests *to the LLM*, receive tool calls *from
-the LLM*, and feed results *back to the LLM*. Ultimately, the agent is
+the LLM*, and feed results *back to the LLM*. Ultimately, the agent (our code) is
 responsible for carrying-out the action by processing tool calls.
 
 Agents are largely defined by the tools they make available to the LLM. The most
 salient difference between our weather-checking agent and a sophisticated coding
 agent is the tool set. Coding agents include tools for reading and writing text
-and running shell commands. Real-world agents are significantly more complex
+and running shell commands. Also, real-world agents are significantly more complex
 because they have to handle a wide variety of edge cases that our simple loop
 ignores. They need to manage context limits (compaction or summarization when
 the conversation gets too long), handle interruptions from the user, deal with
@@ -522,6 +526,5 @@ from getting stuck in infinite loops.
 If you are interested in exploring agent development further, you should
 probably check out an agent framework and library, like
 [smolagents](https://github.com/huggingface/smolagents),
-[AutoGen](https://github.com/microsoft/autogen),
-[LangGraph](https://github.com/langchain-ai/langgraph), or
-[LlamaIndex](https://www.llamaindex.ai/).
+[Pydantic AI](https://github.com/pydantic/pydantic-ai), or
+[LangGraph](https://github.com/langchain-ai/langgraph).
