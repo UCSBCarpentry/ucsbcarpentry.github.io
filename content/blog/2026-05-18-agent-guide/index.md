@@ -98,9 +98,9 @@ def call_llm(messages, api_base_url, api_model, api_key, tools=None):
     return resp["choices"][0]["message"]
 ```
 
-The primary input for `call_llm()` is the list of `messages`; its output is
-a new message with the response from the LLM API. Let's take a closer
-look at what these "message" objects consist of.
+The primary input for `call_llm()` is the list of `messages`; its output is a
+new message with the response from the LLM API. Let's take a closer look at what
+these "message" objects consist of.
 
 ## Chat Completion Message Structure
 
