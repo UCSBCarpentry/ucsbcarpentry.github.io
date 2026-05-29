@@ -42,8 +42,8 @@ oldest and most widely supported APIs for interacting with LLMs--and it’s the 
 we’ll use here.
 
 To make HTTP requests to an LLM provider using the Chat Completion API, you need
-three things: the API’s base URL, the name of the model you want use, and an API
-access key. 
+four things: a prompt (or "message"), the API’s base URL, the name of the model
+you want use, and an API access key. 
 
 The core of our agent is a Python function, `call_llm()`, that uses the
 `requests` library to make HTTP requests to an LLM model provider using the Chat
@@ -94,7 +94,7 @@ def call_llm(messages, api_base_url, api_model, api_key, tools=None):
     return resp["choices"][0]["message"]
 ```
 
-The `call_llm()` takes several arguments but the primary input for the LLM is
+The `call_llm()` function takes several arguments but the primary input for the LLM is
 the list of `messages`; the function also returns a new message object with the
 output from the LLM. Let's take a closer look at what these "message" objects
 consist of.
