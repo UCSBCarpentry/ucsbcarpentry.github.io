@@ -1,0 +1,5 @@
+graph LR
+    User["User<br/>(role: user)"] -->|"prompt"| LLM["LLM<br/>(role: assistant)"]
+    LLM -->|"result"| User
+    LLM -->|"tool_calls: [...]"| Agent["Agent Tools<br/>(role: tool)"]
+    Agent -->|"tool result"| LLM
