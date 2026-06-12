@@ -2,7 +2,7 @@
 
 <h2>Workshops</h2>
 
-{{ $cutoff := time "2026-05-01" }}
+{{ $cutoff := time "2026-07-01" }}
 {{ $workshops := where .Site.RegularPages "Section" "workshop" }}
 {{ $sortedWorkshops := sort $workshops "Date" }}
 {{ $lastWorkshop := index (last 1 $sortedWorkshops) 0 }}
