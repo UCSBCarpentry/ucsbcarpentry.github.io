@@ -7,7 +7,7 @@ human_date: "July 15"
 year: 2026
 location:
 instructors: Juliet Cohen, Seth Erickson, Jairo Melo-Flórez
-helpers:
+helpers: Jay Chi, Jose Nino Muriel
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-07-15-ucsb-containers"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-07-15-ucsb-containers"
 shoreline_url:
