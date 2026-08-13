@@ -14,6 +14,18 @@ url: /past-workshops/
 	    <td><b>2026 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>July 16, 23, and 30</td><td><a href="/workshop/2026/07/16/ucsb-ai/">AI-Assisted Coding for Research</a></td>
+	</tr>
+    <tr>    
+	    <td>July 15</td><td><a href="/workshop/2026/07/15/ucsb-containers">A gentle, hands-on introduction to containers and virtual machines</a></td>
+	</tr>
+    <tr>
+	    <td>May 11 - 26</td><td><a href="/workshop/2026/05/11/uc-lc.html">2026 UC Library Carpentry Workshop Series</a></td>
+	</tr>
+    <tr>
+	    <td>May 4 and 5</td><td><a href="/workshop/2026/05/04/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop</a></td>
+	</tr>
+    <tr>
 	    <td>April 13, 15, and 20</td><td><a href="/workshop/2026/04/13/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
 	</tr>
     <tr>
