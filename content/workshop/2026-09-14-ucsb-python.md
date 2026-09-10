@@ -5,9 +5,9 @@ title: "Introduction to Python for MTM Students"
 time: 1:00 PM - 4:00 PM PST
 human_date: "September 14, 16, and 18"
 year: 2026
-location: UC Santa Barbara Library
+location: 1410 Phelps Hall
 instructors: Seth Erickson, Jose Niño Muriel
-helpers: Jay Chi
+helpers: Jay Chi, Celine Tsoi
 pre_workshop_survey:
 post_workshop_survey:
 lesson_url: "https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/"
