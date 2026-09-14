@@ -11,6 +11,6 @@ helpers: Jay Chi, Celine Tsoi
 pre_workshop_survey:
 post_workshop_survey:
 lesson_url: "https://ucsbcarpentry.github.io/2025-01-14-python-ecology-lesson/"
-jupyter_url: "https://carpentryworkshop.lsit.ucsb.edu/"
+jupyter_url: "https://carpentryworkshop.jhub.college.ucsb.edu/"
 description: "This three-day workshop offers a comprehensive introduction to Python, specifically designed for participants with no prior programming experience. Through the use of Jupyter notebooks, learners will get started coding in Python. The workshop will cover essential skills such as data loading and analysis, automation of data processing tasks, and the creation of basic plots for data visualization."
 ---
