@@ -14,6 +14,12 @@ url: /past-workshops/
 	    <td><b>2026 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>September 14, 16, and 18</td><td><a href="/workshop/2026/09/14/ucsb-python/">Introduction to Python for MTM Students</a></td>
+	</tr>
+    <tr>
+	    <td>September 8 - 23</td><td><a href="/workshop/2026/09/08/UC/">2026 UC Carpentries Workshop Series (Remote)</a></td>
+	</tr>
+    <tr>
 	    <td>July 16, 23, and 30</td><td><a href="/workshop/2026/07/16/ucsb-ai/">AI-Assisted Coding for Research</a></td>
 	</tr>
     <tr>    
