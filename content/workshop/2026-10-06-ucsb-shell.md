@@ -6,7 +6,7 @@ time: 3:00 PM - 6:00 PM PT
 human_date: "October 6"
 year: 2026
 location: UC Santa Library, Room 1312
-instructors: Jon Jablonski
+instructors: Jon Jablonski, Greg Janee
 helpers: Jose Nino Muriel
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-10-06-ucsb-shell"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-10-06-ucsb-shell"
