@@ -7,7 +7,7 @@ human_date: "October 6"
 year: 2026
 location: UC Santa Library, Room 1312
 instructors: Jon Jablonski, Greg Janee
-helpers: Jose Nino Muriel
+helpers: Julien Brun, Ian Lessing
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-10-06-ucsb-shell"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-10-06-ucsb-shell"
 lesson_url: "https://swcarpentry.github.io/shell-novice/"

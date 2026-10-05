@@ -7,7 +7,7 @@ human_date: "October 22"
 year: 2026
 location: UCSB Library, Room 2509
 instructors: Renata Curty, Jose Nino Muriel
-helpers:
+helpers: Greg Janée, Jairo Melo-Flórez
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-10-22-ucsb-qualcoder"
 post_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_0lD2XHnezknmSr4?slug=2026-10-22-ucsb-qualcoder"
 shoreline_url: https://cglink.me/2dD/r2273865
