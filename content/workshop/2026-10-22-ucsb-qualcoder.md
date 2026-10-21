@@ -5,7 +5,7 @@ title: "Intro to Qualitative Data Analysis with Qualcoder"
 time: 9:00 AM - 12:00 AM PT
 human_date: "October 22"
 year: 2026
-location: UCSB Library, Room 2509
+location: Online
 instructors: Renata Curty, Jose Nino Muriel
 helpers: Greg Janée, Jairo Melo-Flórez
 pre_workshop_survey: "https://ucsb.co1.qualtrics.com/jfe/form/SV_bJeIoxjp1A9Xx3M?slug=2026-10-22-ucsb-qualcoder"
