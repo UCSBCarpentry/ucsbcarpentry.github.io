@@ -2,7 +2,7 @@
 
 <h2>Workshops</h2>
 
-{{ $cutoff := time "2026-09-21" }}
+{{ $cutoff := time "2026-11-01" }}
 {{ $workshops := where .Site.RegularPages "Section" "workshop" }}
 {{ $sortedWorkshops := sort $workshops "Date" }}
 {{ $lastWorkshop := index (last 1 $sortedWorkshops) 0 }}
@@ -18,6 +18,19 @@
     <li> We don't have any more workshops scheduled this quarter. Join our <a href="https://groups.google.com/u/1/a/library.ucsb.edu/g/carpentry/about" target="_blank">mailing list</a> to hear about future workshops. </li>
     <li> Have ideas for what we should offer next? <a href="https://tinyurl.com/future-workshops-ucsbcarpentry" target="_blank">Let us know here</a>. </li>
 {{ end }}
+</ul>
+
+<h2>Related events</h2>
+<ul>
+  <li>Thursdays this Fall: <a href="https://bit.ly/D2D_2026Fall" target="_blank">Data to Discovery Series (30-minute sessions on documenting research)</a></li>
+  <li>October 28: <a href="https://www.library.ucsb.edu/events-exhibitions/document-your-research-thinking-using-obsidian" target="_blank">Document your Research Thinking using Obsidian</a></li>
+  <li>November 3: <a href="https://www.library.ucsb.edu/events-exhibitions/researcher-identity-i-researcher-profiles" target="_blank">Researcher Profiles</a></li>
+  <li>November 5: <a href="https://ucospo.net/events/#all-campus-meetup-2026-11" target="_blank">Open source and your tech transfer office</a></li>
+  <li>November 6: <a href="https://www.library.ucsb.edu/events-exhibitions/workshop-intro-arcgis-online-part-1" target="_blank">How to make a map with ArcGIS Online</a></li>
+  <li>November 10: <a href="https://www.library.ucsb.edu/events-exhibitions/navigating-authorship-credit-rights-and-responsibility" target="_blank">Navigating Authorship: Credit, Rights, and Responsibility</a></li>
+  <li>November 12: <a href="https://www.library.ucsb.edu/events-exhibitions/introduction-protocolsio" target="_blank">Introduction to Protocols.io</a></li>
+  <li>November 13: <a href="https://www.library.ucsb.edu/events-exhibitions/workshop-intro-arcgis-online-part-2" target="_blank">Intro to ArcGIS Online (Part 2)</a></li>
+  <li>November 17: <a href="https://www.library.ucsb.edu/events-exhibitions/research-fundamentals-don%E2%80%99t-stop-answer-ai-research-partner" target="_blank">Don’t Stop at the Answer: AI as a Research Partner</a></li>
 </ul>
 
 <h2>Community Meetings</h2>

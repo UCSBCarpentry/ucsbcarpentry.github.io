@@ -14,6 +14,15 @@ url: /past-workshops/
 	    <td><b>2026 Workshops</b></td>
 	</tr>
     <tr>
+	    <td>october 22</td><td><a href="/workshop/2026/10/22/ucsb-qualcoder/">Intro to Qualitative Data Analysis with Qualcoder</a></td>
+	</tr>
+    <tr>
+	    <td>october 13</td><td><a href="/workshop/2026/10/13/ucsb-ai/">AI-Assisted Coding for Research</a></td>
+	</tr>
+    <tr>
+	    <td>October 6</td><td><a href="/workshop/2026/10/06/ucsb-shell/">Introduction to The Unix Shell</a></td>
+	</tr>
+    <tr>
 	    <td>September 14, 16, and 18</td><td><a href="/workshop/2026/09/14/ucsb-python/">Introduction to Python for MTM Students</a></td>
 	</tr>
     <tr>
